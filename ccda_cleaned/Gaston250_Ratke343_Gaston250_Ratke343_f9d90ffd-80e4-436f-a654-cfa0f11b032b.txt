@@ -1,0 +1,229 @@
+# Patient Record: Gaston250 Ratke343
+
+## Allergies
+There are no current allergies at the time of this document's creation.
+
+## Medications
+- Start: 2008-08-20T19:03:37-04:00, Description: ferrous sulfate 325 MG Oral Tablet, Code: RxNorm 310325
+- Start: 2012-09-03T19:03:37-04:00, Stop: 2012-09-17T19:03:37-04:00, Description: Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, Code: RxNorm 1043400
+- Start: 2013-03-04T18:03:37-05:00, Stop: 2013-03-25T19:03:37-04:00, Description: Acetaminophen 325 MG Oral Tablet, Code: RxNorm 313782
+
+## Diagnostic Results
+- Start: 2010-07-14T19:03:37-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2010-07-14T19:03:37-04:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2012-09-12T19:03:37-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2012-09-12T19:03:37-04:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+- Start: 2013-07-17T19:03:37-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2013-07-17T19:03:37-04:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2016-07-20T19:03:37-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2016-07-20T19:03:37-04:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2018-06-20T19:03:37-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2018-06-20T19:03:37-04:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+- Start: 2018-07-18T19:03:37-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2019-05-08T19:03:37-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+
+## Problems
+- Start: 2004-07-07T19:03:37-04:00, Description: Prediabetes, Code: SNOMED-CT 15777000
+- Start: 2008-08-20T19:03:37-04:00, Description: Anemia (disorder), Code: SNOMED-CT 271737000
+- Start: 2012-08-03T19:03:37-04:00, Stop: 2012-08-10T19:03:37-04:00, Description: Viral sinusitis (disorder), Code: SNOMED-CT 444814009
+- Start: 2012-09-03T19:03:37-04:00, Stop: 2012-09-17T19:03:37-04:00, Description: Acute bronchitis (disorder), Code: SNOMED-CT 10509002
+- Start: 2013-03-04T18:03:37-05:00, Stop: 2013-03-25T19:03:37-04:00, Description: First degree burn, Code: SNOMED-CT 403190006
+- Start: 2018-02-17T18:03:37-05:00, Stop: 2018-07-21T19:03:37-04:00, Description: Sinusitis (disorder), Code: SNOMED-CT 36971009
+- Start: 2018-06-09T19:03:37-04:00, Description: Chronic sinusitis (disorder), Code: SNOMED-CT 40055000
+
+## Surgeries
+- Start: 2012-09-03T19:03:37-04:00, Stop: 2012-09-03T19:26:37-04:00, Description: Measurement of respiratory function (procedure), Code: SNOMED-CT 23426006
+- Start: 2012-09-12T19:03:37-04:00, Stop: 2012-09-12T19:18:37-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2013-07-17T19:03:37-04:00, Stop: 2013-07-17T19:18:37-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2016-07-20T19:03:37-04:00, Stop: 2016-07-20T19:18:37-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2018-07-18T19:03:37-04:00, Stop: 2018-07-18T19:18:37-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+
+## Encounters
+- Start: 2004-07-07T19:03:37-04:00, Stop: 2004-07-07T19:18:37-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2008-08-14T19:03:37-04:00, Stop: 2008-08-14T19:21:37-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2008-08-20T19:03:37-04:00, Stop: 2008-08-20T20:22:37-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 2010-07-14T19:03:37-04:00, Stop: 2010-07-14T19:18:37-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2012-08-03T19:03:37-04:00, Stop: 2012-08-03T19:18:37-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2012-09-03T19:03:37-04:00, Stop: 2012-09-03T19:41:37-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2012-09-12T19:03:37-04:00, Stop: 2012-09-12T19:18:37-04:00, Description: Encounter for check up (procedure), Code: SNOMED-CT 185349003
+- Start: 2013-03-04T18:03:37-05:00, Stop: 2013-03-04T19:03:37-05:00, Description: Emergency room admission (procedure), Code: SNOMED-CT 50849002
+- Start: 2013-03-25T19:03:37-04:00, Stop: 2013-03-25T19:18:37-04:00, Description: Encounter for 'check-up', Code: SNOMED-CT 185349003
+- Start: 2013-07-17T19:03:37-04:00, Stop: 2013-07-17T19:33:37-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2016-07-20T19:03:37-04:00, Stop: 2016-07-20T19:33:37-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2018-02-17T18:03:37-05:00, Stop: 2018-02-17T18:18:37-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2018-06-09T19:03:37-04:00, Stop: 2018-06-09T19:18:37-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2018-06-20T19:03:37-04:00, Stop: 2018-06-20T19:18:37-04:00, Description: Encounter for check up (procedure), Code: SNOMED-CT 185349003
+- Start: 2018-07-07T19:03:37-04:00, Stop: 2018-07-07T19:18:37-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2018-07-18T19:03:37-04:00, Stop: 2018-07-18T19:18:37-04:00, Description: Encounter for check up (procedure), Code: SNOMED-CT 185349003
+- Start: 2019-05-08T19:03:37-04:00, Stop: 2019-05-08T19:18:37-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+
+## Vital Signs
+- Start: 2010-07-14T19:03:37-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 178.63586939195187 cm
+- Start: 2010-07-14T19:03:37-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.1362074996158475 {score}
+- Start: 2010-07-14T19:03:37-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 83.06779172964171 kg
+- Start: 2010-07-14T19:03:37-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 26.031268361987873 kg/m2
+- Start: 2010-07-14T19:03:37-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 83.92803583874013 mm[Hg]
+          Systolic Blood Pressure 102.90801391033114 mm[Hg]
+- Start: 2010-07-14T19:03:37-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 81.51696360324564 mg/dL
+- Start: 2010-07-14T19:03:37-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 16.22772083906676 mg/dL
+- Start: 2010-07-14T19:03:37-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.2575540692404092 mg/dL
+- Start: 2010-07-14T19:03:37-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.86987945960578 mg/dL
+- Start: 2010-07-14T19:03:37-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 142.724945182346 mmol/L
+- Start: 2010-07-14T19:03:37-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.612195378785595 mmol/L
+- Start: 2010-07-14T19:03:37-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 102.96210796995256 mmol/L
+- Start: 2010-07-14T19:03:37-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 22.9567279462509 mmol/L
+- Start: 2010-07-14T19:03:37-04:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 160.8911375682485 mg/dL
+- Start: 2010-07-14T19:03:37-04:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 108.39276495048288 mg/dL
+- Start: 2010-07-14T19:03:37-04:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 76.07375424923305 mg/dL
+- Start: 2010-07-14T19:03:37-04:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 63.13883032891887 mg/dL
+- Start: 2010-07-14T19:03:37-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2010-07-14T19:03:37-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 5.994409366028851 %
+- Start: 2012-09-12T19:03:37-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 178.63586939195187 cm
+- Start: 2012-09-12T19:03:37-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.639077015023927 {score}
+- Start: 2012-09-12T19:03:37-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 86.2936148283921 kg
+- Start: 2012-09-12T19:03:37-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 27.042156758361436 kg/m2
+- Start: 2012-09-12T19:03:37-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 78.7863639883654 mm[Hg]
+          Systolic Blood Pressure 111.08421718083163 mm[Hg]
+- Start: 2012-09-12T19:03:37-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 66.05386117934937 mg/dL
+- Start: 2012-09-12T19:03:37-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 15.328895412174765 mg/dL
+- Start: 2012-09-12T19:03:37-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.3060875241493264 mg/dL
+- Start: 2012-09-12T19:03:37-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 8.745374472279437 mg/dL
+- Start: 2012-09-12T19:03:37-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 140.3687965543119 mmol/L
+- Start: 2012-09-12T19:03:37-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.577376888419032 mmol/L
+- Start: 2012-09-12T19:03:37-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 110.35916641461824 mmol/L
+- Start: 2012-09-12T19:03:37-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 23.91498835154083 mmol/L
+- Start: 2012-09-12T19:03:37-04:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 4.355511653775372 10*3/uL
+- Start: 2012-09-12T19:03:37-04:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 4.198781724764511 10*6/uL
+- Start: 2012-09-12T19:03:37-04:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 16.635459804885507 g/dL
+- Start: 2012-09-12T19:03:37-04:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 49.500383099843305 %
+- Start: 2012-09-12T19:03:37-04:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 91.31933126391621 fL
+- Start: 2012-09-12T19:03:37-04:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 28.948247942649314 pg
+- Start: 2012-09-12T19:03:37-04:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 35.02544947928273 g/dL
+- Start: 2012-09-12T19:03:37-04:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 43.215871234504476 fL
+- Start: 2012-09-12T19:03:37-04:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 158.80350776941683 10*3/uL
+- Start: 2012-09-12T19:03:37-04:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 246.21328243100973 fL
+- Start: 2012-09-12T19:03:37-04:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 12.089541206390582 fL
+- Start: 2012-09-12T19:03:37-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2012-09-12T19:03:37-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.230364066887418 %
+- Start: 2013-07-17T19:03:37-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 178.63586939195187 cm
+- Start: 2013-07-17T19:03:37-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.6382460672495562 {score}
+- Start: 2013-07-17T19:03:37-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 88.14273178558227 kg
+- Start: 2013-07-17T19:03:37-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 27.621621539392127 kg/m2
+- Start: 2013-07-17T19:03:37-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 87.76549396959936 mm[Hg]
+          Systolic Blood Pressure 107.66605084503375 mm[Hg]
+- Start: 2013-07-17T19:03:37-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 77.65737727393062 mg/dL
+- Start: 2013-07-17T19:03:37-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 11.204534381179814 mg/dL
+- Start: 2013-07-17T19:03:37-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.2976568846210723 mg/dL
+- Start: 2013-07-17T19:03:37-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 8.975999101221596 mg/dL
+- Start: 2013-07-17T19:03:37-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 137.28145218001174 mmol/L
+- Start: 2013-07-17T19:03:37-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.490104408631773 mmol/L
+- Start: 2013-07-17T19:03:37-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 105.92574302811543 mmol/L
+- Start: 2013-07-17T19:03:37-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 24.254867215958804 mmol/L
+- Start: 2013-07-17T19:03:37-04:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 173.62760945159604 mg/dL
+- Start: 2013-07-17T19:03:37-04:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 149.56505049722068 mg/dL
+- Start: 2013-07-17T19:03:37-04:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 66.23988860221839 mg/dL
+- Start: 2013-07-17T19:03:37-04:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 77.47471074993352 mg/dL
+- Start: 2013-07-17T19:03:37-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2013-07-17T19:03:37-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.050321247687794 %
+- Start: 2016-07-20T19:03:37-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 178.63586939195187 cm
+- Start: 2016-07-20T19:03:37-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.3361246171471577 {score}
+- Start: 2016-07-20T19:03:37-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 92.82110829013601 kg
+- Start: 2016-07-20T19:03:37-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 29.087702095437535 kg/m2
+- Start: 2016-07-20T19:03:37-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 73.15516750955304 mm[Hg]
+          Systolic Blood Pressure 122.2167322499022 mm[Hg]
+- Start: 2016-07-20T19:03:37-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 92.26615194070186 mg/dL
+- Start: 2016-07-20T19:03:37-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 16.42494750917308 mg/dL
+- Start: 2016-07-20T19:03:37-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.327857521372779 mg/dL
+- Start: 2016-07-20T19:03:37-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 8.751134706664645 mg/dL
+- Start: 2016-07-20T19:03:37-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 138.08910019615996 mmol/L
+- Start: 2016-07-20T19:03:37-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.926935358844448 mmol/L
+- Start: 2016-07-20T19:03:37-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 110.27369474618718 mmol/L
+- Start: 2016-07-20T19:03:37-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 22.890311361770735 mmol/L
+- Start: 2016-07-20T19:03:37-04:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 166.880879131296 mg/dL
+- Start: 2016-07-20T19:03:37-04:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 146.8177241192689 mg/dL
+- Start: 2016-07-20T19:03:37-04:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 77.29779877152461 mg/dL
+- Start: 2016-07-20T19:03:37-04:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 60.219535535917615 mg/dL
+- Start: 2016-07-20T19:03:37-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2016-07-20T19:03:37-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 5.975817867057447 %
+- Start: 2018-06-20T19:03:37-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 178.63586939195187 cm
+- Start: 2018-06-20T19:03:37-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.2844376299368658 {score}
+- Start: 2018-06-20T19:03:37-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 95.69833284669757 kg
+- Start: 2018-06-20T19:03:37-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 29.989348846964567 kg/m2
+- Start: 2018-06-20T19:03:37-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 72.65998159904045 mm[Hg]
+          Systolic Blood Pressure 102.1522856633137 mm[Hg]
+- Start: 2018-06-20T19:03:37-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 65.51242501958684 mg/dL
+- Start: 2018-06-20T19:03:37-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 11.017018442562186 mg/dL
+- Start: 2018-06-20T19:03:37-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.3424349468772852 mg/dL
+- Start: 2018-06-20T19:03:37-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 8.564689407339703 mg/dL
+- Start: 2018-06-20T19:03:37-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 138.7104676559447 mmol/L
+- Start: 2018-06-20T19:03:37-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 3.7119648081758805 mmol/L
+- Start: 2018-06-20T19:03:37-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 107.71702204820774 mmol/L
+- Start: 2018-06-20T19:03:37-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 20.226430834162983 mmol/L
+- Start: 2018-06-20T19:03:37-04:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 6.911178142433961 10*3/uL
+- Start: 2018-06-20T19:03:37-04:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 3.931901010677976 10*6/uL
+- Start: 2018-06-20T19:03:37-04:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 14.815757035341976 g/dL
+- Start: 2018-06-20T19:03:37-04:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 38.68214998165948 %
+- Start: 2018-06-20T19:03:37-04:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 91.82261518962159 fL
+- Start: 2018-06-20T19:03:37-04:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 31.042342110313935 pg
+- Start: 2018-06-20T19:03:37-04:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 33.931212231171024 g/dL
+- Start: 2018-06-20T19:03:37-04:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 39.28235428218978 fL
+- Start: 2018-06-20T19:03:37-04:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 265.41527778977763 10*3/uL
+- Start: 2018-06-20T19:03:37-04:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 230.36067403681687 fL
+- Start: 2018-06-20T19:03:37-04:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 11.575478662007876 fL
+- Start: 2018-06-20T19:03:37-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2018-06-20T19:03:37-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.257422399440852 %
+- Start: 2018-07-18T19:03:37-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 178.63586939195187 cm
+- Start: 2018-07-18T19:03:37-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.9675319231215713 {score}
+- Start: 2018-07-18T19:03:37-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 95.69833284669757 kg
+- Start: 2018-07-18T19:03:37-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 29.989348846964567 kg/m2
+- Start: 2018-07-18T19:03:37-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 86.37670009685387 mm[Hg]
+          Systolic Blood Pressure 129.44689696072544 mm[Hg]
+- Start: 2018-07-18T19:03:37-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 93.12213231915109 mg/dL
+- Start: 2018-07-18T19:03:37-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 10.532120160014387 mg/dL
+- Start: 2018-07-18T19:03:37-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.7433658812126294 mg/dL
+- Start: 2018-07-18T19:03:37-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 8.852039396450625 mg/dL
+- Start: 2018-07-18T19:03:37-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 138.26177422522002 mmol/L
+- Start: 2018-07-18T19:03:37-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 5.198309175082764 mmol/L
+- Start: 2018-07-18T19:03:37-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 101.83902945586688 mmol/L
+- Start: 2018-07-18T19:03:37-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 28.904216951701844 mmol/L
+- Start: 2018-07-18T19:03:37-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2018-07-18T19:03:37-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.096190223331114 %
+- Start: 2019-05-08T19:03:37-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 178.63586939195187 cm
+- Start: 2019-05-08T19:03:37-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.7084271533086457 {score}
+- Start: 2019-05-08T19:03:37-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 97.5780697216785 kg
+- Start: 2019-05-08T19:03:37-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 30.578409107550407 kg/m2
+- Start: 2019-05-08T19:03:37-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 75.51754800358991 mm[Hg]
+          Systolic Blood Pressure 136.83487421531788 mm[Hg]
+- Start: 2019-05-08T19:03:37-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 72.35166640755057 mg/dL
+- Start: 2019-05-08T19:03:37-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 14.85421998463751 mg/dL
+- Start: 2019-05-08T19:03:37-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.621125307647944 mg/dL
+- Start: 2019-05-08T19:03:37-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 10.035913188728737 mg/dL
+- Start: 2019-05-08T19:03:37-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 140.78858767744242 mmol/L
+- Start: 2019-05-08T19:03:37-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.02377308756122 mmol/L
+- Start: 2019-05-08T19:03:37-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 107.18658279296581 mmol/L
+- Start: 2019-05-08T19:03:37-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 20.854119186338522 mmol/L
+- Start: 2019-05-08T19:03:37-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2019-05-08T19:03:37-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.299406990333183 %
+
+## Immunizations
+- Start: 2010-07-14T19:03:37-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2010-07-14T19:03:37-04:00, Description: Td (adult) preservative free, Code: http://hl7.org/fhir/sid/cvx 113
+- Start: 2012-09-12T19:03:37-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2013-07-17T19:03:37-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2016-07-20T19:03:37-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2018-06-20T19:03:37-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2018-07-18T19:03:37-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2019-05-08T19:03:37-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2019-05-08T19:03:37-04:00, Description: Hep A, adult, Code: http://hl7.org/fhir/sid/cvx 52
+
+## Plan of Care
+- Start: 2004-07-07T19:03:37-04:00, Description: Diabetes self management plan, Code: SNOMED-CT 698360004
+- Start: 2008-08-14T19:03:37-04:00, Stop: 2010-07-14T19:03:37-04:00, Description: Respiratory therapy, Code: SNOMED-CT 53950000
+- Start: 2012-09-03T19:03:37-04:00, Stop: 2013-07-17T19:03:37-04:00, Description: Respiratory therapy, Code: SNOMED-CT 53950000
+- Start: 2013-03-04T18:03:37-05:00, Stop: 2013-03-25T19:03:37-04:00, Description: Burn care, Code: SNOMED-CT 133901003
+
+## Imaging Studies
+There are no current imaging studies at the time of this document's creation.
+
+## Social History
+There is no current social history at the time of this document's creation.

@@ -1,0 +1,220 @@
+# Patient Record: Bertram873 Homenick806
+
+## Allergies
+There are no current allergies at the time of this document's creation.
+
+## Medications
+- Start: 2009-10-11T16:04:49-04:00, Stop: 2009-11-01T15:04:49-05:00, Description: Naproxen sodium 220 MG Oral Tablet, Code: RxNorm 849574
+- Start: 2011-12-18T15:04:49-05:00, Stop: 2011-12-25T15:04:49-05:00, Description: Acetaminophen 325 MG Oral Tablet, Code: RxNorm 313782
+
+## Diagnostic Results
+- Start: 2011-07-26T16:04:49-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2011-07-26T16:04:49-04:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+- Start: 2013-07-30T16:04:49-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2013-07-30T16:04:49-04:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2015-08-04T16:04:49-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2017-08-08T16:04:49-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 2017-08-08T16:04:49-04:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2017-08-08T16:04:49-04:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+
+## Problems
+- Start: 1990-03-03T15:04:49-05:00, Description: Chronic intractable migraine without aura, Code: SNOMED-CT 124171000119105
+- Start: 1990-06-13T16:04:49-04:00, Description: Chronic pain, Code: SNOMED-CT 82423001
+- Start: 1990-10-02T16:04:49-04:00, Description: Impacted molars, Code: SNOMED-CT 196416002
+- Start: 1999-09-28T16:04:49-04:00, Description: Prediabetes, Code: SNOMED-CT 15777000
+- Start: 2005-10-04T16:04:49-04:00, Description: Anemia (disorder), Code: SNOMED-CT 271737000
+- Start: 2009-10-11T16:04:49-04:00, Stop: 2009-11-01T15:04:49-05:00, Description: Laceration of foot, Code: SNOMED-CT 284551006
+- Start: 2011-12-18T15:04:49-05:00, Stop: 2011-12-25T15:04:49-05:00, Description: Acute bronchitis (disorder), Code: SNOMED-CT 10509002
+- Start: 2013-12-12T15:04:49-05:00, Description: Drug overdose, Code: SNOMED-CT 55680006
+
+## Surgeries
+- Start: 2009-10-11T16:04:49-04:00, Stop: 2009-10-11T16:28:49-04:00, Description: Suture open wound, Code: SNOMED-CT 288086009
+- Start: 2011-12-18T15:04:49-05:00, Stop: 2011-12-18T15:22:49-05:00, Description: Plain chest X-ray (procedure), Code: SNOMED-CT 399208008
+- Start: 2013-07-30T16:04:49-04:00, Stop: 2013-07-30T16:19:49-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2015-08-04T16:04:49-04:00, Stop: 2015-08-04T16:19:49-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+
+## Encounters
+- Start: 1990-03-03T15:04:49-05:00, Stop: 1990-03-04T15:04:49-05:00, Description: Encounter Inpatient, Code: SNOMED-CT 183452005
+- Start: 1990-06-13T16:04:49-04:00, Stop: 1990-06-14T16:04:49-04:00, Description: Encounter Inpatient, Code: SNOMED-CT 183452005
+- Start: 1990-10-02T16:04:49-04:00, Stop: 1990-10-03T16:19:49-04:00, Description: Encounter Inpatient, Code: SNOMED-CT 183452005
+- Start: 1999-09-28T16:04:49-04:00, Stop: 1999-09-28T16:19:49-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2005-10-04T16:04:49-04:00, Stop: 2005-10-04T16:34:49-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2009-03-25T16:04:49-04:00, Stop: 2009-03-25T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-04-24T16:04:49-04:00, Stop: 2009-04-24T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-05-24T16:04:49-04:00, Stop: 2009-05-24T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-06-23T16:04:49-04:00, Stop: 2009-06-23T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-07-23T16:04:49-04:00, Stop: 2009-07-23T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-08-22T16:04:49-04:00, Stop: 2009-08-22T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-09-21T16:04:49-04:00, Stop: 2009-09-21T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-10-11T16:04:49-04:00, Stop: 2009-10-11T17:28:49-04:00, Description: Emergency room admission (procedure), Code: SNOMED-CT 50849002
+- Start: 2009-10-21T16:04:49-04:00, Stop: 2009-10-21T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-11-20T15:04:49-05:00, Stop: 2009-11-20T15:19:49-05:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2009-12-20T15:04:49-05:00, Stop: 2009-12-20T15:19:49-05:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2010-01-19T15:04:49-05:00, Stop: 2010-01-19T15:19:49-05:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2010-06-10T16:04:49-04:00, Stop: 2010-06-11T16:04:49-04:00, Description: Drug rehabilitation and detoxification, Code: SNOMED-CT 56876005
+- Start: 2011-06-30T16:04:49-04:00, Stop: 2011-07-01T16:04:49-04:00, Description: Drug rehabilitation and detoxification, Code: SNOMED-CT 56876005
+- Start: 2011-07-26T16:04:49-04:00, Stop: 2011-07-26T16:19:49-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2011-12-18T15:04:49-05:00, Stop: 2011-12-18T15:37:49-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2011-12-27T15:04:49-05:00, Stop: 2011-12-27T15:19:49-05:00, Description: Urgent care clinic (procedure), Code: SNOMED-CT 702927004
+- Start: 2012-05-03T16:04:49-04:00, Stop: 2012-05-03T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2012-06-02T16:04:49-04:00, Stop: 2012-06-02T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2012-07-02T16:04:49-04:00, Stop: 2012-07-02T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2012-08-01T16:04:49-04:00, Stop: 2012-08-01T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2012-08-31T16:04:49-04:00, Stop: 2012-08-31T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2012-09-30T16:04:49-04:00, Stop: 2012-09-30T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2012-10-30T16:04:49-04:00, Stop: 2012-10-30T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2013-07-30T16:04:49-04:00, Stop: 2013-07-30T16:34:49-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2013-12-12T15:04:49-05:00, Stop: 2013-12-12T16:04:49-05:00, Description: Emergency Room Admission, Code: SNOMED-CT 50849002
+- Start: 2014-01-02T15:04:49-05:00, Stop: 2014-01-02T15:19:49-05:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2014-02-01T15:04:49-05:00, Stop: 2014-02-01T15:19:49-05:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2014-05-12T16:04:49-04:00, Stop: 2014-05-12T17:04:49-04:00, Description: Emergency Room Admission, Code: SNOMED-CT 50849002
+- Start: 2014-06-02T16:04:49-04:00, Stop: 2014-06-02T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2014-07-02T16:04:49-04:00, Stop: 2014-07-02T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2014-08-01T16:04:49-04:00, Stop: 2014-08-01T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2014-08-31T16:04:49-04:00, Stop: 2014-08-31T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2015-03-24T16:04:49-04:00, Stop: 2015-03-24T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2015-04-23T16:04:49-04:00, Stop: 2015-04-23T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2015-05-23T16:04:49-04:00, Stop: 2015-05-23T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2015-07-13T16:04:49-04:00, Stop: 2015-07-13T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2015-08-04T16:04:49-04:00, Stop: 2015-08-04T16:34:49-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2016-05-11T16:04:49-04:00, Stop: 2016-05-11T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2017-03-24T16:04:49-04:00, Stop: 2017-03-25T16:04:49-04:00, Description: Drug rehabilitation and detoxification, Code: SNOMED-CT 56876005
+- Start: 2017-04-28T16:04:49-04:00, Stop: 2017-04-28T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2017-05-28T16:04:49-04:00, Stop: 2017-05-28T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2017-06-27T16:04:49-04:00, Stop: 2017-06-27T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2017-07-27T16:04:49-04:00, Stop: 2017-07-27T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2017-08-08T16:04:49-04:00, Stop: 2017-08-08T16:19:49-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2017-08-26T16:04:49-04:00, Stop: 2017-08-26T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2017-09-25T16:04:49-04:00, Stop: 2017-09-25T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2017-10-25T16:04:49-04:00, Stop: 2017-10-25T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2017-11-24T15:04:49-05:00, Stop: 2017-11-24T15:19:49-05:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2018-05-13T16:04:49-04:00, Stop: 2018-05-13T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2018-06-12T16:04:49-04:00, Stop: 2018-06-12T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2018-07-12T16:04:49-04:00, Stop: 2018-07-12T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2018-08-11T16:04:49-04:00, Stop: 2018-08-11T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2018-09-10T16:04:49-04:00, Stop: 2018-09-10T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2018-10-10T16:04:49-04:00, Stop: 2018-10-10T16:19:49-04:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2018-11-09T15:04:49-05:00, Stop: 2018-11-09T15:19:49-05:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2018-12-09T15:04:49-05:00, Stop: 2018-12-09T15:19:49-05:00, Description: Encounter for problem (procedure), Code: SNOMED-CT 185347001
+- Start: 2019-03-12T16:04:49-04:00, Stop: 2019-03-12T17:04:49-04:00, Description: Emergency Room Admission, Code: SNOMED-CT 50849002
+
+## Vital Signs
+- Start: 2010-06-10T16:04:49-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 4.914277813462143 {score}
+- Start: 2011-06-30T16:04:49-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.4543751826492937 {score}
+- Start: 2011-07-26T16:04:49-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 164.95640004085183 cm
+- Start: 2011-07-26T16:04:49-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.9824624268947058 {score}
+- Start: 2011-07-26T16:04:49-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 81.94906623499887 kg
+- Start: 2011-07-26T16:04:49-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 30.11658115935338 kg/m2
+- Start: 2011-07-26T16:04:49-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 71.2826304503007 mm[Hg]
+          Systolic Blood Pressure 117.05420296148533 mm[Hg]
+- Start: 2011-07-26T16:04:49-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 64.52924654893438 mg/dL
+- Start: 2011-07-26T16:04:49-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 12.614454390399302 mg/dL
+- Start: 2011-07-26T16:04:49-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.137715810587619 mg/dL
+- Start: 2011-07-26T16:04:49-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.893867691592956 mg/dL
+- Start: 2011-07-26T16:04:49-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 141.85103692916297 mmol/L
+- Start: 2011-07-26T16:04:49-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 3.8019962462399652 mmol/L
+- Start: 2011-07-26T16:04:49-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 107.23895592121876 mmol/L
+- Start: 2011-07-26T16:04:49-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 21.076453265528652 mmol/L
+- Start: 2011-07-26T16:04:49-04:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 6.2701204973488585 10*3/uL
+- Start: 2011-07-26T16:04:49-04:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 5.335845127147141 10*6/uL
+- Start: 2011-07-26T16:04:49-04:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 13.989319773798695 g/dL
+- Start: 2011-07-26T16:04:49-04:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 45.32842823545347 %
+- Start: 2011-07-26T16:04:49-04:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 91.2947577606117 fL
+- Start: 2011-07-26T16:04:49-04:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 32.145822478649116 pg
+- Start: 2011-07-26T16:04:49-04:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 33.23617441658753 g/dL
+- Start: 2011-07-26T16:04:49-04:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 42.09141147577253 fL
+- Start: 2011-07-26T16:04:49-04:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 206.4313728294089 10*3/uL
+- Start: 2011-07-26T16:04:49-04:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 320.4240438641239 fL
+- Start: 2011-07-26T16:04:49-04:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 11.241793461812946 fL
+- Start: 2011-07-26T16:04:49-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2011-07-26T16:04:49-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.035340646825521 %
+- Start: 2013-07-30T16:04:49-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 164.95640004085183 cm
+- Start: 2013-07-30T16:04:49-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.2298279275320998 {score}
+- Start: 2013-07-30T16:04:49-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 82.11670559845028 kg
+- Start: 2013-07-30T16:04:49-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 30.17818923772256 kg/m2
+- Start: 2013-07-30T16:04:49-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 85.23138312893994 mm[Hg]
+          Systolic Blood Pressure 137.42729303460231 mm[Hg]
+- Start: 2013-07-30T16:04:49-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 79.53746923355015 mg/dL
+- Start: 2013-07-30T16:04:49-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 7.8918178620208295 mg/dL
+- Start: 2013-07-30T16:04:49-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.2498041292567348 mg/dL
+- Start: 2013-07-30T16:04:49-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.205345482623255 mg/dL
+- Start: 2013-07-30T16:04:49-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 141.33960729706808 mmol/L
+- Start: 2013-07-30T16:04:49-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.080670536932838 mmol/L
+- Start: 2013-07-30T16:04:49-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 110.6229143153362 mmol/L
+- Start: 2013-07-30T16:04:49-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 25.86920514785666 mmol/L
+- Start: 2013-07-30T16:04:49-04:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 198.82840312257838 mg/dL
+- Start: 2013-07-30T16:04:49-04:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 108.68278950228884 mg/dL
+- Start: 2013-07-30T16:04:49-04:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 110.0442081763525 mg/dL
+- Start: 2013-07-30T16:04:49-04:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 67.04763704576813 mg/dL
+- Start: 2013-07-30T16:04:49-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2013-07-30T16:04:49-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.357900557047396 %
+- Start: 2015-08-04T16:04:49-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 164.95640004085183 cm
+- Start: 2015-08-04T16:04:49-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.7761876063765594 {score}
+- Start: 2015-08-04T16:04:49-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 82.11670559845028 kg
+- Start: 2015-08-04T16:04:49-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 30.17818923772256 kg/m2
+- Start: 2015-08-04T16:04:49-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 84.7204837163706 mm[Hg]
+          Systolic Blood Pressure 116.00658200593844 mm[Hg]
+- Start: 2015-08-04T16:04:49-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 79.46180208696241 mg/dL
+- Start: 2015-08-04T16:04:49-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 15.793086208754701 mg/dL
+- Start: 2015-08-04T16:04:49-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.0948894079793372 mg/dL
+- Start: 2015-08-04T16:04:49-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.034859201105329 mg/dL
+- Start: 2015-08-04T16:04:49-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 138.8339956628148 mmol/L
+- Start: 2015-08-04T16:04:49-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.24259960835516 mmol/L
+- Start: 2015-08-04T16:04:49-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 107.5244348312959 mmol/L
+- Start: 2015-08-04T16:04:49-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 24.833506528483866 mmol/L
+- Start: 2015-08-04T16:04:49-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2015-08-04T16:04:49-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.133777782301114 %
+- Start: 2017-03-24T16:04:49-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 4.945899738735114 {score}
+- Start: 2017-08-08T16:04:49-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 164.95640004085183 cm
+- Start: 2017-08-08T16:04:49-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.5135743677119806 {score}
+- Start: 2017-08-08T16:04:49-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 82.11670559845028 kg
+- Start: 2017-08-08T16:04:49-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 30.17818923772256 kg/m2
+- Start: 2017-08-08T16:04:49-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 81.4820251719197 mm[Hg]
+          Systolic Blood Pressure 129.60916588507683 mm[Hg]
+- Start: 2017-08-08T16:04:49-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 77.98118597875964 mg/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 17.103168618605793 mg/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 1.0720792119797675 mg/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 8.811931140383562 mg/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 139.89955038200634 mmol/L
+- Start: 2017-08-08T16:04:49-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.721262421164479 mmol/L
+- Start: 2017-08-08T16:04:49-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 101.26087620093703 mmol/L
+- Start: 2017-08-08T16:04:49-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 21.31735504761502 mmol/L
+- Start: 2017-08-08T16:04:49-04:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 165.1061216690716 mg/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 100.15435685439226 mg/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 85.24913554230449 mg/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 59.82611475588865 mg/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 5.037353383875613 10*3/uL
+- Start: 2017-08-08T16:04:49-04:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 4.358479766231238 10*6/uL
+- Start: 2017-08-08T16:04:49-04:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 12.352529209034916 g/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 38.46913465201305 %
+- Start: 2017-08-08T16:04:49-04:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 88.74962723455089 fL
+- Start: 2017-08-08T16:04:49-04:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 30.909521692290223 pg
+- Start: 2017-08-08T16:04:49-04:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 33.30502299242738 g/dL
+- Start: 2017-08-08T16:04:49-04:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 40.59032145676259 fL
+- Start: 2017-08-08T16:04:49-04:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 370.6351727489773 10*3/uL
+- Start: 2017-08-08T16:04:49-04:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 356.10904372695165 fL
+- Start: 2017-08-08T16:04:49-04:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 12.126926038186525 fL
+- Start: 2017-08-08T16:04:49-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2017-08-08T16:04:49-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.357028296755251 %
+
+## Immunizations
+- Start: 2011-07-26T16:04:49-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2011-07-26T16:04:49-04:00, Description: Hep A, adult, Code: http://hl7.org/fhir/sid/cvx 52
+- Start: 2011-12-27T15:04:49-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2013-07-30T16:04:49-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2013-07-30T16:04:49-04:00, Description: Td (adult) preservative free, Code: http://hl7.org/fhir/sid/cvx 113
+- Start: 2013-07-30T16:04:49-04:00, Description: Hep A, adult, Code: http://hl7.org/fhir/sid/cvx 52
+- Start: 2015-08-04T16:04:49-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2017-08-08T16:04:49-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+
+## Plan of Care
+- Start: 1999-09-28T16:04:49-04:00, Description: Diabetes self management plan, Code: SNOMED-CT 698360004
+- Start: 2009-10-11T16:04:49-04:00, Stop: 2009-11-01T15:04:49-05:00, Description: Wound care, Code: SNOMED-CT 225358003
+- Start: 2011-12-18T15:04:49-05:00, Stop: 2013-07-30T16:04:49-04:00, Description: Respiratory therapy, Code: SNOMED-CT 53950000
+- Start: 2013-12-12T15:04:49-05:00, Description: Care plan (record artifact), Code: SNOMED-CT 734163000
+
+## Imaging Studies
+There are no current imaging studies at the time of this document's creation.
+
+## Social History
+There is no current social history at the time of this document's creation.

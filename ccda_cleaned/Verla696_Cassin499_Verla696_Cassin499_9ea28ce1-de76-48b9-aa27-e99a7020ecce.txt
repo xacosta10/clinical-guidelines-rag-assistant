@@ -1,0 +1,273 @@
+# Patient Record: Verla696 Cassin499
+
+## Allergies
+There are no current allergies at the time of this document's creation.
+
+## Medications
+- Start: 2010-09-24T23:48:43-04:00, Stop: 2011-09-19T23:48:43-04:00, Description: 1 ML medroxyprogesterone acetate 150 MG/ML Injection, Code: RxNorm 1000126
+- Start: 2011-09-19T23:48:43-04:00, Stop: 2012-09-13T23:48:43-04:00, Description: 1 ML medroxyprogesterone acetate 150 MG/ML Injection, Code: RxNorm 1000126
+- Start: 2012-06-26T23:48:43-04:00, Stop: 2012-07-10T23:48:43-04:00, Description: Acetaminophen 325 MG Oral Tablet, Code: RxNorm 313782
+- Start: 2013-09-28T23:48:43-04:00, Stop: 2014-09-23T23:48:43-04:00, Description: 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe, Code: RxNorm 1000156
+- Start: 2015-04-28T23:48:43-04:00, Stop: 2015-05-12T23:48:43-04:00, Description: Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, Code: RxNorm 1043400
+- Start: 2015-09-18T23:48:43-04:00, Stop: 2016-09-20T23:48:43-04:00, Description: Mirena 52 MG Intrauterine System, Code: RxNorm 807283
+- Start: 2017-09-15T23:48:43-04:00, Stop: 2018-09-10T23:48:43-04:00, Description: Trinessa 28 Day Pack, Code: RxNorm 751905
+- Start: 2018-07-22T23:48:43-04:00, Stop: 2018-08-12T23:48:43-04:00, Description: Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet, Code: RxNorm 562251
+- Start: 2018-09-10T23:48:43-04:00, Stop: 2019-09-05T23:48:43-04:00, Description: Etonogestrel 68 MG Drug Implant, Code: RxNorm 389221
+- Start: 2019-04-02T23:48:43-04:00, Stop: 2019-04-09T23:48:43-04:00, Description: Nitrofurantoin 5 MG/ML Oral Suspension, Code: RxNorm 311989
+- Start: 2019-04-02T23:48:43-04:00, Stop: 2019-04-09T23:48:43-04:00, Description: Phenazopyridine hydrochloride 100 MG Oral Tablet, Code: RxNorm 1094107
+- Start: 2019-09-05T23:48:43-04:00, Description: Yaz 28 Day Pack, Code: RxNorm 748856
+
+## Diagnostic Results
+- Start: 2012-06-02T23:48:43-04:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2012-06-02T23:48:43-04:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+- Start: 2015-06-06T23:48:43-04:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2018-03-24T23:48:43-04:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+
+## Problems
+- Start: 2008-12-13T22:48:43-05:00, Description: Chronic sinusitis (disorder), Code: SNOMED-CT 40055000
+- Start: 2008-12-20T22:48:43-05:00, Description: Body mass index 30+ - obesity (finding), Code: SNOMED-CT 162864005
+- Start: 2012-06-26T23:48:43-04:00, Stop: 2012-07-10T23:48:43-04:00, Description: Acute bronchitis (disorder), Code: SNOMED-CT 10509002
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2013-08-17T23:48:43-04:00, Description: Normal pregnancy, Code: SNOMED-CT 72892002
+- Start: 2014-05-30T23:48:43-04:00, Stop: 2014-06-06T23:48:43-04:00, Description: Viral sinusitis (disorder), Code: SNOMED-CT 444814009
+- Start: 2015-04-26T23:48:43-04:00, Stop: 2015-05-12T23:48:43-04:00, Description: Acute bronchitis (disorder), Code: SNOMED-CT 10509002
+- Start: 2018-07-22T23:48:43-04:00, Stop: 2018-08-12T23:48:43-04:00, Description: Viral sinusitis (disorder), Code: SNOMED-CT 444814009
+- Start: 2019-03-08T22:48:43-05:00, Stop: 2019-04-09T23:48:43-04:00, Description: Cystitis, Code: SNOMED-CT 38822007
+
+## Surgeries
+- Start: 2010-09-24T23:48:43-04:00, Stop: 2010-09-25T00:05:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2011-01-01T22:48:43-05:00, Stop: 2011-01-01T23:01:43-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2011-04-02T23:48:43-04:00, Stop: 2011-04-03T00:03:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2011-07-02T23:48:43-04:00, Stop: 2011-07-03T00:01:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2011-09-19T23:48:43-04:00, Stop: 2011-09-20T00:03:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2011-10-01T23:48:43-04:00, Stop: 2011-10-02T00:06:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2011-12-31T22:48:43-05:00, Stop: 2011-12-31T23:01:43-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2012-03-31T23:48:43-04:00, Stop: 2012-04-01T00:07:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2012-06-30T23:48:43-04:00, Stop: 2012-07-01T00:01:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2012-09-29T23:48:43-04:00, Stop: 2012-09-30T00:06:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Standard pregnancy test, Code: SNOMED-CT 252160004
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Ultrasound scan for fetal viability, Code: SNOMED-CT 169230002
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Blood typing, RH typing, Code: SNOMED-CT 44608003
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Hemoglobin / Hematocrit / Platelet count, Code: SNOMED-CT 104091002
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Hepatitis B Surface Antigen Measurement, Code: SNOMED-CT 47758006
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Human immunodeficiency virus antigen test, Code: SNOMED-CT 31676001
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Chlamydia antigen test, Code: SNOMED-CT 310861008
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Gonorrhea infection test, Code: SNOMED-CT 165829005
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Syphilis infection test, Code: SNOMED-CT 269828009
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Urine culture, Code: SNOMED-CT 117010004
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Cytopathology procedure, preparation of smear, genital source, Code: SNOMED-CT 90226004
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Urine screening test for diabetes, Code: SNOMED-CT 395123002
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Hepatitis C antibody test, Code: SNOMED-CT 104375008
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Rubella screening, Code: SNOMED-CT 169690007
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Measurement of Varicella-zoster virus antibody, Code: SNOMED-CT 104326007
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Skin test for tuberculosis, Code: SNOMED-CT 28163009
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Urine protein test, Code: SNOMED-CT 167271000
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-29T23:03:43-05:00, Description: Physical examination of mother, Code: SNOMED-CT 5880005
+- Start: 2013-01-26T22:48:43-05:00, Stop: 2013-01-26T23:03:43-05:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-01-26T22:48:43-05:00, Stop: 2013-01-26T23:03:43-05:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-01-26T22:48:43-05:00, Stop: 2013-01-26T23:03:43-05:00, Description: Screening for chromosomal aneuploidy in prenatal amniotic fluid, Code: SNOMED-CT 443529005
+- Start: 2013-02-23T22:48:43-05:00, Stop: 2013-02-23T23:03:43-05:00, Description: Fetal anatomy study, Code: SNOMED-CT 271442007
+- Start: 2013-02-23T22:48:43-05:00, Stop: 2013-02-23T23:03:43-05:00, Description: Alpha-fetoprotein test, Code: SNOMED-CT 275833003
+- Start: 2013-02-23T22:48:43-05:00, Stop: 2013-02-23T23:03:43-05:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-02-23T22:48:43-05:00, Stop: 2013-02-23T23:03:43-05:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-03-23T23:48:43-04:00, Stop: 2013-03-24T00:03:43-04:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-03-23T23:48:43-04:00, Stop: 2013-03-24T00:03:43-04:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-04-20T23:48:43-04:00, Stop: 2013-04-21T00:03:43-04:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-04-20T23:48:43-04:00, Stop: 2013-04-21T00:03:43-04:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-05-18T23:48:43-04:00, Stop: 2013-05-19T00:03:43-04:00, Description: Hemoglobin / Hematocrit / Platelet count, Code: SNOMED-CT 104091002
+- Start: 2013-05-18T23:48:43-04:00, Stop: 2013-05-19T00:03:43-04:00, Description: Vaccination for diphtheria, pertussis, and tetanus, Code: SNOMED-CT 399014008
+- Start: 2013-05-18T23:48:43-04:00, Stop: 2013-05-19T00:03:43-04:00, Description: Urine screening for glucose, Code: SNOMED-CT 268556000
+- Start: 2013-05-18T23:48:43-04:00, Stop: 2013-05-19T00:03:43-04:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-05-18T23:48:43-04:00, Stop: 2013-05-19T00:03:43-04:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-06-15T23:48:43-04:00, Stop: 2013-06-16T00:03:43-04:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-06-15T23:48:43-04:00, Stop: 2013-06-16T00:03:43-04:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-07-13T23:48:43-04:00, Stop: 2013-07-14T00:03:43-04:00, Description: Streptococcus pneumoniae group B antigen test, Code: SNOMED-CT 118001005
+- Start: 2013-07-13T23:48:43-04:00, Stop: 2013-07-14T00:03:43-04:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-07-13T23:48:43-04:00, Stop: 2013-07-14T00:03:43-04:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-07-27T23:48:43-04:00, Stop: 2013-07-28T00:03:43-04:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-07-27T23:48:43-04:00, Stop: 2013-07-28T00:03:43-04:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-08-03T23:48:43-04:00, Stop: 2013-08-04T00:03:43-04:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-08-03T23:48:43-04:00, Stop: 2013-08-04T00:03:43-04:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-08-10T23:48:43-04:00, Stop: 2013-08-11T00:03:43-04:00, Description: Evaluation of uterine fundal height, Code: SNOMED-CT 274804006
+- Start: 2013-08-10T23:48:43-04:00, Stop: 2013-08-11T00:03:43-04:00, Description: Auscultation of the fetal heart, Code: SNOMED-CT 225158009
+- Start: 2013-08-17T23:48:43-04:00, Stop: 2013-08-18T00:03:43-04:00, Description: Epidural anesthesia, Code: SNOMED-CT 18946005
+- Start: 2013-08-17T23:48:43-04:00, Stop: 2013-08-18T00:03:43-04:00, Description: Childbirth, Code: SNOMED-CT 66348005
+- Start: 2013-09-28T23:48:43-04:00, Stop: 2013-09-29T00:03:43-04:00, Description: Physical examination following birth, Code: SNOMED-CT 5880005
+- Start: 2013-09-28T23:48:43-04:00, Stop: 2013-09-29T00:03:43-04:00, Description: Depression screening, Code: SNOMED-CT 171207006
+- Start: 2013-09-28T23:48:43-04:00, Stop: 2013-09-29T00:07:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2014-01-04T22:48:43-05:00, Stop: 2014-01-04T23:06:43-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2014-04-05T23:48:43-04:00, Stop: 2014-04-06T00:05:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2014-05-31T23:48:43-04:00, Stop: 2014-06-01T00:03:43-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2014-07-05T23:48:43-04:00, Stop: 2014-07-06T00:04:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2014-10-04T23:48:43-04:00, Stop: 2014-10-05T00:06:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2015-01-03T22:48:43-05:00, Stop: 2015-01-03T22:58:43-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2015-04-04T23:48:43-04:00, Stop: 2015-04-05T00:04:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2015-04-28T23:48:43-04:00, Stop: 2015-04-28T23:58:43-04:00, Description: Measurement of respiratory function (procedure), Code: SNOMED-CT 23426006
+- Start: 2015-06-06T23:48:43-04:00, Stop: 2015-06-07T00:03:43-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2015-07-04T23:48:43-04:00, Stop: 2015-07-05T00:07:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2015-09-22T23:48:43-04:00, Stop: 2015-09-23T00:42:43-04:00, Description: Insertion of intrauterine contraceptive device, Code: SNOMED-CT 65200003
+- Start: 2015-10-03T23:48:43-04:00, Stop: 2015-10-03T23:58:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-01-02T22:48:43-05:00, Stop: 2016-01-02T23:05:43-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-04-02T23:48:43-04:00, Stop: 2016-04-02T23:58:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-07-02T23:48:43-04:00, Stop: 2016-07-03T00:04:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-10-01T23:48:43-04:00, Stop: 2016-10-01T23:58:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-12-31T22:48:43-05:00, Stop: 2016-12-31T23:07:43-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2017-04-01T23:48:43-04:00, Stop: 2017-04-02T00:03:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2017-07-01T23:48:43-04:00, Stop: 2017-07-02T00:03:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2017-09-30T23:48:43-04:00, Stop: 2017-10-01T00:05:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2017-12-30T22:48:43-05:00, Stop: 2017-12-30T23:04:43-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2018-03-24T23:48:43-04:00, Stop: 2018-03-25T00:03:43-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2018-03-31T23:48:43-04:00, Stop: 2018-04-01T00:03:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2018-06-30T23:48:43-04:00, Stop: 2018-07-01T00:04:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2018-09-10T23:48:43-04:00, Stop: 2018-09-11T00:10:43-04:00, Description: Insertion of subcutaneous contraceptive, Code: SNOMED-CT 169553002
+- Start: 2018-09-29T23:48:43-04:00, Stop: 2018-09-29T23:58:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2018-12-29T22:48:43-05:00, Stop: 2018-12-29T23:01:43-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2019-03-30T23:48:43-04:00, Stop: 2019-03-30T23:59:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2019-06-29T23:48:43-04:00, Stop: 2019-06-30T00:04:43-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+
+## Encounters
+- Start: 2008-12-13T22:48:43-05:00, Stop: 2008-12-13T23:03:43-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2008-12-20T22:48:43-05:00, Stop: 2008-12-20T23:03:43-05:00, Description: Encounter for check up (procedure), Code: SNOMED-CT 185349003
+- Start: 2010-09-24T23:48:43-04:00, Stop: 2010-09-25T00:20:43-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2011-01-01T22:48:43-05:00, Stop: 2011-01-01T23:16:43-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2011-04-02T23:48:43-04:00, Stop: 2011-04-03T00:18:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2011-07-02T23:48:43-04:00, Stop: 2011-07-03T00:16:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2011-09-19T23:48:43-04:00, Stop: 2011-09-20T00:18:43-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2011-10-01T23:48:43-04:00, Stop: 2011-10-02T00:21:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2011-12-31T22:48:43-05:00, Stop: 2011-12-31T23:16:43-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2012-03-31T23:48:43-04:00, Stop: 2012-04-01T00:22:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2012-06-02T23:48:43-04:00, Stop: 2012-06-03T00:03:43-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2012-06-30T23:48:43-04:00, Stop: 2012-07-01T00:16:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2012-06-26T23:48:43-04:00, Stop: 2012-06-27T00:03:43-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2012-07-07T23:48:43-04:00, Stop: 2012-07-08T00:03:43-04:00, Description: Urgent care clinic (procedure), Code: SNOMED-CT 702927004
+- Start: 2012-09-29T23:48:43-04:00, Stop: 2012-09-30T00:21:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2012-12-30T04:03:43-05:00, Description: Prenatal initial visit, Code: SNOMED-CT 424441002
+- Start: 2013-01-26T22:48:43-05:00, Stop: 2013-01-26T23:48:43-05:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-02-23T22:48:43-05:00, Stop: 2013-02-24T00:03:43-05:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-03-23T23:48:43-04:00, Stop: 2013-03-24T00:33:43-04:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-04-20T23:48:43-04:00, Stop: 2013-04-21T00:33:43-04:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-05-18T23:48:43-04:00, Stop: 2013-05-19T01:18:43-04:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-06-15T23:48:43-04:00, Stop: 2013-06-16T00:33:43-04:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-07-13T23:48:43-04:00, Stop: 2013-07-14T00:48:43-04:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-07-27T23:48:43-04:00, Stop: 2013-07-28T00:33:43-04:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-08-03T23:48:43-04:00, Stop: 2013-08-04T00:33:43-04:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-08-10T23:48:43-04:00, Stop: 2013-08-11T00:33:43-04:00, Description: Prenatal visit, Code: SNOMED-CT 424619006
+- Start: 2013-08-17T23:48:43-04:00, Stop: 2013-08-18T01:18:43-04:00, Description: Obstetric emergency hospital admission, Code: SNOMED-CT 183460006
+- Start: 2013-09-28T23:48:43-04:00, Stop: 2013-09-29T00:33:43-04:00, Description: Postnatal visit, Code: SNOMED-CT 169762003
+- Start: 2013-09-28T23:48:43-04:00, Stop: 2013-09-29T00:22:43-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2014-01-04T22:48:43-05:00, Stop: 2014-01-04T23:21:43-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2014-04-05T23:48:43-04:00, Stop: 2014-04-06T00:20:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2014-05-31T23:48:43-04:00, Stop: 2014-06-01T00:03:43-04:00, Description: Encounter for check up (procedure), Code: SNOMED-CT 185349003
+- Start: 2014-05-30T23:48:43-04:00, Stop: 2014-05-31T00:03:43-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2014-07-05T23:48:43-04:00, Stop: 2014-07-06T00:19:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2014-10-04T23:48:43-04:00, Stop: 2014-10-05T00:21:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-01-03T22:48:43-05:00, Stop: 2015-01-03T23:13:43-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-04-04T23:48:43-04:00, Stop: 2015-04-05T00:19:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-04-28T23:48:43-04:00, Stop: 2015-04-29T00:13:43-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2015-06-06T23:48:43-04:00, Stop: 2015-06-07T00:18:43-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2015-07-04T23:48:43-04:00, Stop: 2015-07-05T00:22:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-09-18T23:48:43-04:00, Stop: 2015-09-19T00:03:43-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2015-09-22T23:48:43-04:00, Stop: 2015-09-23T00:57:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-10-03T23:48:43-04:00, Stop: 2015-10-04T00:13:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-01-02T22:48:43-05:00, Stop: 2016-01-02T23:20:43-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-04-02T23:48:43-04:00, Stop: 2016-04-03T00:13:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-07-02T23:48:43-04:00, Stop: 2016-07-03T00:19:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-10-01T23:48:43-04:00, Stop: 2016-10-02T00:13:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-12-31T22:48:43-05:00, Stop: 2016-12-31T23:22:43-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2017-04-01T23:48:43-04:00, Stop: 2017-04-02T00:18:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2017-07-01T23:48:43-04:00, Stop: 2017-07-02T00:18:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2017-09-15T23:48:43-04:00, Stop: 2017-09-16T00:03:43-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2017-09-30T23:48:43-04:00, Stop: 2017-10-01T00:20:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2017-12-30T22:48:43-05:00, Stop: 2017-12-30T23:19:43-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2018-03-24T23:48:43-04:00, Stop: 2018-03-25T00:18:43-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2018-03-31T23:48:43-04:00, Stop: 2018-04-01T00:18:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2018-06-30T23:48:43-04:00, Stop: 2018-07-01T00:19:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2018-07-22T23:48:43-04:00, Stop: 2018-07-23T00:03:43-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2018-09-10T23:48:43-04:00, Stop: 2018-09-11T00:25:43-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2018-09-29T23:48:43-04:00, Stop: 2018-09-30T00:13:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2018-12-29T22:48:43-05:00, Stop: 2018-12-29T23:16:43-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2019-03-08T22:48:43-05:00, Stop: 2019-04-02T23:48:43-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2019-03-30T23:48:43-04:00, Stop: 2019-03-31T00:14:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2019-06-29T23:48:43-04:00, Stop: 2019-06-30T00:19:43-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2019-09-05T23:48:43-04:00, Stop: 2019-09-06T00:03:43-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+
+## Vital Signs
+- Start: 2012-06-02T23:48:43-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 162.96318590380918 cm
+- Start: 2012-06-02T23:48:43-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.677298609302836 {score}
+- Start: 2012-06-02T23:48:43-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 80.3436015230469 kg
+- Start: 2012-06-02T23:48:43-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 30.25326717788289 kg/m2
+- Start: 2012-06-02T23:48:43-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 85.45430393861513 mm[Hg]
+          Systolic Blood Pressure 127.58506704218608 mm[Hg]
+- Start: 2012-06-02T23:48:43-04:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 175.50966090496092 mg/dL
+- Start: 2012-06-02T23:48:43-04:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 114.58645738715107 mg/dL
+- Start: 2012-06-02T23:48:43-04:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 73.09127161958203 mg/dL
+- Start: 2012-06-02T23:48:43-04:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 79.50109780794868 mg/dL
+- Start: 2012-06-02T23:48:43-04:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 4.626178870139606 10*3/uL
+- Start: 2012-06-02T23:48:43-04:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 5.03355864214368 10*6/uL
+- Start: 2012-06-02T23:48:43-04:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 13.635123783238287 g/dL
+- Start: 2012-06-02T23:48:43-04:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 45.1685949969964 %
+- Start: 2012-06-02T23:48:43-04:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 89.43543781950535 fL
+- Start: 2012-06-02T23:48:43-04:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 31.46876464932755 pg
+- Start: 2012-06-02T23:48:43-04:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 35.18427360098936 g/dL
+- Start: 2012-06-02T23:48:43-04:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 45.901275775060896 fL
+- Start: 2012-06-02T23:48:43-04:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 413.2676081421864 10*3/uL
+- Start: 2012-06-02T23:48:43-04:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 267.44328335587255 fL
+- Start: 2012-06-02T23:48:43-04:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 12.069841175157904 fL
+- Start: 2012-06-02T23:48:43-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2014-05-31T23:48:43-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 162.96318590380918 cm
+- Start: 2014-05-31T23:48:43-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.0282872883989587 {score}
+- Start: 2014-05-31T23:48:43-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 72.57465687940552 kg
+- Start: 2014-05-31T23:48:43-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 27.3278822867557 kg/m2
+- Start: 2014-05-31T23:48:43-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 76.12399729869387 mm[Hg]
+          Systolic Blood Pressure 116.13118923191291 mm[Hg]
+- Start: 2014-05-31T23:48:43-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2015-06-06T23:48:43-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 162.96318590380918 cm
+- Start: 2015-06-06T23:48:43-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.3690701683526765 {score}
+- Start: 2015-06-06T23:48:43-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 72.57465687940552 kg
+- Start: 2015-06-06T23:48:43-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 27.3278822867557 kg/m2
+- Start: 2015-06-06T23:48:43-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 74.88949332991854 mm[Hg]
+          Systolic Blood Pressure 109.77091150942613 mm[Hg]
+- Start: 2015-06-06T23:48:43-04:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 163.86341741816943 mg/dL
+- Start: 2015-06-06T23:48:43-04:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 123.8978068968207 mg/dL
+- Start: 2015-06-06T23:48:43-04:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 66.40658214137189 mg/dL
+- Start: 2015-06-06T23:48:43-04:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 72.67727389743341 mg/dL
+- Start: 2015-06-06T23:48:43-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2018-03-24T23:48:43-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 162.96318590380918 cm
+- Start: 2018-03-24T23:48:43-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.6370885689758699 {score}
+- Start: 2018-03-24T23:48:43-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 72.57465687940552 kg
+- Start: 2018-03-24T23:48:43-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 27.3278822867557 kg/m2
+- Start: 2018-03-24T23:48:43-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 76.43797225743153 mm[Hg]
+          Systolic Blood Pressure 135.06256674759913 mm[Hg]
+- Start: 2018-03-24T23:48:43-04:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 6.860982570326342 10*3/uL
+- Start: 2018-03-24T23:48:43-04:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 4.440095702951384 10*6/uL
+- Start: 2018-03-24T23:48:43-04:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 14.804792324621111 g/dL
+- Start: 2018-03-24T23:48:43-04:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 45.7018609256084 %
+- Start: 2018-03-24T23:48:43-04:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 93.37487840307239 fL
+- Start: 2018-03-24T23:48:43-04:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 32.495512304659854 pg
+- Start: 2018-03-24T23:48:43-04:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 34.15558304275149 g/dL
+- Start: 2018-03-24T23:48:43-04:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 44.2041199197097 fL
+- Start: 2018-03-24T23:48:43-04:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 281.3167023423546 10*3/uL
+- Start: 2018-03-24T23:48:43-04:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 482.6342007125869 fL
+- Start: 2018-03-24T23:48:43-04:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 10.892197847362784 fL
+- Start: 2018-03-24T23:48:43-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+
+## Immunizations
+- Start: 2012-06-02T23:48:43-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2012-07-07T23:48:43-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2014-05-31T23:48:43-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2015-06-06T23:48:43-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2018-03-24T23:48:43-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2018-03-24T23:48:43-04:00, Description: Hep A, adult, Code: http://hl7.org/fhir/sid/cvx 52
+
+## Plan of Care
+- Start: 2012-06-26T23:48:43-04:00, Stop: 2014-05-31T23:48:43-04:00, Description: Respiratory therapy, Code: SNOMED-CT 53950000
+- Start: 2012-12-29T22:48:43-05:00, Stop: 2013-08-17T23:48:43-04:00, Description: Routine antenatal care, Code: SNOMED-CT 134435003
+- Start: 2015-04-28T23:48:43-04:00, Stop: 2015-06-06T23:48:43-04:00, Description: Respiratory therapy, Code: SNOMED-CT 53950000
+- Start: 2019-04-02T23:48:43-04:00, Stop: 2019-04-09T23:48:43-04:00, Description: Urinary tract infection care, Code: SNOMED-CT 869761000000107
+
+## Imaging Studies
+There are no current imaging studies at the time of this document's creation.
+
+## Social History
+There is no current social history at the time of this document's creation.

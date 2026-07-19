@@ -1,0 +1,109 @@
+# Patient Record: Ira784 McCullough561
+
+## Allergies
+There are no current allergies at the time of this document's creation.
+
+## Medications
+There are no current medications at the time of this document's creation.
+
+## Diagnostic Results
+- Start: 2011-11-23T16:45:00-05:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2014-11-26T16:45:00-05:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2014-11-26T16:45:00-05:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+- Start: 2017-11-29T16:45:00-05:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 2017-11-29T16:45:00-05:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+
+## Problems
+- Start: 2009-12-13T16:45:00-05:00, Stop: 2010-01-03T16:45:00-05:00, Description: Viral sinusitis (disorder), Code: SNOMED-CT 444814009
+- Start: 2017-01-04T16:45:00-05:00, Stop: 2017-01-18T16:45:00-05:00, Description: Viral sinusitis (disorder), Code: SNOMED-CT 444814009
+- Start: 2017-11-29T16:45:00-05:00, Description: Prediabetes, Code: SNOMED-CT 15777000
+- Start: 2017-11-29T16:45:00-05:00, Description: Anemia (disorder), Code: SNOMED-CT 271737000
+
+## Surgeries
+- Start: 2014-11-26T16:45:00-05:00, Stop: 2014-11-26T17:00:00-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2017-11-29T16:45:00-05:00, Stop: 2017-11-29T17:00:00-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2017-11-29T16:45:00-05:00, Stop: 2017-11-29T17:15:00-05:00, Description: Peripheral blood smear interpretation, Code: SNOMED-CT 14768001
+- Start: 2017-11-29T16:45:00-05:00, Stop: 2017-11-29T17:02:00-05:00, Description: Review of systems (procedure), Code: SNOMED-CT 415300000
+- Start: 2017-11-29T16:45:00-05:00, Stop: 2017-11-29T16:54:00-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2017-11-29T16:45:00-05:00, Stop: 2017-11-29T16:55:00-05:00, Description: Brief general examination (procedure), Code: SNOMED-CT 162676008
+
+## Encounters
+- Start: 2009-12-13T16:45:00-05:00, Stop: 2009-12-13T17:00:00-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2011-11-23T16:45:00-05:00, Stop: 2011-11-23T17:00:00-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2014-11-26T16:45:00-05:00, Stop: 2014-11-26T17:15:00-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2017-01-04T16:45:00-05:00, Stop: 2017-01-04T17:00:00-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2017-11-29T16:45:00-05:00, Stop: 2017-11-29T17:15:00-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2017-11-29T16:45:00-05:00, Stop: 2017-11-29T18:06:00-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+
+## Vital Signs
+- Start: 2011-11-23T16:45:00-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 181.0703578908424 cm
+- Start: 2011-11-23T16:45:00-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.5295816263352942 {score}
+- Start: 2011-11-23T16:45:00-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.0894105645431 kg
+- Start: 2011-11-23T16:45:00-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 25.952595344494515 kg/m2
+- Start: 2011-11-23T16:45:00-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 73.71259412661291 mm[Hg]
+          Systolic Blood Pressure 120.69075224257787 mm[Hg]
+- Start: 2011-11-23T16:45:00-05:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 180.99387179163216 mg/dL
+- Start: 2011-11-23T16:45:00-05:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 119.78409031551635 mg/dL
+- Start: 2011-11-23T16:45:00-05:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 87.985587271887 mg/dL
+- Start: 2011-11-23T16:45:00-05:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 69.05146645664189 mg/dL
+- Start: 2011-11-23T16:45:00-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2014-11-26T16:45:00-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 181.0703578908424 cm
+- Start: 2014-11-26T16:45:00-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.573319243053005 {score}
+- Start: 2014-11-26T16:45:00-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 90.32045520855297 kg
+- Start: 2014-11-26T16:45:00-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 27.548083948472982 kg/m2
+- Start: 2014-11-26T16:45:00-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 85.6053581154476 mm[Hg]
+          Systolic Blood Pressure 105.89812772800565 mm[Hg]
+- Start: 2014-11-26T16:45:00-05:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 175.05805775374156 mg/dL
+- Start: 2014-11-26T16:45:00-05:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 148.47313405536306 mg/dL
+- Start: 2014-11-26T16:45:00-05:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 71.53886065153851 mg/dL
+- Start: 2014-11-26T16:45:00-05:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 73.82457029113044 mg/dL
+- Start: 2014-11-26T16:45:00-05:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 5.02331059962515 10*3/uL
+- Start: 2014-11-26T16:45:00-05:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 5.0011576984071695 10*6/uL
+- Start: 2014-11-26T16:45:00-05:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 16.77393107182758 g/dL
+- Start: 2014-11-26T16:45:00-05:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 43.582296546196815 %
+- Start: 2014-11-26T16:45:00-05:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 83.09006104694349 fL
+- Start: 2014-11-26T16:45:00-05:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 27.645502525991105 pg
+- Start: 2014-11-26T16:45:00-05:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 35.329235054145244 g/dL
+- Start: 2014-11-26T16:45:00-05:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 44.36160279660143 fL
+- Start: 2014-11-26T16:45:00-05:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 275.7931910655339 10*3/uL
+- Start: 2014-11-26T16:45:00-05:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 286.2328660295909 fL
+- Start: 2014-11-26T16:45:00-05:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 10.46238924825724 fL
+- Start: 2014-11-26T16:45:00-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2017-11-29T16:45:00-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 181.0703578908424 cm
+- Start: 2017-11-29T16:45:00-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.3164200104885242 {score}
+- Start: 2017-11-29T16:45:00-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 94.32464526921018 kg
+- Start: 2017-11-29T16:45:00-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.76937721677994 kg/m2
+- Start: 2017-11-29T16:45:00-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 82.1717252068741 mm[Hg]
+          Systolic Blood Pressure 102.5652989892365 mm[Hg]
+- Start: 2017-11-29T16:45:00-05:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 192.89622047369852 mg/dL
+- Start: 2017-11-29T16:45:00-05:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 124.2066724896637 mg/dL
+- Start: 2017-11-29T16:45:00-05:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 100.16794189046414 mg/dL
+- Start: 2017-11-29T16:45:00-05:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 67.88694408530165 mg/dL
+- Start: 2017-11-29T16:45:00-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2017-11-29T16:45:00-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.356108357227594 %
+- Start: 2017-11-29T16:45:00-05:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 11.179939567425254 g/dL
+- Start: 2017-11-29T16:45:00-05:00, Description: Hematocrit [Volume Fraction] of Blood, Code: LOINC 20570-8, Value: 34.02048720518487 %
+- Start: 2017-11-29T16:45:00-05:00, Description: WBC Auto (Bld) [#/Vol], Code: LOINC 6690-2, Value: 4.720237833588008 10*3/uL
+- Start: 2017-11-29T16:45:00-05:00, Description: RBC Auto (Bld) [#/Vol], Code: LOINC 789-8, Value: 4.193743607481501 10*6/uL
+- Start: 2017-11-29T16:45:00-05:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 82.23679690713209 fL
+- Start: 2017-11-29T16:45:00-05:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 31.78572741534433 pg
+- Start: 2017-11-29T16:45:00-05:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 34.3567636604547 g/dL
+- Start: 2017-11-29T16:45:00-05:00, Description: RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol], Code: LOINC 21000-5, Value: 40.86261688144193 fL
+- Start: 2017-11-29T16:45:00-05:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 167.4701813292781 10*3/uL
+- Start: 2017-11-29T16:45:00-05:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 368.1165776071821 fL
+- Start: 2017-11-29T16:45:00-05:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 9.565956865364145 fL
+
+## Immunizations
+- Start: 2011-11-23T16:45:00-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2011-11-23T16:45:00-05:00, Description: Td (adult) preservative free, Code: http://hl7.org/fhir/sid/cvx 113
+- Start: 2014-11-26T16:45:00-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2017-11-29T16:45:00-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+
+## Plan of Care
+- Start: 2017-11-29T16:45:00-05:00, Description: Diabetes self management plan, Code: SNOMED-CT 698360004
+
+## Imaging Studies
+There are no current imaging studies at the time of this document's creation.
+
+## Social History
+There is no current social history at the time of this document's creation.

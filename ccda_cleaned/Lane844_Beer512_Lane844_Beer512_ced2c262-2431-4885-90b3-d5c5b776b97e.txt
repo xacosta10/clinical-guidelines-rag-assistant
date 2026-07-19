@@ -1,0 +1,191 @@
+# Patient Record: Lane844 Beer512
+
+## Allergies
+There are no current allergies at the time of this document's creation.
+
+## Medications
+- Start: 2012-11-06T02:13:03-05:00, Stop: 2012-11-30T02:13:03-05:00, Description: Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet, Code: RxNorm 1049221
+- Start: 2012-11-06T02:13:03-05:00, Stop: 2013-02-04T02:13:03-05:00, Description: Naproxen sodium 220 MG Oral Tablet, Code: RxNorm 849574
+- Start: 2013-12-22T02:13:03-05:00, Stop: 2014-01-05T02:13:03-05:00, Description: Acetaminophen 325 MG Oral Tablet, Code: RxNorm 313782
+- Start: 2014-06-09T03:13:03-04:00, Stop: 2015-06-04T03:13:03-04:00, Description: 0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe, Code: RxNorm 1000156
+- Start: 2015-06-04T03:13:03-04:00, Stop: 2016-05-29T03:13:03-04:00, Description: Camila 28 Day Pack, Code: RxNorm 748962
+- Start: 2016-05-29T03:13:03-04:00, Stop: 2017-05-24T03:13:03-04:00, Description: Errin 28 Day Pack, Code: RxNorm 831533
+- Start: 2017-05-24T03:13:03-04:00, Stop: 2018-05-19T03:13:03-04:00, Description: Camila 28 Day Pack, Code: RxNorm 748962
+- Start: 2019-05-14T03:13:03-04:00, Description: Camila 28 Day Pack, Code: RxNorm 748962
+- Start: 2019-07-12T03:13:03-04:00, Stop: 2019-07-19T03:13:03-04:00, Description: Nitrofurantoin 5 MG/ML Oral Suspension, Code: RxNorm 311989
+- Start: 2019-07-12T03:13:03-04:00, Stop: 2019-07-19T03:13:03-04:00, Description: Phenazopyridine hydrochloride 100 MG Oral Tablet, Code: RxNorm 1094107
+
+## Diagnostic Results
+- Start: 2014-08-05T03:13:03-04:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+
+## Problems
+- Start: 2007-06-26T03:13:03-04:00, Description: Body mass index 30+ - obesity (finding), Code: SNOMED-CT 162864005
+- Start: 2012-11-06T02:13:03-05:00, Stop: 2013-02-04T02:13:03-05:00, Description: Fracture of rib, Code: SNOMED-CT 33737001
+- Start: 2013-12-22T02:13:03-05:00, Stop: 2014-08-05T03:13:03-04:00, Description: Otitis media, Code: SNOMED-CT 65363002
+- Start: 2019-06-18T03:13:03-04:00, Stop: 2019-07-19T03:13:03-04:00, Description: Cystitis, Code: SNOMED-CT 38822007
+
+## Surgeries
+- Start: 2010-07-13T03:13:03-04:00, Stop: 2010-07-13T03:28:03-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2012-11-06T02:13:03-05:00, Stop: 2012-11-06T02:43:03-05:00, Description: Chest X-ray, Code: SNOMED-CT 399208008
+- Start: 2012-11-06T02:13:03-05:00, Stop: 2012-11-06T02:33:03-05:00, Description: Bone immobilization, Code: SNOMED-CT 274474001
+- Start: 2014-06-09T03:13:03-04:00, Stop: 2014-06-09T03:30:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2014-09-16T03:13:03-04:00, Stop: 2014-09-16T03:27:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2014-12-16T02:13:03-05:00, Stop: 2014-12-16T02:25:03-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2015-03-17T03:13:03-04:00, Stop: 2015-03-17T03:31:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2015-06-16T03:13:03-04:00, Stop: 2015-06-16T03:28:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2015-09-15T03:13:03-04:00, Stop: 2015-09-15T03:28:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2015-12-15T02:13:03-05:00, Stop: 2015-12-15T02:28:03-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-03-15T03:13:03-04:00, Stop: 2016-03-15T03:29:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-06-14T03:13:03-04:00, Stop: 2016-06-14T03:30:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-08-16T03:13:03-04:00, Stop: 2016-08-16T03:28:03-04:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2016-09-13T03:13:03-04:00, Stop: 2016-09-13T03:29:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2016-12-13T02:13:03-05:00, Stop: 2016-12-13T02:32:03-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2017-03-14T03:13:03-04:00, Stop: 2017-03-14T03:24:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2017-06-13T03:13:03-04:00, Stop: 2017-06-13T03:23:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2017-09-12T03:13:03-04:00, Stop: 2017-09-12T03:23:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2017-12-12T02:13:03-05:00, Stop: 2017-12-12T02:32:03-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2018-03-13T03:13:03-04:00, Stop: 2018-03-13T03:26:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2018-06-12T03:13:03-04:00, Stop: 2018-06-12T03:31:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2018-09-11T03:13:03-04:00, Stop: 2018-09-11T03:28:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2018-12-11T02:13:03-05:00, Stop: 2018-12-11T02:31:03-05:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2019-03-12T03:13:03-04:00, Stop: 2019-03-12T03:23:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2019-06-11T03:13:03-04:00, Stop: 2019-06-11T03:28:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+- Start: 2019-09-10T03:13:03-04:00, Stop: 2019-09-10T03:29:03-04:00, Description: Intramuscular injection, Code: SNOMED-CT 76601001
+
+## Encounters
+- Start: 2007-06-26T03:13:03-04:00, Stop: 2007-06-26T03:43:03-04:00, Description: Well child visit (procedure), Code: SNOMED-CT 410620009
+- Start: 2010-07-13T03:13:03-04:00, Stop: 2010-07-13T03:43:03-04:00, Description: Well child visit (procedure), Code: SNOMED-CT 410620009
+- Start: 2011-07-19T03:13:03-04:00, Stop: 2011-07-19T03:28:03-04:00, Description: Well child visit (procedure), Code: SNOMED-CT 410620009
+- Start: 2012-07-24T03:13:03-04:00, Stop: 2012-07-24T03:28:03-04:00, Description: Well child visit (procedure), Code: SNOMED-CT 410620009
+- Start: 2012-11-06T02:13:03-05:00, Stop: 2012-11-06T04:03:03-05:00, Description: Emergency room admission (procedure), Code: SNOMED-CT 50849002
+- Start: 2013-02-04T02:13:03-05:00, Stop: 2013-02-04T02:28:03-05:00, Description: Encounter for 'check-up', Code: SNOMED-CT 185349003
+- Start: 2013-07-30T03:13:03-04:00, Stop: 2013-07-30T03:28:03-04:00, Description: Well child visit (procedure), Code: SNOMED-CT 410620009
+- Start: 2013-12-22T02:13:03-05:00, Stop: 2013-12-22T02:28:03-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2014-06-09T03:13:03-04:00, Stop: 2014-06-09T03:45:03-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2014-08-05T03:13:03-04:00, Stop: 2014-08-05T03:28:03-04:00, Description: Well child visit (procedure), Code: SNOMED-CT 410620009
+- Start: 2014-09-16T03:13:03-04:00, Stop: 2014-09-16T03:42:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2014-12-16T02:13:03-05:00, Stop: 2014-12-16T02:40:03-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-03-17T03:13:03-04:00, Stop: 2015-03-17T03:46:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-06-04T03:13:03-04:00, Stop: 2015-06-04T03:28:03-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2015-06-16T03:13:03-04:00, Stop: 2015-06-16T03:43:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-08-11T03:13:03-04:00, Stop: 2015-08-11T03:28:03-04:00, Description: Well child visit (procedure), Code: SNOMED-CT 410620009
+- Start: 2015-09-15T03:13:03-04:00, Stop: 2015-09-15T03:43:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2015-12-15T02:13:03-05:00, Stop: 2015-12-15T02:43:03-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-03-15T03:13:03-04:00, Stop: 2016-03-15T03:44:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-05-29T03:13:03-04:00, Stop: 2016-05-29T03:28:03-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2016-06-14T03:13:03-04:00, Stop: 2016-06-14T03:45:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-08-16T03:13:03-04:00, Stop: 2016-08-16T03:43:03-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2016-09-13T03:13:03-04:00, Stop: 2016-09-13T03:44:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2016-12-13T02:13:03-05:00, Stop: 2016-12-13T02:47:03-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2017-03-14T03:13:03-04:00, Stop: 2017-03-14T03:39:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2017-05-24T03:13:03-04:00, Stop: 2017-05-24T03:28:03-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2017-06-13T03:13:03-04:00, Stop: 2017-06-13T03:38:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2017-08-22T03:13:03-04:00, Stop: 2017-08-22T03:28:03-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2017-09-12T03:13:03-04:00, Stop: 2017-09-12T03:38:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2017-12-12T02:13:03-05:00, Stop: 2017-12-12T02:47:03-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2018-03-13T03:13:03-04:00, Stop: 2018-03-13T03:41:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2018-06-12T03:13:03-04:00, Stop: 2018-06-12T03:46:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2018-09-11T03:13:03-04:00, Stop: 2018-09-11T03:43:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2018-12-11T02:13:03-05:00, Stop: 2018-12-11T02:46:03-05:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2019-03-12T03:13:03-04:00, Stop: 2019-03-12T03:38:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2019-05-14T03:13:03-04:00, Stop: 2019-05-14T03:28:03-04:00, Description: Consultation for treatment, Code: SNOMED-CT 698314001
+- Start: 2019-06-11T03:13:03-04:00, Stop: 2019-06-11T03:43:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+- Start: 2019-06-18T03:13:03-04:00, Stop: 2019-07-12T03:13:03-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2019-09-10T03:13:03-04:00, Stop: 2019-09-10T03:44:03-04:00, Description: Patient encounter procedure, Code: SNOMED-CT 308335008
+
+## Vital Signs
+- Start: 2010-07-13T03:13:03-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 145.7468702487164 cm
+- Start: 2010-07-13T03:13:03-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.9356419234661622 {score}
+- Start: 2010-07-13T03:13:03-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 59.55365592535907 kg
+- Start: 2010-07-13T03:13:03-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.035606282915282 kg/m2
+- Start: 2010-07-13T03:13:03-04:00, Description: Body mass index (BMI) [Percentile] Per age and gender, Code: LOINC 59576-9, Value: 97.29793684106266 %
+- Start: 2010-07-13T03:13:03-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 77.26933999964076 mm[Hg]
+          Systolic Blood Pressure 134.82362731327754 mm[Hg]
+- Start: 2010-07-13T03:13:03-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2011-07-19T03:13:03-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 151.97224837642747 cm
+- Start: 2011-07-19T03:13:03-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.677600134460732 {score}
+- Start: 2011-07-19T03:13:03-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 74.06236333668613 kg
+- Start: 2011-07-19T03:13:03-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 32.067786891774645 kg/m2
+- Start: 2011-07-19T03:13:03-04:00, Description: Body mass index (BMI) [Percentile] Per age and gender, Code: LOINC 59576-9, Value: 98.50655010132097 %
+- Start: 2011-07-19T03:13:03-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 84.34836149236106 mm[Hg]
+          Systolic Blood Pressure 134.41389598908864 mm[Hg]
+- Start: 2011-07-19T03:13:03-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2012-07-24T03:13:03-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 155.55687514096985 cm
+- Start: 2012-07-24T03:13:03-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.069364776526942 {score}
+- Start: 2012-07-24T03:13:03-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 87.35448982530465 kg
+- Start: 2012-07-24T03:13:03-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 36.099967500634 kg/m2
+- Start: 2012-07-24T03:13:03-04:00, Description: Body mass index (BMI) [Percentile] Per age and gender, Code: LOINC 59576-9, Value: 99.07099504688776 %
+- Start: 2012-07-24T03:13:03-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 88.64300119421124 mm[Hg]
+          Systolic Blood Pressure 108.34691782668975 mm[Hg]
+- Start: 2012-07-24T03:13:03-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2013-07-30T03:13:03-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 156.95401859076713 cm
+- Start: 2013-07-30T03:13:03-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.4112038058762817 {score}
+- Start: 2013-07-30T03:13:03-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 97.12855546667737 kg
+- Start: 2013-07-30T03:13:03-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 39.427755107317964 kg/m2
+- Start: 2013-07-30T03:13:03-04:00, Description: Body mass index (BMI) [Percentile] Per age and gender, Code: LOINC 59576-9, Value: 99.30373980797864 %
+- Start: 2013-07-30T03:13:03-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 73.53459223337232 mm[Hg]
+          Systolic Blood Pressure 113.38108614290232 mm[Hg]
+- Start: 2013-07-30T03:13:03-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2014-08-05T03:13:03-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 157.59390467665028 cm
+- Start: 2014-08-05T03:13:03-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.3667478473585706 {score}
+- Start: 2014-08-05T03:13:03-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 70.11762679201964 kg
+- Start: 2014-08-05T03:13:03-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.232437559858308 kg/m2
+- Start: 2014-08-05T03:13:03-04:00, Description: Body mass index (BMI) [Percentile] Per age and gender, Code: LOINC 59576-9, Value: 93.83364421448725 %
+- Start: 2014-08-05T03:13:03-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 81.43429277932594 mm[Hg]
+          Systolic Blood Pressure 137.81360749122564 mm[Hg]
+- Start: 2014-08-05T03:13:03-04:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 7.984082474677802 10*3/uL
+- Start: 2014-08-05T03:13:03-04:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 4.42516069474416 10*6/uL
+- Start: 2014-08-05T03:13:03-04:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 15.992302922617762 g/dL
+- Start: 2014-08-05T03:13:03-04:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 45.08348068568721 %
+- Start: 2014-08-05T03:13:03-04:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 80.81897705751035 fL
+- Start: 2014-08-05T03:13:03-04:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 31.488849557227557 pg
+- Start: 2014-08-05T03:13:03-04:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 35.902135155589455 g/dL
+- Start: 2014-08-05T03:13:03-04:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 42.293556041264864 fL
+- Start: 2014-08-05T03:13:03-04:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 346.60556751606657 10*3/uL
+- Start: 2014-08-05T03:13:03-04:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 499.49127051782546 fL
+- Start: 2014-08-05T03:13:03-04:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 11.167036575638315 fL
+- Start: 2014-08-05T03:13:03-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2015-08-11T03:13:03-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 157.92751208623193 cm
+- Start: 2015-08-11T03:13:03-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.4369726975263246 {score}
+- Start: 2015-08-11T03:13:03-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 79.55827808730393 kg
+- Start: 2015-08-11T03:13:03-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 31.898465200776656 kg/m2
+- Start: 2015-08-11T03:13:03-04:00, Description: Body mass index (BMI) [Percentile] Per age and gender, Code: LOINC 59576-9, Value: 96.66074072720276 %
+- Start: 2015-08-11T03:13:03-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 79.5919981875163 mm[Hg]
+          Systolic Blood Pressure 122.12280664256097 mm[Hg]
+- Start: 2015-08-11T03:13:03-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2016-08-16T03:13:03-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 158.12164812224526 cm
+- Start: 2016-08-16T03:13:03-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.2671328859931279 {score}
+- Start: 2016-08-16T03:13:03-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 88.91996533850904 kg
+- Start: 2016-08-16T03:13:03-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 35.564492841695 kg/m2
+- Start: 2016-08-16T03:13:03-04:00, Description: Body mass index (BMI) [Percentile] Per age and gender, Code: LOINC 59576-9, Value: 97.84511746585733 %
+- Start: 2016-08-16T03:13:03-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 82.32756151898099 mm[Hg]
+          Systolic Blood Pressure 138.6743588808748 mm[Hg]
+- Start: 2016-08-16T03:13:03-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 2017-08-22T03:13:03-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 158.242241705651 cm
+- Start: 2017-08-22T03:13:03-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.6039894838207966 {score}
+- Start: 2017-08-22T03:13:03-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 98.23560481655664 kg
+- Start: 2017-08-22T03:13:03-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 39.23052048261335 kg/m2
+- Start: 2017-08-22T03:13:03-04:00, Description: Body mass index (BMI) [Percentile] Per age and gender, Code: LOINC 59576-9, Value: 98.37269289527653 %
+- Start: 2017-08-22T03:13:03-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 80.63539191452107 mm[Hg]
+          Systolic Blood Pressure 119.17762679429731 mm[Hg]
+- Start: 2017-08-22T03:13:03-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+
+## Immunizations
+- Start: 2010-07-13T03:13:03-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2010-07-13T03:13:03-04:00, Description: HPV, quadrivalent, Code: http://hl7.org/fhir/sid/cvx 62
+- Start: 2011-07-19T03:13:03-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2011-07-19T03:13:03-04:00, Description: HPV, quadrivalent, Code: http://hl7.org/fhir/sid/cvx 62
+- Start: 2012-07-24T03:13:03-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2013-07-30T03:13:03-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2014-08-05T03:13:03-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2014-08-05T03:13:03-04:00, Description: meningococcal MCV4P, Code: http://hl7.org/fhir/sid/cvx 114
+- Start: 2015-08-11T03:13:03-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2016-08-16T03:13:03-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2017-08-22T03:13:03-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+
+## Plan of Care
+- Start: 2012-11-06T02:13:03-05:00, Stop: 2013-02-04T02:13:03-05:00, Description: Fracture care, Code: SNOMED-CT 385691007
+- Start: 2019-07-12T03:13:03-04:00, Stop: 2019-07-19T03:13:03-04:00, Description: Urinary tract infection care, Code: SNOMED-CT 869761000000107
+
+## Social History
+There is no current social history at the time of this document's creation.

@@ -1,0 +1,516 @@
+# Patient Record: Sancho742 Holguín308
+
+## Allergies
+There are no current allergies at the time of this document's creation.
+
+## Medications
+- Start: 1930-01-30T11:15:18-05:00, Stop: 1990-03-03T11:15:18-05:00, Description: Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet, Code: RxNorm 1049221
+- Start: 1978-01-06T11:15:18-05:00, Description: 1 ML DOCEtaxel 20 MG/ML Injection, Code: RxNorm 1860480
+- Start: 1978-01-06T11:15:18-05:00, Description: 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe, Code: RxNorm 752899
+- Start: 1986-02-27T11:15:18-05:00, Stop: 1986-03-06T11:15:18-05:00, Description: Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, Code: RxNorm 1043400
+- Start: 1991-11-24T11:15:18-05:00, Stop: 1991-11-24T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1991-11-24T11:15:18-05:00, Stop: 1991-11-24T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1991-12-24T11:15:18-05:00, Stop: 1991-12-24T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1991-12-24T11:15:18-05:00, Stop: 1991-12-24T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-01-23T11:15:18-05:00, Stop: 1992-01-23T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-01-23T11:15:18-05:00, Stop: 1992-01-23T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-02-23T11:15:18-05:00, Stop: 1992-02-23T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-02-23T11:15:18-05:00, Stop: 1992-02-23T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-03-26T11:15:18-05:00, Stop: 1992-03-26T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-03-26T11:15:18-05:00, Stop: 1992-03-26T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-04-23T12:15:18-04:00, Stop: 1992-04-23T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-04-23T12:15:18-04:00, Stop: 1992-04-23T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-05-21T12:15:18-04:00, Stop: 1992-05-21T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-05-21T12:15:18-04:00, Stop: 1992-05-21T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-06-19T12:15:18-04:00, Stop: 1992-06-19T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-06-19T12:15:18-04:00, Stop: 1992-06-19T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-07-23T12:15:18-04:00, Stop: 1992-07-23T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-07-23T12:15:18-04:00, Stop: 1992-07-23T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-08-21T12:15:18-04:00, Stop: 1992-08-21T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-08-21T12:15:18-04:00, Stop: 1992-08-21T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-09-23T12:15:18-04:00, Stop: 1992-09-23T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-09-23T12:15:18-04:00, Stop: 1992-09-23T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-10-25T11:15:18-05:00, Stop: 1992-10-25T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-10-25T11:15:18-05:00, Stop: 1992-10-25T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-11-27T11:15:18-05:00, Stop: 1992-11-27T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-11-27T11:15:18-05:00, Stop: 1992-11-27T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1992-12-30T11:15:18-05:00, Stop: 1992-12-30T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1992-12-30T11:15:18-05:00, Stop: 1992-12-30T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-01-30T11:15:18-05:00, Stop: 1993-01-30T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-01-30T11:15:18-05:00, Stop: 1993-01-30T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-03-01T11:15:18-05:00, Stop: 1993-03-01T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-03-01T11:15:18-05:00, Stop: 1993-03-01T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-03-31T11:15:18-05:00, Stop: 1993-03-31T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-03-31T11:15:18-05:00, Stop: 1993-03-31T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-04-28T12:15:18-04:00, Stop: 1993-04-28T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-04-28T12:15:18-04:00, Stop: 1993-04-28T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-05-31T12:15:18-04:00, Stop: 1993-05-31T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-05-31T12:15:18-04:00, Stop: 1993-05-31T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-07-03T12:15:18-04:00, Stop: 1993-07-03T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-07-03T12:15:18-04:00, Stop: 1993-07-03T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-08-06T12:15:18-04:00, Stop: 1993-08-06T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-08-06T12:15:18-04:00, Stop: 1993-08-06T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-09-06T12:15:18-04:00, Stop: 1993-09-06T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-09-06T12:15:18-04:00, Stop: 1993-09-06T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-10-07T12:15:18-04:00, Stop: 1993-10-07T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-10-07T12:15:18-04:00, Stop: 1993-10-07T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-11-09T11:15:18-05:00, Stop: 1993-11-09T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-11-09T11:15:18-05:00, Stop: 1993-11-09T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1993-12-12T11:15:18-05:00, Stop: 1993-12-12T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1993-12-12T11:15:18-05:00, Stop: 1993-12-12T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-01-09T11:15:18-05:00, Stop: 1994-01-09T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-01-09T11:15:18-05:00, Stop: 1994-01-09T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-02-08T11:15:18-05:00, Stop: 1994-02-08T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-02-08T11:15:18-05:00, Stop: 1994-02-08T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-03-08T11:15:18-05:00, Stop: 1994-03-08T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-03-08T11:15:18-05:00, Stop: 1994-03-08T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-04-11T12:15:18-04:00, Stop: 1994-04-11T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-04-11T12:15:18-04:00, Stop: 1994-04-11T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-05-11T12:15:18-04:00, Stop: 1994-05-11T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-05-11T12:15:18-04:00, Stop: 1994-05-11T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-06-08T12:15:18-04:00, Stop: 1994-06-08T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-06-08T12:15:18-04:00, Stop: 1994-06-08T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-07-08T12:15:18-04:00, Stop: 1994-07-08T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-07-08T12:15:18-04:00, Stop: 1994-07-08T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-08-08T12:15:18-04:00, Stop: 1994-08-08T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-08-08T12:15:18-04:00, Stop: 1994-08-08T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-09-07T12:15:18-04:00, Stop: 1994-09-07T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-09-07T12:15:18-04:00, Stop: 1994-09-07T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-10-08T12:15:18-04:00, Stop: 1994-10-08T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-10-08T12:15:18-04:00, Stop: 1994-10-08T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-11-11T11:15:18-05:00, Stop: 1994-11-11T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-11-11T11:15:18-05:00, Stop: 1994-11-11T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1994-12-11T11:15:18-05:00, Stop: 1994-12-11T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1994-12-11T11:15:18-05:00, Stop: 1994-12-11T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-01-08T11:15:18-05:00, Stop: 1995-01-08T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-01-08T11:15:18-05:00, Stop: 1995-01-08T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-02-05T11:15:18-05:00, Stop: 1995-02-05T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-02-05T11:15:18-05:00, Stop: 1995-02-05T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-03-07T11:15:18-05:00, Stop: 1995-03-07T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-03-07T11:15:18-05:00, Stop: 1995-03-07T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-04-08T12:15:18-04:00, Stop: 1995-04-08T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-04-08T12:15:18-04:00, Stop: 1995-04-08T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-05-07T12:15:18-04:00, Stop: 1995-05-07T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-05-07T12:15:18-04:00, Stop: 1995-05-07T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-06-09T12:15:18-04:00, Stop: 1995-06-09T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-06-09T12:15:18-04:00, Stop: 1995-06-09T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-07-10T12:15:18-04:00, Stop: 1995-07-10T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-07-10T12:15:18-04:00, Stop: 1995-07-10T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-08-07T12:15:18-04:00, Stop: 1995-08-07T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-08-07T12:15:18-04:00, Stop: 1995-08-07T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-09-09T12:15:18-04:00, Stop: 1995-09-09T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-09-09T12:15:18-04:00, Stop: 1995-09-09T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-10-09T12:15:18-04:00, Stop: 1995-10-09T12:15:18-04:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-10-09T12:15:18-04:00, Stop: 1995-10-09T12:15:18-04:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+- Start: 1995-11-08T11:15:18-05:00, Stop: 1995-11-08T11:15:18-05:00, Description: Cisplatin 50 MG Injection, Code: RxNorm 1736854
+- Start: 1995-11-08T11:15:18-05:00, Stop: 1995-11-08T11:15:18-05:00, Description: PACLitaxel 100 MG Injection, Code: RxNorm 583214
+
+## Diagnostic Results
+- Start: 1986-02-27T11:15:18-05:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1986-03-06T11:15:18-05:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1987-03-05T11:15:18-05:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1987-03-05T11:15:18-05:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 1988-03-10T11:15:18-05:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1989-03-16T11:15:18-05:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1990-03-22T11:15:18-05:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1990-03-22T11:15:18-05:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 1990-03-22T11:15:18-05:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+- Start: 1991-03-28T11:15:18-05:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1992-04-02T11:15:18-05:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1993-04-08T12:15:18-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1993-04-08T12:15:18-04:00, Description: Lipid Panel, Code: LOINC 57698-3
+- Start: 1994-04-14T12:15:18-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1995-04-20T12:15:18-04:00, Description: Basic Metabolic Panel, Code: LOINC 51990-0
+- Start: 1995-04-20T12:15:18-04:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+- Start: 1995-11-23T11:15:18-05:00, Description: U.S. standard certificate of death - 2003 revision, Code: LOINC 69409-1
+
+## Problems
+- Start: 1924-11-06T11:15:18-05:00, Description: Body mass index 30+ - obesity (finding), Code: SNOMED-CT 162864005
+- Start: 1947-01-02T11:15:18-05:00, Description: Prediabetes, Code: SNOMED-CT 15777000
+- Start: 1947-01-02T11:15:18-05:00, Description: Anemia (disorder), Code: SNOMED-CT 271737000
+- Start: 1972-12-14T11:15:18-05:00, Description: Opioid abuse (disorder), Code: SNOMED-CT 5602001
+- Start: 1978-01-06T11:15:18-05:00, Description: Neoplasm of prostate, Code: SNOMED-CT 126906006
+- Start: 1978-01-06T11:15:18-05:00, Description: Carcinoma in situ of prostate (disorder), Code: SNOMED-CT 92691004
+- Start: 1986-02-27T11:15:18-05:00, Stop: 1986-03-06T11:15:18-05:00, Description: Acute bronchitis (disorder), Code: SNOMED-CT 10509002
+- Start: 1987-09-26T12:15:18-04:00, Stop: 1987-10-17T12:15:18-04:00, Description: Viral sinusitis (disorder), Code: SNOMED-CT 444814009
+- Start: 1989-01-27T11:15:18-05:00, Stop: 1989-02-05T11:15:18-05:00, Description: Acute viral pharyngitis (disorder), Code: SNOMED-CT 195662009
+- Start: 1991-11-14T11:15:18-05:00, Description: Suspected lung cancer (situation), Code: SNOMED-CT 162573006
+- Start: 1991-11-23T11:15:18-05:00, Description: Non-small cell lung cancer (disorder), Code: SNOMED-CT 254637007
+- Start: 1991-11-24T11:15:18-05:00, Description: Non-small cell carcinoma of lung, TNM stage 1 (disorder), Code: SNOMED-CT 424132000
+- Start: 1995-07-05T12:15:18-04:00, Stop: 1995-07-16T12:15:18-04:00, Description: Acute viral pharyngitis (disorder), Code: SNOMED-CT 195662009
+
+## Surgeries
+- Start: 1986-02-27T11:15:18-05:00, Stop: 1986-02-27T11:30:18-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 1987-03-05T11:15:18-05:00, Stop: 1987-03-05T11:30:18-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 1989-03-16T11:15:18-05:00, Stop: 1989-03-16T11:30:18-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 1990-03-22T11:15:18-05:00, Stop: 1990-03-22T11:30:18-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 1991-11-14T11:15:18-05:00, Stop: 1991-11-14T11:39:18-05:00, Description: Plain chest X-ray (procedure), Code: SNOMED-CT 399208008
+- Start: 1991-11-19T11:15:18-05:00, Stop: 1991-11-19T11:36:18-05:00, Description: Computed tomography of chest and abdomen, Code: SNOMED-CT 418891003
+- Start: 1991-11-23T11:15:18-05:00, Stop: 1991-11-23T11:30:18-05:00, Description: Sputum microscopy (procedure), Code: SNOMED-CT 167995008
+- Start: 1991-11-24T11:15:18-05:00, Stop: 1991-11-24T13:09:18-05:00, Description: Magnetic resonance imaging for measurement of brain volume (procedure), Code: SNOMED-CT 698354004
+- Start: 1991-11-24T11:15:18-05:00, Stop: 1991-11-24T12:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1991-12-24T11:15:18-05:00, Stop: 1991-12-24T11:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-01-23T11:15:18-05:00, Stop: 1992-01-23T14:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-02-23T11:15:18-05:00, Stop: 1992-02-23T11:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-03-26T11:15:18-05:00, Stop: 1992-03-26T14:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-04-02T11:15:18-05:00, Stop: 1992-04-02T11:30:18-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 1992-04-23T12:15:18-04:00, Stop: 1992-04-23T15:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-05-21T12:15:18-04:00, Stop: 1992-05-21T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-06-19T12:15:18-04:00, Stop: 1992-06-19T12:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-07-23T12:15:18-04:00, Stop: 1992-07-23T12:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-08-21T12:15:18-04:00, Stop: 1992-08-21T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-09-23T12:15:18-04:00, Stop: 1992-09-23T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-10-25T11:15:18-05:00, Stop: 1992-10-25T12:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-11-27T11:15:18-05:00, Stop: 1992-11-27T11:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1992-12-30T11:15:18-05:00, Stop: 1992-12-30T13:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-01-30T11:15:18-05:00, Stop: 1993-01-30T13:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-03-01T11:15:18-05:00, Stop: 1993-03-01T11:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-03-31T11:15:18-05:00, Stop: 1993-03-31T12:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-04-28T12:15:18-04:00, Stop: 1993-04-28T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-05-31T12:15:18-04:00, Stop: 1993-05-31T13:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-07-03T12:15:18-04:00, Stop: 1993-07-03T12:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-08-06T12:15:18-04:00, Stop: 1993-08-06T13:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-09-06T12:15:18-04:00, Stop: 1993-09-06T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-10-07T12:15:18-04:00, Stop: 1993-10-07T15:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-11-09T11:15:18-05:00, Stop: 1993-11-09T13:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1993-12-12T11:15:18-05:00, Stop: 1993-12-12T11:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-01-09T11:15:18-05:00, Stop: 1994-01-09T11:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-02-08T11:15:18-05:00, Stop: 1994-02-08T11:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-03-08T11:15:18-05:00, Stop: 1994-03-08T11:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-04-11T12:15:18-04:00, Stop: 1994-04-11T13:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-05-11T12:15:18-04:00, Stop: 1994-05-11T15:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-06-08T12:15:18-04:00, Stop: 1994-06-08T13:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-07-08T12:15:18-04:00, Stop: 1994-07-08T13:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-08-08T12:15:18-04:00, Stop: 1994-08-08T15:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-09-07T12:15:18-04:00, Stop: 1994-09-07T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-10-08T12:15:18-04:00, Stop: 1994-10-08T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-11-11T11:15:18-05:00, Stop: 1994-11-11T13:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1994-12-11T11:15:18-05:00, Stop: 1994-12-11T13:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-01-08T11:15:18-05:00, Stop: 1995-01-08T13:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-02-05T11:15:18-05:00, Stop: 1995-02-05T13:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-03-07T11:15:18-05:00, Stop: 1995-03-07T14:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-04-08T12:15:18-04:00, Stop: 1995-04-08T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-05-07T12:15:18-04:00, Stop: 1995-05-07T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-06-09T12:15:18-04:00, Stop: 1995-06-09T15:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-07-10T12:15:18-04:00, Stop: 1995-07-10T12:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-08-07T12:15:18-04:00, Stop: 1995-08-07T14:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-09-09T12:15:18-04:00, Stop: 1995-09-09T12:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-10-09T12:15:18-04:00, Stop: 1995-10-09T12:15:18-04:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+- Start: 1995-11-08T11:15:18-05:00, Stop: 1995-11-08T12:15:18-05:00, Description: Combined chemotherapy and radiation therapy (procedure), Code: SNOMED-CT 703423002
+
+## Encounters
+- Start: 1924-11-06T11:15:18-05:00, Stop: 1924-11-06T11:30:18-05:00, Description: Well child visit (procedure), Code: SNOMED-CT 410620009
+- Start: 1930-01-30T11:15:18-05:00, Stop: 1930-01-30T13:45:18-05:00, Description: Emergency room admission (procedure), Code: SNOMED-CT 50849002
+- Start: 1947-01-02T11:15:18-05:00, Stop: 1947-01-02T11:45:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1971-12-09T11:15:18-05:00, Stop: 1971-12-09T11:30:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1972-12-14T11:15:18-05:00, Stop: 1972-12-14T11:33:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1978-01-06T11:15:18-05:00, Stop: 1978-01-06T16:30:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1986-02-27T11:15:18-05:00, Stop: 1986-02-27T11:30:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1986-02-27T11:15:18-05:00, Stop: 1986-02-27T11:30:18-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 1986-03-06T11:15:18-05:00, Stop: 1986-03-06T11:30:18-05:00, Description: Encounter for check up (procedure), Code: SNOMED-CT 185349003
+- Start: 1987-03-05T11:15:18-05:00, Stop: 1987-03-05T11:45:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1987-09-26T12:15:18-04:00, Stop: 1987-09-26T12:30:18-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 1988-03-10T11:15:18-05:00, Stop: 1988-03-10T11:30:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1989-01-27T11:15:18-05:00, Stop: 1989-01-27T11:30:18-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 1989-03-16T11:15:18-05:00, Stop: 1989-03-16T11:45:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1990-03-22T11:15:18-05:00, Stop: 1990-03-22T11:45:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1991-03-28T11:15:18-05:00, Stop: 1991-03-28T11:30:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1991-11-14T11:15:18-05:00, Stop: 1991-11-14T12:39:18-05:00, Description: Emergency Room Admission, Code: SNOMED-CT 50849002
+- Start: 1991-11-19T11:15:18-05:00, Stop: 1991-11-19T11:51:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1991-11-23T11:15:18-05:00, Stop: 1991-11-23T11:45:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1991-11-24T11:15:18-05:00, Stop: 1991-11-24T13:24:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1991-11-24T11:15:18-05:00, Stop: 1991-11-25T12:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1991-12-24T11:15:18-05:00, Stop: 1991-12-25T11:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-01-23T11:15:18-05:00, Stop: 1992-01-24T14:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-02-23T11:15:18-05:00, Stop: 1992-02-24T11:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-03-26T11:15:18-05:00, Stop: 1992-03-27T14:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-04-02T11:15:18-05:00, Stop: 1992-04-02T11:45:18-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1992-04-23T12:15:18-04:00, Stop: 1992-04-24T15:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-05-21T12:15:18-04:00, Stop: 1992-05-22T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-06-19T12:15:18-04:00, Stop: 1992-06-20T12:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-07-23T12:15:18-04:00, Stop: 1992-07-24T12:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-08-21T12:15:18-04:00, Stop: 1992-08-22T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-09-23T12:15:18-04:00, Stop: 1992-09-24T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-10-25T11:15:18-05:00, Stop: 1992-10-26T12:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-11-27T11:15:18-05:00, Stop: 1992-11-28T11:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1992-12-30T11:15:18-05:00, Stop: 1992-12-31T13:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-01-30T11:15:18-05:00, Stop: 1993-01-31T13:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-03-01T11:15:18-05:00, Stop: 1993-03-02T11:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-03-31T11:15:18-05:00, Stop: 1993-04-01T12:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-04-08T12:15:18-04:00, Stop: 1993-04-08T12:30:18-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1993-04-28T12:15:18-04:00, Stop: 1993-04-29T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-05-31T12:15:18-04:00, Stop: 1993-06-01T13:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-07-03T12:15:18-04:00, Stop: 1993-07-04T12:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-08-06T12:15:18-04:00, Stop: 1993-08-07T13:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-09-06T12:15:18-04:00, Stop: 1993-09-07T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-10-07T12:15:18-04:00, Stop: 1993-10-08T15:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-11-09T11:15:18-05:00, Stop: 1993-11-10T13:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1993-12-12T11:15:18-05:00, Stop: 1993-12-13T11:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-01-09T11:15:18-05:00, Stop: 1994-01-10T11:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-02-08T11:15:18-05:00, Stop: 1994-02-09T11:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-03-08T11:15:18-05:00, Stop: 1994-03-09T11:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-04-14T12:15:18-04:00, Stop: 1994-04-14T12:30:18-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1994-04-11T12:15:18-04:00, Stop: 1994-04-12T13:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-05-11T12:15:18-04:00, Stop: 1994-05-12T15:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-06-08T12:15:18-04:00, Stop: 1994-06-09T13:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-07-08T12:15:18-04:00, Stop: 1994-07-09T13:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-08-08T12:15:18-04:00, Stop: 1994-08-09T15:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-09-07T12:15:18-04:00, Stop: 1994-09-08T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-10-08T12:15:18-04:00, Stop: 1994-10-09T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-11-11T11:15:18-05:00, Stop: 1994-11-12T13:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1994-12-11T11:15:18-05:00, Stop: 1994-12-12T13:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-01-08T11:15:18-05:00, Stop: 1995-01-09T13:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-02-05T11:15:18-05:00, Stop: 1995-02-06T13:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-03-07T11:15:18-05:00, Stop: 1995-03-08T14:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-04-08T12:15:18-04:00, Stop: 1995-04-09T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-04-20T12:15:18-04:00, Stop: 1995-04-20T12:30:18-04:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 1995-05-07T12:15:18-04:00, Stop: 1995-05-08T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-06-09T12:15:18-04:00, Stop: 1995-06-10T15:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-07-05T12:15:18-04:00, Stop: 1995-07-05T12:30:18-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 1995-07-13T12:15:18-04:00, Stop: 1995-07-13T13:15:18-04:00, Description: Emergency Encounter, Code: SNOMED-CT 50849002
+- Start: 1995-07-10T12:15:18-04:00, Stop: 1995-07-11T12:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-07-20T12:15:18-04:00, Stop: 1995-07-20T12:30:18-04:00, Description: Urgent care clinic (procedure), Code: SNOMED-CT 702927004
+- Start: 1995-08-07T12:15:18-04:00, Stop: 1995-08-08T14:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-09-09T12:15:18-04:00, Stop: 1995-09-10T12:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-10-09T12:15:18-04:00, Stop: 1995-10-10T12:15:18-04:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-11-08T11:15:18-05:00, Stop: 1995-11-09T12:15:18-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1995-11-23T11:15:18-05:00, Stop: 1995-11-23T11:30:18-05:00, Description: Death Certification, Code: SNOMED-CT 308646001
+
+## Vital Signs
+- Start: 1986-02-27T11:15:18-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1986-02-27T11:15:18-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.0537880813568057 {score}
+- Start: 1986-02-27T11:15:18-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1986-02-27T11:15:18-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1986-02-27T11:15:18-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 86.55006294092186 mm[Hg]
+          Systolic Blood Pressure 113.00342926599946 mm[Hg]
+- Start: 1986-02-27T11:15:18-05:00, Description: Glucose, Code: LOINC 2339-0, Value: 91.90432974834943 mg/dL
+- Start: 1986-02-27T11:15:18-05:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 14.295179711543582 mg/dL
+- Start: 1986-02-27T11:15:18-05:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.7973926142332396 mg/dL
+- Start: 1986-02-27T11:15:18-05:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.734286583128855 mg/dL
+- Start: 1986-02-27T11:15:18-05:00, Description: Sodium, Code: LOINC 2947-0, Value: 139.6880783570373 mmol/L
+- Start: 1986-02-27T11:15:18-05:00, Description: Potassium, Code: LOINC 6298-4, Value: 3.921163455383142 mmol/L
+- Start: 1986-02-27T11:15:18-05:00, Description: Chloride, Code: LOINC 2069-3, Value: 110.10336389849657 mmol/L
+- Start: 1986-02-27T11:15:18-05:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 26.357062152118026 mmol/L
+- Start: 1986-02-27T11:15:18-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1986-02-27T11:15:18-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.00385470127194 %
+- Start: 1986-03-06T11:15:18-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1986-03-06T11:15:18-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.834154117228997 {score}
+- Start: 1986-03-06T11:15:18-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1986-03-06T11:15:18-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1986-03-06T11:15:18-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 72.43220925209926 mm[Hg]
+          Systolic Blood Pressure 118.46439463329145 mm[Hg]
+- Start: 1986-03-06T11:15:18-05:00, Description: Glucose, Code: LOINC 2339-0, Value: 77.39955717437493 mg/dL
+- Start: 1986-03-06T11:15:18-05:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 11.971165667612304 mg/dL
+- Start: 1986-03-06T11:15:18-05:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.7973926142332396 mg/dL
+- Start: 1986-03-06T11:15:18-05:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.704232785735815 mg/dL
+- Start: 1986-03-06T11:15:18-05:00, Description: Sodium, Code: LOINC 2947-0, Value: 139.73714945566664 mmol/L
+- Start: 1986-03-06T11:15:18-05:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.211086515549143 mmol/L
+- Start: 1986-03-06T11:15:18-05:00, Description: Chloride, Code: LOINC 2069-3, Value: 108.26094746353279 mmol/L
+- Start: 1986-03-06T11:15:18-05:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 21.871497290104948 mmol/L
+- Start: 1986-03-06T11:15:18-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1986-03-06T11:15:18-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 5.897349284301281 %
+- Start: 1987-03-05T11:15:18-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1987-03-05T11:15:18-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.4025571181214396 {score}
+- Start: 1987-03-05T11:15:18-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1987-03-05T11:15:18-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1987-03-05T11:15:18-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 78.39959685065308 mm[Hg]
+          Systolic Blood Pressure 118.05095957517148 mm[Hg]
+- Start: 1987-03-05T11:15:18-05:00, Description: Glucose, Code: LOINC 2339-0, Value: 88.29896900586675 mg/dL
+- Start: 1987-03-05T11:15:18-05:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 15.00845287667761 mg/dL
+- Start: 1987-03-05T11:15:18-05:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.7854912319312509 mg/dL
+- Start: 1987-03-05T11:15:18-05:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.433112804672861 mg/dL
+- Start: 1987-03-05T11:15:18-05:00, Description: Sodium, Code: LOINC 2947-0, Value: 139.4461876948019 mmol/L
+- Start: 1987-03-05T11:15:18-05:00, Description: Potassium, Code: LOINC 6298-4, Value: 5.033753074654734 mmol/L
+- Start: 1987-03-05T11:15:18-05:00, Description: Chloride, Code: LOINC 2069-3, Value: 105.33513360036387 mmol/L
+- Start: 1987-03-05T11:15:18-05:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 21.52710226685247 mmol/L
+- Start: 1987-03-05T11:15:18-05:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 179.8018368809558 mg/dL
+- Start: 1987-03-05T11:15:18-05:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 127.70206864420928 mg/dL
+- Start: 1987-03-05T11:15:18-05:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 74.78283639887198 mg/dL
+- Start: 1987-03-05T11:15:18-05:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 79.47858675324196 mg/dL
+- Start: 1987-03-05T11:15:18-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1987-03-05T11:15:18-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.348707782781327 %
+- Start: 1988-03-10T11:15:18-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1988-03-10T11:15:18-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.912813028954865 {score}
+- Start: 1988-03-10T11:15:18-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1988-03-10T11:15:18-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1988-03-10T11:15:18-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 80.05109424157247 mm[Hg]
+          Systolic Blood Pressure 107.92054798134681 mm[Hg]
+- Start: 1988-03-10T11:15:18-05:00, Description: Glucose, Code: LOINC 2339-0, Value: 77.50298896751606 mg/dL
+- Start: 1988-03-10T11:15:18-05:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 19.27196873108788 mg/dL
+- Start: 1988-03-10T11:15:18-05:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.9531525119180525 mg/dL
+- Start: 1988-03-10T11:15:18-05:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.008557265657538 mg/dL
+- Start: 1988-03-10T11:15:18-05:00, Description: Sodium, Code: LOINC 2947-0, Value: 136.15560731532034 mmol/L
+- Start: 1988-03-10T11:15:18-05:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.290583768415208 mmol/L
+- Start: 1988-03-10T11:15:18-05:00, Description: Chloride, Code: LOINC 2069-3, Value: 109.43495944774787 mmol/L
+- Start: 1988-03-10T11:15:18-05:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 22.1833185540887 mmol/L
+- Start: 1988-03-10T11:15:18-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1988-03-10T11:15:18-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.349118100602384 %
+- Start: 1989-01-27T11:15:18-05:00, Description: Oral temperature, Code: LOINC 8331-1, Value: 37.76533650297373 Cel
+- Start: 1989-03-16T11:15:18-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1989-03-16T11:15:18-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.3973287803413834 {score}
+- Start: 1989-03-16T11:15:18-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1989-03-16T11:15:18-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1989-03-16T11:15:18-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 74.77403695900247 mm[Hg]
+          Systolic Blood Pressure 114.50987806232142 mm[Hg]
+- Start: 1989-03-16T11:15:18-05:00, Description: Glucose, Code: LOINC 2339-0, Value: 80.70894323812928 mg/dL
+- Start: 1989-03-16T11:15:18-05:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 8.79733649034238 mg/dL
+- Start: 1989-03-16T11:15:18-05:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.9525712779498048 mg/dL
+- Start: 1989-03-16T11:15:18-05:00, Description: Calcium, Code: LOINC 49765-1, Value: 8.676841012877631 mg/dL
+- Start: 1989-03-16T11:15:18-05:00, Description: Sodium, Code: LOINC 2947-0, Value: 137.88289257327702 mmol/L
+- Start: 1989-03-16T11:15:18-05:00, Description: Potassium, Code: LOINC 6298-4, Value: 5.05562188034975 mmol/L
+- Start: 1989-03-16T11:15:18-05:00, Description: Chloride, Code: LOINC 2069-3, Value: 108.74645096262648 mmol/L
+- Start: 1989-03-16T11:15:18-05:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 20.928584598325678 mmol/L
+- Start: 1989-03-16T11:15:18-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1989-03-16T11:15:18-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 5.950963935882154 %
+- Start: 1990-03-22T11:15:18-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1990-03-22T11:15:18-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 1.8690273813907186 {score}
+- Start: 1990-03-22T11:15:18-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1990-03-22T11:15:18-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1990-03-22T11:15:18-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 73.79907265032988 mm[Hg]
+          Systolic Blood Pressure 106.90643299709687 mm[Hg]
+- Start: 1990-03-22T11:15:18-05:00, Description: Glucose, Code: LOINC 2339-0, Value: 69.01544383447225 mg/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 7.82923106325577 mg/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.749787085025285 mg/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.660417642458201 mg/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Sodium, Code: LOINC 2947-0, Value: 140.58321103165844 mmol/L
+- Start: 1990-03-22T11:15:18-05:00, Description: Potassium, Code: LOINC 6298-4, Value: 3.9077639404148155 mmol/L
+- Start: 1990-03-22T11:15:18-05:00, Description: Chloride, Code: LOINC 2069-3, Value: 101.46988217415634 mmol/L
+- Start: 1990-03-22T11:15:18-05:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 23.566407506628703 mmol/L
+- Start: 1990-03-22T11:15:18-05:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 186.2307077910968 mg/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 148.44988127438998 mg/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 82.78294198769808 mg/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 73.75778954852072 mg/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 8.871931718328241 10*3/uL
+- Start: 1990-03-22T11:15:18-05:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 4.697930223188348 10*6/uL
+- Start: 1990-03-22T11:15:18-05:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 16.852863236920726 g/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 43.65494817800462 %
+- Start: 1990-03-22T11:15:18-05:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 89.39213670113807 fL
+- Start: 1990-03-22T11:15:18-05:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 27.87094824611096 pg
+- Start: 1990-03-22T11:15:18-05:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 35.09584356707263 g/dL
+- Start: 1990-03-22T11:15:18-05:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 44.78524245672008 fL
+- Start: 1990-03-22T11:15:18-05:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 446.2892442627161 10*3/uL
+- Start: 1990-03-22T11:15:18-05:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 152.61898828188063 fL
+- Start: 1990-03-22T11:15:18-05:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 11.338160321163476 fL
+- Start: 1990-03-22T11:15:18-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1990-03-22T11:15:18-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.386108704902774 %
+- Start: 1991-03-28T11:15:18-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1991-03-28T11:15:18-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.652154175894398 {score}
+- Start: 1991-03-28T11:15:18-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1991-03-28T11:15:18-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1991-03-28T11:15:18-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 82.69572766100055 mm[Hg]
+          Systolic Blood Pressure 125.45744070943377 mm[Hg]
+- Start: 1991-03-28T11:15:18-05:00, Description: Glucose, Code: LOINC 2339-0, Value: 98.1845224066258 mg/dL
+- Start: 1991-03-28T11:15:18-05:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 10.540302394053336 mg/dL
+- Start: 1991-03-28T11:15:18-05:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.9182809268406045 mg/dL
+- Start: 1991-03-28T11:15:18-05:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.009432166426352 mg/dL
+- Start: 1991-03-28T11:15:18-05:00, Description: Sodium, Code: LOINC 2947-0, Value: 137.53812937053078 mmol/L
+- Start: 1991-03-28T11:15:18-05:00, Description: Potassium, Code: LOINC 6298-4, Value: 3.7143848327692544 mmol/L
+- Start: 1991-03-28T11:15:18-05:00, Description: Chloride, Code: LOINC 2069-3, Value: 101.24634889877055 mmol/L
+- Start: 1991-03-28T11:15:18-05:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 26.092693954719877 mmol/L
+- Start: 1991-03-28T11:15:18-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1991-03-28T11:15:18-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.063950168536335 %
+- Start: 1992-04-02T11:15:18-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1992-04-02T11:15:18-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.642442684705852 {score}
+- Start: 1992-04-02T11:15:18-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1992-04-02T11:15:18-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1992-04-02T11:15:18-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 84.65759337985742 mm[Hg]
+          Systolic Blood Pressure 127.33146458748222 mm[Hg]
+- Start: 1992-04-02T11:15:18-05:00, Description: Glucose, Code: LOINC 2339-0, Value: 94.21343056401726 mg/dL
+- Start: 1992-04-02T11:15:18-05:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 10.505666825340544 mg/dL
+- Start: 1992-04-02T11:15:18-05:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.7259843204213077 mg/dL
+- Start: 1992-04-02T11:15:18-05:00, Description: Calcium, Code: LOINC 49765-1, Value: 8.666505232849946 mg/dL
+- Start: 1992-04-02T11:15:18-05:00, Description: Sodium, Code: LOINC 2947-0, Value: 136.12893263880176 mmol/L
+- Start: 1992-04-02T11:15:18-05:00, Description: Potassium, Code: LOINC 6298-4, Value: 3.9351762619069 mmol/L
+- Start: 1992-04-02T11:15:18-05:00, Description: Chloride, Code: LOINC 2069-3, Value: 101.95001165227545 mmol/L
+- Start: 1992-04-02T11:15:18-05:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 22.191126584444593 mmol/L
+- Start: 1992-04-02T11:15:18-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1992-04-02T11:15:18-05:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 5.819595099986154 %
+- Start: 1993-04-08T12:15:18-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1993-04-08T12:15:18-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.8687191193976189 {score}
+- Start: 1993-04-08T12:15:18-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1993-04-08T12:15:18-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1993-04-08T12:15:18-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 86.71666636048809 mm[Hg]
+          Systolic Blood Pressure 124.29171019867285 mm[Hg]
+- Start: 1993-04-08T12:15:18-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 73.26592025998512 mg/dL
+- Start: 1993-04-08T12:15:18-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 19.692227494751712 mg/dL
+- Start: 1993-04-08T12:15:18-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.714082938119319 mg/dL
+- Start: 1993-04-08T12:15:18-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.189164709455834 mg/dL
+- Start: 1993-04-08T12:15:18-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 143.20483351274225 mmol/L
+- Start: 1993-04-08T12:15:18-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.027749028446594 mmol/L
+- Start: 1993-04-08T12:15:18-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 102.4503461370932 mmol/L
+- Start: 1993-04-08T12:15:18-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 25.181490782804282 mmol/L
+- Start: 1993-04-08T12:15:18-04:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 186.00728969912754 mg/dL
+- Start: 1993-04-08T12:15:18-04:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 105.0769773067798 mg/dL
+- Start: 1993-04-08T12:15:18-04:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 100.5643187470758 mg/dL
+- Start: 1993-04-08T12:15:18-04:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 64.42757549069577 mg/dL
+- Start: 1993-04-08T12:15:18-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1993-04-08T12:15:18-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.359400162368373 %
+- Start: 1994-04-14T12:15:18-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1994-04-14T12:15:18-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.308042427874489 {score}
+- Start: 1994-04-14T12:15:18-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1994-04-14T12:15:18-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1994-04-14T12:15:18-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 75.33944962783737 mm[Hg]
+          Systolic Blood Pressure 108.96824282719668 mm[Hg]
+- Start: 1994-04-14T12:15:18-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 73.57084639063551 mg/dL
+- Start: 1994-04-14T12:15:18-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 15.246305511528158 mg/dL
+- Start: 1994-04-14T12:15:18-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.7021815558173303 mg/dL
+- Start: 1994-04-14T12:15:18-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 10.10752606197639 mg/dL
+- Start: 1994-04-14T12:15:18-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 137.62725400993975 mmol/L
+- Start: 1994-04-14T12:15:18-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.357671584459387 mmol/L
+- Start: 1994-04-14T12:15:18-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 107.62561168867487 mmol/L
+- Start: 1994-04-14T12:15:18-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 27.744391821220777 mmol/L
+- Start: 1994-04-14T12:15:18-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1994-04-14T12:15:18-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 5.864547805628028 %
+- Start: 1995-04-20T12:15:18-04:00, Description: Body Height, Code: LOINC 8302-2, Value: 173.84503356499891 cm
+- Start: 1995-04-20T12:15:18-04:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.4566047832076587 {score}
+- Start: 1995-04-20T12:15:18-04:00, Description: Body Weight, Code: LOINC 29463-7, Value: 85.68995257431828 kg
+- Start: 1995-04-20T12:15:18-04:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.35341183433672 kg/m2
+- Start: 1995-04-20T12:15:18-04:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 78.86636041569928 mm[Hg]
+          Systolic Blood Pressure 133.602498424073 mm[Hg]
+- Start: 1995-04-20T12:15:18-04:00, Description: Glucose, Code: LOINC 2339-0, Value: 84.55497693562626 mg/dL
+- Start: 1995-04-20T12:15:18-04:00, Description: Urea Nitrogen, Code: LOINC 6299-2, Value: 7.160741711996442 mg/dL
+- Start: 1995-04-20T12:15:18-04:00, Description: Creatinine, Code: LOINC 38483-4, Value: 0.6902801735153417 mg/dL
+- Start: 1995-04-20T12:15:18-04:00, Description: Calcium, Code: LOINC 49765-1, Value: 9.083503180879053 mg/dL
+- Start: 1995-04-20T12:15:18-04:00, Description: Sodium, Code: LOINC 2947-0, Value: 139.49973726041034 mmol/L
+- Start: 1995-04-20T12:15:18-04:00, Description: Potassium, Code: LOINC 6298-4, Value: 4.640653906535436 mmol/L
+- Start: 1995-04-20T12:15:18-04:00, Description: Chloride, Code: LOINC 2069-3, Value: 101.50957432826667 mmol/L
+- Start: 1995-04-20T12:15:18-04:00, Description: Carbon Dioxide, Code: LOINC 20565-8, Value: 24.361968822591646 mmol/L
+- Start: 1995-04-20T12:15:18-04:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 9.024317832870986 10*3/uL
+- Start: 1995-04-20T12:15:18-04:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 5.37692868059642 10*6/uL
+- Start: 1995-04-20T12:15:18-04:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 16.26327025733105 g/dL
+- Start: 1995-04-20T12:15:18-04:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 45.22016529746843 %
+- Start: 1995-04-20T12:15:18-04:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 87.29059472376034 fL
+- Start: 1995-04-20T12:15:18-04:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 31.484614957226853 pg
+- Start: 1995-04-20T12:15:18-04:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 34.26925802826999 g/dL
+- Start: 1995-04-20T12:15:18-04:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 44.04361121337159 fL
+- Start: 1995-04-20T12:15:18-04:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 265.98983078677554 10*3/uL
+- Start: 1995-04-20T12:15:18-04:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 172.4168728520792 fL
+- Start: 1995-04-20T12:15:18-04:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 11.394567242693498 fL
+- Start: 1995-04-20T12:15:18-04:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 266919005 Never smoker
+- Start: 1995-04-20T12:15:18-04:00, Description: Hemoglobin A1c/Hemoglobin.total in Blood, Code: LOINC 4548-4, Value: 6.081331261949273 %
+- Start: 1995-07-05T12:15:18-04:00, Description: Oral temperature, Code: LOINC 8331-1, Value: 37.29532501502207 Cel
+- Start: 1995-11-23T11:15:18-05:00, Description: Cause of Death [US Standard Certificate of Death], Code: LOINC 69453-9, Value: SNOMED-CT 254637007 Non-small cell lung cancer (disorder)
+
+## Immunizations
+- Start: 1986-02-27T11:15:18-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1987-03-05T11:15:18-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1988-03-10T11:15:18-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1989-03-16T11:15:18-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1990-03-22T11:15:18-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1991-03-28T11:15:18-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1992-04-02T11:15:18-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1993-04-08T12:15:18-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1994-04-14T12:15:18-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1994-04-14T12:15:18-04:00, Description: Td (adult) preservative free, Code: http://hl7.org/fhir/sid/cvx 113
+- Start: 1995-04-20T12:15:18-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 1995-07-13T12:15:18-04:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+
+## Plan of Care
+- Start: 1947-01-02T11:15:18-05:00, Description: Diabetes self management plan, Code: SNOMED-CT 698360004
+- Start: 1971-12-09T11:15:18-05:00, Description: Care Plan, Code: SNOMED-CT 734163000
+- Start: 1978-01-06T11:15:18-05:00, Description: Cancer care plan, Code: SNOMED-CT 736252007
+- Start: 1986-02-27T11:15:18-05:00, Stop: 1986-03-06T11:15:18-05:00, Description: Respiratory therapy, Code: SNOMED-CT 53950000
+- Start: 1991-11-24T11:15:18-05:00, Description: Terminal care, Code: SNOMED-CT 182964004
+
+## Social History
+There is no current social history at the time of this document's creation.

@@ -1,0 +1,121 @@
+# Patient Record: Wilfred787 Sporer811
+
+## Allergies and Adverse Reactions
+- Start: 1989-02-16T17:21:06-05:00, Description: Shellfish allergy, Code: SNOMED-CT 300913006
+
+## Medications
+- Start: 1989-02-16T17:21:06-05:00, Description: Astemizole 10 MG Oral Tablet, Code: RxNorm 197378
+- Start: 1989-02-16T17:21:06-05:00, Description: NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector, Code: RxNorm 1870230
+- Start: 2011-01-20T17:21:06-05:00, Stop: 2011-01-27T17:21:06-05:00, Description: Acetaminophen 325 MG Oral Tablet, Code: RxNorm 313782
+
+## Diagnostic Results
+- Start: 2016-02-23T17:21:06-05:00, Description: Complete blood count (hemogram) panel - Blood by Automated count, Code: LOINC 58410-2
+- Start: 2019-02-26T17:21:06-05:00, Description: Lipid Panel, Code: LOINC 57698-3
+
+## Problems
+- Start: 2009-11-23T17:21:06-05:00, Stop: 2009-12-07T17:21:06-05:00, Description: Viral sinusitis (disorder), Code: SNOMED-CT 444814009
+- Start: 2011-01-18T17:21:06-05:00, Stop: 2011-01-27T17:21:06-05:00, Description: Acute bronchitis (disorder), Code: SNOMED-CT 10509002
+- Start: 2013-05-27T18:21:06-04:00, Stop: 2013-06-03T18:21:06-04:00, Description: Viral sinusitis (disorder), Code: SNOMED-CT 444814009
+- Start: 2017-02-17T17:21:06-05:00, Stop: 2017-02-28T17:21:06-05:00, Description: Acute viral pharyngitis (disorder), Code: SNOMED-CT 195662009
+
+## Surgeries
+- Start: 2011-01-20T17:21:06-05:00, Stop: 2011-01-20T17:31:06-05:00, Description: Sputum examination (procedure), Code: SNOMED-CT 269911007
+- Start: 2016-02-23T17:21:06-05:00, Stop: 2016-02-23T17:36:06-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+- Start: 2019-02-26T17:21:06-05:00, Stop: 2019-02-26T17:36:06-05:00, Description: Medication Reconciliation (procedure), Code: SNOMED-CT 430193006
+
+## Encounters
+- Start: 1989-02-07T17:21:06-05:00, Stop: 1989-02-07T17:36:06-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 1989-02-16T17:21:06-05:00, Stop: 1989-02-16T18:12:06-05:00, Description: Encounter for problem, Code: SNOMED-CT 185347001
+- Start: 2009-03-03T17:21:06-05:00, Stop: 2009-03-03T17:36:06-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2009-11-24T17:21:06-05:00, Stop: 2009-11-24T17:36:06-05:00, Description: Encounter for check up (procedure), Code: SNOMED-CT 185349003
+- Start: 2009-11-23T17:21:06-05:00, Stop: 2009-11-23T17:36:06-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2010-02-16T17:21:06-05:00, Stop: 2010-02-16T17:36:06-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2011-01-25T17:21:06-05:00, Stop: 2011-01-25T17:36:06-05:00, Description: Encounter for check up (procedure), Code: SNOMED-CT 185349003
+- Start: 2011-01-20T17:21:06-05:00, Stop: 2011-01-20T17:46:06-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2013-02-19T17:21:06-05:00, Stop: 2013-02-19T17:36:06-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2013-05-27T18:21:06-04:00, Stop: 2013-05-27T18:36:06-04:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2016-02-23T17:21:06-05:00, Stop: 2016-02-23T17:51:06-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+- Start: 2017-02-17T17:21:06-05:00, Stop: 2017-02-17T17:36:06-05:00, Description: Encounter for symptom, Code: SNOMED-CT 185345009
+- Start: 2019-02-26T17:21:06-05:00, Stop: 2019-02-26T17:51:06-05:00, Description: General examination of patient (procedure), Code: SNOMED-CT 162673000
+
+## Vital Signs
+- Start: 2009-11-24T17:21:06-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 177.9529433475486 cm
+- Start: 2009-11-24T17:21:06-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.899734103530015 {score}
+- Start: 2009-11-24T17:21:06-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 78.67035643130528 kg
+- Start: 2009-11-24T17:21:06-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 24.842812785098054 kg/m2
+- Start: 2009-11-24T17:21:06-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 79.72884440685752 mm[Hg]
+          Systolic Blood Pressure 112.07061545815621 mm[Hg]
+- Start: 2009-11-24T17:21:06-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 8517006 Former smoker
+- Start: 2010-02-16T17:21:06-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 177.9529433475486 cm
+- Start: 2010-02-16T17:21:06-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.735257179063612 {score}
+- Start: 2010-02-16T17:21:06-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 80.37162577104704 kg
+- Start: 2010-02-16T17:21:06-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 25.380045837310508 kg/m2
+- Start: 2010-02-16T17:21:06-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 77.45054220675935 mm[Hg]
+          Systolic Blood Pressure 100.99080443017961 mm[Hg]
+- Start: 2010-02-16T17:21:06-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 8517006 Former smoker
+- Start: 2011-01-25T17:21:06-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 177.9529433475486 cm
+- Start: 2011-01-25T17:21:06-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 0.0711325563423202 {score}
+- Start: 2011-01-25T17:21:06-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 82.23415454791376 kg
+- Start: 2011-01-25T17:21:06-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 25.9682019841682 kg/m2
+- Start: 2011-01-25T17:21:06-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 80.51945640546987 mm[Hg]
+          Systolic Blood Pressure 122.02654020834487 mm[Hg]
+- Start: 2011-01-25T17:21:06-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 8517006 Former smoker
+- Start: 2013-02-19T17:21:06-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 177.9529433475486 cm
+- Start: 2013-02-19T17:21:06-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.646956769171313 {score}
+- Start: 2013-02-19T17:21:06-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 84.89665830159711 kg
+- Start: 2013-02-19T17:21:06-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 26.808977154039624 kg/m2
+- Start: 2013-02-19T17:21:06-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 82.7087072880236 mm[Hg]
+          Systolic Blood Pressure 127.5218601947743 mm[Hg]
+- Start: 2013-02-19T17:21:06-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 8517006 Former smoker
+- Start: 2016-02-23T17:21:06-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 177.9529433475486 cm
+- Start: 2016-02-23T17:21:06-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 3.368627785710795 {score}
+- Start: 2016-02-23T17:21:06-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 89.49149872631396 kg
+- Start: 2016-02-23T17:21:06-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 28.259952662817387 kg/m2
+- Start: 2016-02-23T17:21:06-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 80.72514431801861 mm[Hg]
+          Systolic Blood Pressure 111.60351375070633 mm[Hg]
+- Start: 2016-02-23T17:21:06-05:00, Description: Leukocytes [#/volume] in Blood by Automated count, Code: LOINC 6690-2, Value: 5.7297336462665225 10*3/uL
+- Start: 2016-02-23T17:21:06-05:00, Description: Erythrocytes [#/volume] in Blood by Automated count, Code: LOINC 789-8, Value: 4.569688785239643 10*6/uL
+- Start: 2016-02-23T17:21:06-05:00, Description: Hemoglobin [Mass/volume] in Blood, Code: LOINC 718-7, Value: 16.493987441455218 g/dL
+- Start: 2016-02-23T17:21:06-05:00, Description: Hematocrit [Volume Fraction] of Blood by Automated count, Code: LOINC 4544-3, Value: 44.48499081995543 %
+- Start: 2016-02-23T17:21:06-05:00, Description: MCV [Entitic volume] by Automated count, Code: LOINC 787-2, Value: 84.17730407225609 fL
+- Start: 2016-02-23T17:21:06-05:00, Description: MCH [Entitic mass] by Automated count, Code: LOINC 785-6, Value: 32.724337847313734 pg
+- Start: 2016-02-23T17:21:06-05:00, Description: MCHC [Mass/volume] by Automated count, Code: LOINC 786-4, Value: 35.8618130387124 g/dL
+- Start: 2016-02-23T17:21:06-05:00, Description: Erythrocyte distribution width [Entitic volume] by Automated count, Code: LOINC 21000-5, Value: 44.95910895704776 fL
+- Start: 2016-02-23T17:21:06-05:00, Description: Platelets [#/volume] in Blood by Automated count, Code: LOINC 777-3, Value: 353.3662636593468 10*3/uL
+- Start: 2016-02-23T17:21:06-05:00, Description: Platelet distribution width [Entitic volume] in Blood by Automated count, Code: LOINC 32207-3, Value: 507.1396817492716 fL
+- Start: 2016-02-23T17:21:06-05:00, Description: Platelet mean volume [Entitic volume] in Blood by Automated count, Code: LOINC 32623-1, Value: 11.438483791140989 fL
+- Start: 2016-02-23T17:21:06-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 8517006 Former smoker
+- Start: 2017-02-17T17:21:06-05:00, Description: Oral temperature, Code: LOINC 8331-1, Value: 37.32868374098261 Cel
+- Start: 2019-02-26T17:21:06-05:00, Description: Body Height, Code: LOINC 8302-2, Value: 177.9529433475486 cm
+- Start: 2019-02-26T17:21:06-05:00, Description: Pain severity - 0-10 verbal numeric rating [Score] - Reported, Code: LOINC 72514-3, Value: 2.503675685471086 {score}
+- Start: 2019-02-26T17:21:06-05:00, Description: Body Weight, Code: LOINC 29463-7, Value: 94.76392257974015 kg
+- Start: 2019-02-26T17:21:06-05:00, Description: Body Mass Index, Code: LOINC 39156-5, Value: 29.924897944064778 kg/m2
+- Start: 2019-02-26T17:21:06-05:00, Description: Blood Pressure, Code: LOINC 55284-4, Value: Diastolic Blood Pressure 74.83958266097976 mm[Hg]
+          Systolic Blood Pressure 135.25966859585304 mm[Hg]
+- Start: 2019-02-26T17:21:06-05:00, Description: Total Cholesterol, Code: LOINC 2093-3, Value: 176.99542245283777 mg/dL
+- Start: 2019-02-26T17:21:06-05:00, Description: Triglycerides, Code: LOINC 2571-8, Value: 143.0058875475568 mg/dL
+- Start: 2019-02-26T17:21:06-05:00, Description: Low Density Lipoprotein Cholesterol, Code: LOINC 18262-6, Value: 79.38689777945994 mg/dL
+- Start: 2019-02-26T17:21:06-05:00, Description: High Density Lipoprotein Cholesterol, Code: LOINC 2085-9, Value: 69.00734716386647 mg/dL
+- Start: 2019-02-26T17:21:06-05:00, Description: Tobacco smoking status NHIS, Code: LOINC 72166-2, Value: SNOMED-CT 8517006 Former smoker
+
+## Immunizations
+- Start: 2009-11-24T17:21:06-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2009-11-24T17:21:06-05:00, Description: Hep B, adult, Code: http://hl7.org/fhir/sid/cvx 43
+- Start: 2010-02-16T17:21:06-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2010-02-16T17:21:06-05:00, Description: Hep B, adult, Code: http://hl7.org/fhir/sid/cvx 43
+- Start: 2011-01-25T17:21:06-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2013-02-19T17:21:06-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2016-02-23T17:21:06-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2019-02-26T17:21:06-05:00, Description: Influenza, seasonal, injectable, preservative free, Code: http://hl7.org/fhir/sid/cvx 140
+- Start: 2019-02-26T17:21:06-05:00, Description: Td (adult) preservative free, Code: http://hl7.org/fhir/sid/cvx 113
+
+## Plan of Care
+- Start: 1989-02-07T17:21:06-05:00, Description: Self care, Code: SNOMED-CT 326051000000105
+- Start: 2009-03-03T17:21:06-05:00, Stop: 2009-11-24T17:21:06-05:00, Description: Respiratory therapy, Code: SNOMED-CT 53950000
+- Start: 2011-01-20T17:21:06-05:00, Stop: 2013-02-19T17:21:06-05:00, Description: Respiratory therapy, Code: SNOMED-CT 53950000
+
+## Imaging Studies
+There are no current imaging studies at the time of this document's creation.
+
+## Social History
+There is no current social history at the time of this document's creation.
