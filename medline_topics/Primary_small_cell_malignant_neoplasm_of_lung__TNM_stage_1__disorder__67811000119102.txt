@@ -1,0 +1,7 @@
+# Lung Cancer-Patient Version
+
+Source: MedlinePlus (medlineplus.gov)
+Matched condition: Primary small cell malignant neoplasm of lung, TNM stage 1 (disorder) (SNOMED-CT 67811000119102)
+Link: https://www.cancer.gov/types/lung?cid=ehr_medlineplus_en_lung
+
+Learn about lung cancer risk factors, symptoms, tests to diagnose, factors affecting prognosis, staging, and treatment.

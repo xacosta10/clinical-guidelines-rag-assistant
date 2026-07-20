@@ -1,0 +1,102 @@
+# Tuberculosis Screening
+
+Source: MedlinePlus (medlineplus.gov)
+Matched condition: Skin test for tuberculosis (SNOMED-CT 28163009)
+Link: https://medlineplus.gov/lab-tests/tuberculosis-screening?utm_source=mplusconnect&utm_medium=service
+
+What is a tuberculosis (TB) screening test?
+A tuberculosis screening test checks to see if you have the bacteria (germs) that cause tuberculosis (TB) in your body. TB is a bacterial infection that mainly attacks the lungs. But it can also affect other parts of the body, including the brain, spine, and kidneys.
+TB germs cause two types of conditions:
+
+Inactive (latent) TB infection happens when you have TB germs in your body, but you're not sick because the germs aren't active. This means you don't have symptoms, and you can't spread the disease to others. However, the germs could start to multiply and make you sick in the future. So, inactive TB infection is usually treated to prevent you from getting sick with active TB.
+Active TB disease means that TB germs are actively growing in your body and making you sick. If TB germs grow in your lungs or throat, you can spread the disease to other people by coughing or sneezing. Antibiotics can almost always cure active TB, but without treatment, it can cause serious illness or even death.
+
+There are two types of TB screening tests that are used to detect TB: a TB skin test (also called a Mantoux test) and a TB blood test (also called an IGRA test). Your health care provider or your local health department can let you know which test is best for you.
+Other names: TB test, TB skin test, purified protein derivative (PPD) test, latent TB infection test, Mantoux tuberculin skin test; IGRA test, TB blood testWhat is it used for?
+Your provider can use a TB screening test to see if the bacteria that cause tuberculosis are in your body. But to actually diagnose TB, your provider will have to review your medical history, your symptoms, and possibly the results from other tests.
+If either type of TB screening test finds signs of TB, it may mean you have a TB infection. However, it can't tell whether the infection is active or inactive.
+Providers and local health departments can also use TB screening tests to help control TB transmission in communities, workplaces, or health care settings.Why do I need a TB screening test?
+You may need a TB screening test if you:
+
+Were exposed to someone with active TB disease.
+Are starting a new job or entering a new school.
+Have a high risk of exposure.
+
+Your risk of exposure is higher if you:
+
+Work in health care.
+Work or live in a place where TB is more common, such as jails, nursing homes, and shelters for people without homes.
+Were born in or often travel to countries where TB disease is common.
+Are having an organ transplant.
+Use illegal drugs that are injected with needles.
+Are receiving treatments for rheumatoid arthritis or Crohn's disease.
+Have a weakened immune system or a health condition that increases your risk of getting active TB. These conditions include diabetes or diseases that weaken your immune system such as HIV.
+
+HIV can especially put you at higher risk for TB. This is because HIV weakens the immune system and so makes it harder for your body to fight off the bacteria that cause TB. Having HIV can also increase the risk that an inactive TB infection becomes active TB disease. Getting treatment for inactive TB can, however, prevent this risk.
+You may need a TB test if you have symptoms of an active TB disease, including:
+
+A cough that lasts longer than three weeks.
+Coughing up blood or sputum (a thick mucus from the lungs).
+Chest pain.
+Night sweats (heavy sweating during sleep).
+Losing weight without trying.
+Loss of appetite.
+Fever.
+Weakness or fatigue.
+What happens during a TB screening test?
+You can have either a TB skin test or a TB blood test, depending on:
+
+Your age.
+Your overall health.
+The test's cost and availability.
+
+Generally, TB skin tests are used more often, but blood tests for TB are becoming more common. Both types are usually done in a clinic or provider's office.
+For a TB skin test (also called a Mantoux tuberculin skin test), you will need two visits to complete the test. The first visit is for doing the test and the second is for reading the results.
+On the first visit:
+
+A health care professional will use a tiny needle to place a small amount of fluid under the skin in the lower part of your arm. The fluid is called tuberculin. It contains a protein that comes from the bacteria that cause TB. It cannot make you sick.
+The fluid will make a small bump on your arm.
+The test spot will be left uncovered.
+You will need to avoid touching the test spot or putting lotions on it. It's okay to get it wet. If it itches, you can put an ice cube or cold cloth on it.
+
+After two to three days, you will return for the second visit. A health care professional will look at the test spot on your arm to see if your skin reacted. If there is a bump of hard skin, the professional will measure the bump. The meaning of the bump depends on how large it is, your risk of exposure, and your risk for developing active TB disease.
+For a TB blood test (also called an IGRA test), a health care professional will take a blood sample from a vein in your arm, using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out. This usually takes less than five minutes.Will I need to do anything to prepare for the test?
+You don't need any special preparations for a TB skin or blood test.Are there any risks to the test?
+There is very little risk to having a TB skin test or blood test. For a TB skin test, you may feel a pinch when the fluid is placed under your skin.
+For a blood test, you may have slight pain or bruising at the spot where the needle was put in, but most symptoms go away quickly.What do the results mean?
+Your TB skin or blood test results will usually be positive, negative, or borderline (indeterminate).
+A positive result means that you have been infected with TB bacteria. You will need more tests to find out if you have an inactive TB infection or TB disease. These tests may include a chest x-ray or a sputum culture. If you had a positive result on a TB skin test, you may have a TB blood test to confirm the result.
+Occasionally, a TB blood or skin test can result in a false positive. This means that the test says you have a TB infection when you don't. A TB test can result in a false positive if you've been vaccinated with the bacille Calmette-Guerin (BCG) TB vaccine. This type of vaccine is rarely used in the United States, but if you have had this vaccination, let your provider know. You may also have a false positive if you have an infection from another type of bacteria from the same family as the TB bacteria.
+A negative result means that your skin or blood did not react to the test. You are unlikely to have an inactive TB infection or TB disease. But you may still need more testing if you:
+
+Have symptoms of TB.
+Were tested sooner than six to eight weeks after exposure to TB.
+Have HIV.
+Had a TB skin test after being around someone with TB disease.
+
+Occasionally, a TB test can also result in a false negative. This means that the test says you don't have a TB infection when you do. A TB test can result in a false negative if you've contracted TB within the past 8 to 10 weeks or if you've had certain measles or smallpox vaccines.
+Sometimes a TB blood test result will be "borderline," which means the test could not show for sure whether you have a TB infection. If this happens, you will likely be tested again.
+Overall, TB tests tend to be accurate. However, TB blood tests are more accurate than TB skin tests. Your provider will consider whether anything about your health history might affect the accuracy of your test results.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.Is there anything else I need to know about a TB screening?
+Both active TB disease and inactive TB infections should be treated. The treatment for both conditions is antibiotics. To make sure you get rid of all the TB germs in your body, you'll need to follow the directions for taking your medicine. Treatment may last a few months to a year. Stopping treatment too soon can cause the infection to come back and make it harder to treat.References
+
+American Lung Association [Internet]. Chicago: American Lung Association; c2025. Tuberculosis Symptoms and Diagnosis; [updated 2025 Jan 30; cited 2025 Oct 7]; [about 3 screens]. Available from: https://www.lung.org/lung-health-diseases/lung-disease-lookup/tuberculosis/symptoms-diagnosis
+American Lung Association [Internet]. Chicago: American Lung Association; c2025. Treating and Managing Tuberculosis; [updated 2025 Jan 30; cited 2025 Oct 7]; [about 3 screens]. Available from: https://www.lung.org/lung-health-diseases/lung-disease-lookup/tuberculosis/treating-and-managing
+American Lung Association [Internet]. Chicago: American Lung Association; c2025. Tuberculosis (TB); [cited 2025 Oct 7]; [about 2 screens]. Available from: https://www.lung.org/lung-health-and-diseases/lung-disease-lookup/tuberculosis
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Bacille Calmette-Guerin (BCG) Vaccine for Tuberculosis; [updated 2025 Jan 31; cited 2025 Dec 11]; [about 2 screens]. Available from: https://www.cdc.gov/tb/hcp/vaccines/index.html
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Signs and Symptoms of Tuberculosis; [updated 2025 Jan 17; cited 2025 Oct 7]; [about 2 screen]. Available from: https://www.cdc.gov/tb/signs-symptoms/
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; TB Risk and People with HIV; [updated 2025 Jan 17; cited 2025 Oct 7]; [about 2 screens]. Available from: https://www.cdc.gov/tb/risk-factors/hiv.html
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Testing for Tuberculosis; [updated 2024 Jun 17; cited 2025 Oct 7]; [about 4 screen]. Available from: https://www.cdc.gov/tb/testing/index.html
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Testing for Tuberculosis: Skin Test; [updated 2025 Jan 31; cited 2025 Oct 7]; [about 3 screens]. Available from: https://www.cdc.gov/tb/testing/skin-test.html
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Tuberculosis Risk Factors; [updated 2024 Dec 10; cited 2025 Oct 7]; [about 3 screen]. Available from: https://www.cdc.gov/tb/risk-factors/
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; What You Need to Know About Tuberculosis Fact Sheet; [updated 2023 Oct; cited 2025 Oct 7]; [about 2 screens]. Available from: https://www.cdc.gov/tb/media/pdfs/What_You_Need_to_Know_About_TB.pdf
+Cleveland Clinic: Health Library: Diagnostics &amp; Testing [Internet]. Cleveland (OH): Cleveland Clinic; c2025. Blood Tests; [reviewed 2022 Dec 06; cited 2025 Nov 11]; [about 16 screens]. Available from: https://my.clevelandclinic.org/health/diagnostics/24508-blood-tests
+Mayo Clinic [Internet]. Mayo Foundation for Medical Education and Research; c1998-2025. Tuberculosis: Diagnosis and treatment; [updated 2025 Apr 24; cited 2025 Oct 7]; [about 14 screens]. Available from: https://www.mayoclinic.org/diseases-conditions/tuberculosis/diagnosis-treatment/drc-20351256
+Mayo Clinic [Internet]. Mayo Foundation for Medical Education and Research; c1998-2025. Tuberculosis: Symptoms and causes; [updated 2025 Apr 24; cited 2025 Oct 7]; [about 15 screens]. Available from: https://www.mayoclinic.org/diseases-conditions/tuberculosis/symptoms-causes/syc-20351250
+Merck Manual Consumer Version [Internet]. Kenilworth (NJ): Merck &amp; Co., Inc.; c2025. Tuberculosis (TB); [reviewed 2024 Jan; cited 2025 Oct 7]; [about 21 screens]. Available from: https://www.merckmanuals.com/home/infections/tuberculosis-and-related-infections/tuberculosis-tb
+Nemours KidsHealth [Internet]. Jacksonville (FL): The Nemours Foundation; c1995-2025. Getting a Blood Test; [reviewed 2021 Sep; cited 2025 Nov 7]; [about 4 screens]. Available from: https://kidshealth.org/en/parents/blood-tests.html
+Testing.com [Internet]. Seattle (WA): OneCare Media; c2025. IGRA TB Test; [modified 2023 Dec 19; cited 2025 Oct 7]; [about 14 screens]. Available from: https://www.testing.com/tests/igra-tb-test/
+
+Testing.com [Internet]. Seattle (WA): OneCare Media; c2025. Sputum; [cited 2025 Oct 7]; [about 1 screen]. Available from: https://www.testing.com/glossary/#sputum
+Testing.com [Internet]. Seattle (WA): OneCare Media; c2025. TB Skin Test; [modified 2021 Nov 9; cited 2025 Oct 7]; [about 9 screens]. Available from: https://www.testing.com/tests/tb-skin-test/

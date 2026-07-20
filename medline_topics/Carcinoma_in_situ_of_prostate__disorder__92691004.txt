@@ -1,0 +1,7 @@
+# Prostate Cancer Treatment (PDQ®)
+
+Source: MedlinePlus (medlineplus.gov)
+Matched condition: Carcinoma in situ of prostate (disorder) (SNOMED-CT 92691004)
+Link: https://www.cancer.gov/types/prostate/patient/prostate-treatment-pdq?cid=ehr_medlineplus_en_prostrate-treatment
+
+Learn about prostate cancer symptoms, tests to diagnose, factors affecting prognosis, staging, and treatment.

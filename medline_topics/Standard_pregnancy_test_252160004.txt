@@ -1,0 +1,85 @@
+# Pregnancy Test
+
+Source: MedlinePlus (medlineplus.gov)
+Matched condition: Standard pregnancy test (SNOMED-CT 252160004)
+Link: https://medlineplus.gov/lab-tests/pregnancy-test?utm_source=mplusconnect&utm_medium=service
+
+What is a pregnancy test?
+A pregnancy test can tell whether you're pregnant by checking a sample of your urine (pee) or blood for a hormone called human chorionic gonadotropin (hCG).
+This hormone is made by the placenta, the organ that grows in your uterus to provide oxygen and nutrients to the fetus. The placenta starts making hCG after a fertilized egg attaches to the inside wall of your uterus. Levels then continue to rise for ten weeks, almost doubling every three days.
+hCG helps your body prepare for pregnancy by:
+
+Telling your body to produce progesterone, which thickens the lining of your uterus.
+Telling your body to produce estrogen, which prepares your body for labor and helps your fetus develop.
+Stopping your menstrual periods.
+
+There are two types of pregnancy tests:
+
+Urine tests, which can be done at your health care provider's office or with an at-home test kit. These tests are 97-99% accurate when done a week or two after you've missed your period and can give you the results quickly. If you do an at-home test, follow the instructions carefully.
+Blood tests, which are always done in your provider's office or a lab. These tests can find very small amounts of hCG and show whether you're pregnant before you've missed your period. However, they aren't commonly used to check for pregnancy. That's because urine tests are less expensive, very accurate, and provide quicker results than blood tests, which may take hours to more than a day.
+
+Other names: human chorionic gonadotropin test, HCG test, qualitative hCG blood test, quantitative hCG blood test, Beta-hCG urine test, total chorionic gonadotropin, hCG total OB, chorionic gonadotropinWhat is it used for?
+Both urine and blood tests check for hCG to find out whether you're pregnant.
+There are two types of blood tests. A quantitative blood test measures the exact amount of hCG in your blood, and a qualitative hCG blood test simply tells you whether you are pregnant or not.
+The amount of hCG in your body can give your provider important information about your pregnancy and the health of your fetus. Quantitative tests are sometimes used to help:
+
+Find out the age of the fetus if you're very early in your pregnancy.
+Monitor your pregnancy if you have a high risk of miscarriage.
+Check for an ectopic pregnancy, which is when a fertilized egg tries to grow outside of the uterus. The egg cannot grow into a fetus when it's in the wrong place. It must be removed to avoid damage to your organs. This can be a medical emergency.
+Check for a molar pregnancy (hydatidiform mole), which is an abnormal growth of tissue in the uterus. It's caused by a fertilized egg with such severe genetic problems that it cannot become a fetus. The growth can turn into cancer and must be removed.
+Detect any problems in the fetus, including Down syndrome, other chromosome problems, and certain birth defects. hCG testing is usually part of a group of prenatal screening tests called a "triple" or "quadruple" screen test.
+
+In some cases, your provider may also order a quantitative hCG blood test to help diagnose or monitor health conditions that aren't related to pregnancy. These include ovarian and testicular cancer along with other conditions that can increase hCG levels.Why do I need a pregnancy test?
+You may need this test if you think you're pregnant. Symptoms of pregnancy vary, but the most common sign of early pregnancy is a missed period. Other common signs of early pregnancy may include:
+
+Swollen, tender breasts
+Fatigue
+Frequent need to urinate (pee)
+Nausea and vomiting (also called morning sickness)
+Feeling bloated or swollen in your abdomen (belly) or body
+
+You may also need a pregnancy test to make sure you are not pregnant if you need to have medical treatment that could harm a fetus.
+Lastly, you may need a quantitative blood test if you:
+
+Are at high risk for a miscarriage. The most common risk factors include active infections, thyroid disease, uncontrolled diabetes, obesity, and uterus or cervix problems.
+Have symptoms of an ectopic pregnancy. These can include abnormal vaginal bleeding, pain in your lower back and/or abdomen, and cramping on one side of the pelvis.
+Have symptoms of a molar pregnancy. These can include abnormal vaginal bleeding, pain in your abdominal or pelvic area, high blood pressure, and severe nausea.
+What happens during a pregnancy test?
+Home pregnancy tests are quick and easy to use. You can buy a home pregnancy test kit without a prescription. The kits include test sticks or strips that react to hCG in your urine. The steps for doing a test depend on the brand, so it's very important to follow the instructions that come with your test. For most test kits, you'll either:
+
+Hold the test stick or strip in your urine stream
+Collect your urine in a cup and dip the test stick or strip into the cup
+
+After waiting a certain number of minutes, you'll check your results on the test stick or strip. The instructions will tell you what to look for. In general, to get the most accurate results with any home pregnancy test, you'll need to:
+
+Check the expiration date before you use the test.
+Read the instructions for your test to see if it has a control symbol. This symbol shows that your test worked correctly and should appear on your stick/strip regardless of the result. It does not tell you whether you're pregnant or not. If your test uses a control symbol and you don't see it on the stick/strip, the test didn't work, and you'll need to take another one.
+Test your first morning urine. Morning urine usually has more hCG than urine later in the day.
+Use a timer. If you guess the timing, your results may not be accurate.
+
+Blood tests are done at your provider's office or a lab. A health care professional will take a blood sample from a vein in your arm, using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out. This process usually takes less than five minutes.Will I need to do anything to prepare for the test?
+If you're doing a urine test, don't drink large amounts of fluid before collecting your sample. That could dilute the hCG in your urine, and it may not show up on the test.
+Taking medicine to help you get pregnant (fertility drugs) could affect your pregnancy test results. If you are taking fertility drugs, talk to your provider if you get a positive result. Your provider may need to verify it.
+Otherwise, you don't need any special preparations for a pregnancy test that uses a sample of your urine or blood.Are there any risks to the test?
+There is no known risk to having a urine test.
+There is very little risk to having a blood test. You may have slight pain or bruising at the spot where the needle was put in, but most symptoms go away quickly.What do the results mean?
+Your results will show whether you're pregnant.
+A negative result means hCG wasn't found in your sample, so you may not be pregnant. However, this isn't always the case. If you did a home urine test too soon after getting pregnant, your body may not have made enough hCG to show up in the results. This is called a false-negative. A false negative result means your test shows that you aren't pregnant, but you really are.
+Because hCG levels increase every day during early pregnancy, it's a good idea to repeat the test a week after you took it the first time. If you get negative (not pregnant) results on two home tests, but you still think you're pregnant, call your provider.
+A positive result means that hCG was found in your sample. That usually means that you're pregnant. It's important to see your provider as soon as possible to make sure you get the right care. If you did a home test, your provider may do another test to confirm your pregnancy.
+In some cases, a home test may say that you're pregnant when you aren't. This is called a false-positive. A false-positive result means your test shows that you are pregnant, but you really aren't. Taking a pregnancy test while also taking fertility medicines could lead to a false-positive test result. If your results are positive but you think you might not be pregnant, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.References
+
+American Pregnancy Association [Internet]. Irving (TX): American Pregnancy Association; c2025. Pregnancy Tests - Urine and Blood; [cited 2025 Sep 3]; [about 10 screens]. Available from: https://americanpregnancy.org/getting-pregnant/understanding-pregnancy-tests/
+Betz D, Fane K. Human Chorionic Gonadotropin. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. [Updated 2025 Apr 27; cited 2025 Sep 3]. Available from: https://www.ncbi.nlm.nih.gov/books/NBK532950/
+Cleveland Clinic: Health Library: Diagnostics &amp; Testing [Internet]. Cleveland (OH): Cleveland Clinic; c2025. Blood Tests; [reviewed 2022 Dec 06; cited 2025 Sep 03]; [about 16 screens]. Available from: https://my.clevelandclinic.org/health/diagnostics/24508-blood-tests
+Cleveland Clinic: Health Library: Diagnostics &amp; Testing [Internet]. Cleveland (OH): Cleveland Clinic; c2025. Pregnancy Tests; [reviewed 2022 Nov 28; cited 2025 Sep 3]; [about 14 screens]. Available from: https://my.clevelandclinic.org/health/diagnostics/9703-pregnancy-tests
+FDA: U.S. Food and Drug Administration [Internet]. Silver Spring (MD): U.S. Department of Health and Human Services; Pregnancy; [updated 2019 Apr 29; cited 2025 Sep 3]; [about 3 screens]. Available from: https://www.fda.gov/medical-devices/home-use-tests/pregnancy 
+March of Dimes [Internet]. White Plains (NY): March of Dimes; c2025. Getting Pregnant; [updated 2023 Mar; cited 2025 Sep 3]; [about 8 screens]. Available from: https://www.marchofdimes.org/pregnancy/getting-pregnant.aspx
+Mayo Clinic: Mayo Medical Laboratories [Internet]. Mayo Foundation for Medical Education and Research; c1995-2025. Test ID: THCG: Human Chorionic Gonadotropin (hCG), Quantitative, Pregnancy, Serum; [cited 2025 Sep 3]; [about 2 screens]. Available from: https://www.mayocliniclabs.com/test-catalog/Overview/80678
+Merck Manual Consumer Version [Internet]. Kenilworth (NJ): Merck &amp; Co. Inc.; c2025. Pregnancy Test and Due Date; [updated 2021 May; cited 2025 Sep 3]; [about 3 screens]. Available from: https://www.merckmanuals.com/home/women-s-health-issues/normal-pregnancy/detecting-and-dating-a-pregnancy
+Nemours KidsHealth [Internet]. Jacksonville (FL): The Nemours Foundation; c1995-2025. Getting a Blood Test; [reviewed 2021 Sep; cited 2025 Sep 03]; [about 4 screens]. Available from: https://kidshealth.org/en/parents/blood-tests.html
+Office on Women's Health [Internet]. Washington D.C.: U.S. Department of Health and Human Services; Knowing if you are pregnant; [updated 2021 Feb 22;; cited 2025 Sep 3]; [about 4 screens]. Available from: https://www.womenshealth.gov/pregnancy/you-get-pregnant/knowing-if-you-are-pregnant
+Pathology Tests Explained [Internet]. Alexandria (Australia): Australasian Association for Clinical Biochemistry and Laboratory Medicine; c2025. HCG (Human chorionic gonadotropin); [Reviewed 2023 Jun 1; cited 2026 Apr 1]; [about 4 screens]. Available from: https://ptex.au/ptests-pro.php?q=HCG+%28Human+chorionic+gonadotrophin%29
+Testing.com [Internet]. Seattle (WA): OneCare Media; c2025. Pregnancy Test hCG (Human Chorionic Gonadotropin); [modified 2022 Sep 27; cited 2025 Sep 3]; [about 13 screens]. Available from: https://www.testing.com/tests/pregnancy-test-hcg/
+Women'sHealth.gov [Internet]. Washington DC: Office on Women's Health, U.S. Department of Health and Human Services; Pregnancy tests; [updated 2021 Feb 22; cited 2025 Sep 3]; [about 8 screens]. Available from: https://womenshealth.gov/a-z-topics/pregnancy-tests

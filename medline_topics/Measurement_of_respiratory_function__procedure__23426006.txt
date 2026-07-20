@@ -1,0 +1,146 @@
+# Lung Function Tests
+
+Source: MedlinePlus (medlineplus.gov)
+Matched condition: Measurement of respiratory function (procedure) (SNOMED-CT 23426006)
+Link: https://medlineplus.gov/lab-tests/lung-function-tests?utm_source=mplusconnect&utm_medium=service
+
+What are lung function tests?
+Lung function tests are a group of tests that check how well your lungs are working. These tests are also called pulmonary function tests, or PFTs. They may be used with other tests and information to help diagnose and monitor certain lung diseases.
+There are many types of lung function tests. Most of them involve breathing through a mouthpiece. The mouthpiece is connected to a device that makes different types of measurements, such as:
+
+How much air your lungs can hold
+How well you move air in and out of your lungs when you breathe
+How well your lungs absorb oxygen from the air you breathe and move it into your blood
+
+Lung function tests also help check the health of your airways. Your airways are the parts of your body that carry air to your lungs, including your nose, throat, trachea (windpipe), and bronchial tubes that connect your windpipe to each lung.
+Common lung function tests include:
+
+Spirometry. This lung function test is used the most. A spirometry test measures how much air you breathe out and how fast you can blow air out of your lungs.
+Lung volume test, also called as body plethysmography. This test is the most accurate way to measure the amount of air your lungs can hold. It also measures the amount of air that remains in your lungs after you exhale as much as you can.
+Lung diffusion capacity test. This test measures how well your lungs deliver oxygen to your blood from the air you breathe.
+Exercise tests. There are different types of tests that measure how well your lungs work when you are active, including:
+
+Six minute walk test
+Cardiopulmonary (heart and lung) exercise test (CPET)
+
+
+
+Your health care provider may order one or more lung function tests, depending on the reason you need to be tested.
+Other names: pulmonary function tests, PFTsWhat are they used for?
+Lung function tests are often used to:
+
+Help diagnose and monitor lung diseases, including:
+
+Asthma
+COPD (chronic obstructive pulmonary disease)
+Emphysema
+Pulmonary fibrosis
+Pulmonary hypertension
+
+
+Guide decisions about treating certain lung diseases with medicine
+Help diagnose and monitor certain diseases that can affect the lungs, such as scleroderma or sarcoidosis
+Check lung function before surgery
+Check for lung damage from exposure to chemicals or other substances at home or work
+Why do I need a lung function test?
+Lung function tests are done for many different reasons. You may need testing if you:
+
+Have signs and/or symptoms of a breathing problem such as:
+
+Shortness of breath
+Wheezing
+Coughing
+A tight feeling in your chest or trouble breathing deeply
+An abnormal chest x-ray
+
+
+Have a lung condition or another type of condition that could damage your lungs
+Have been exposed to substances that can cause lung damage, such as asbestos, radiation, or certain medicines
+Are going to have surgery
+
+Your provider may also order a lung function test as part of your routine exam.What happens during lung function testing?
+There are different ways to do each type of lung function test. But the basic steps are about the same.
+For a spirometry test:
+
+You'll sit on a chair with a soft clip on your nose. The clip makes sure you breathe only through your mouth.
+You'll place your lips tightly around a mouthpiece that's connected to a device called a spirometer.
+You'll be told to take a deep breath in and then blow it out into the mouthpiece as hard as you can. The spirometer will measure how much air you breathe out and how fast you blow it out.
+You may be given medicine to inhale (breath in) that opens your airways. Then you'll blow into the tube again to see if the medicine helps you blow out more air faster.
+
+For a lung volume (body plethysmography) test:
+
+You'll sit in a small, airtight room with clear walls. It looks like a telephone booth.
+You'll wear a soft clip on your nose to make sure you breathe only through your mouth.
+You'll place your lips tightly around a mouthpiece.
+You'll be told how to breathe in and out through the mouthpiece.
+Air pressure changes inside the room will show how much air your lungs can hold and how much air stays in your lungs after you breath out.
+
+A lung volume test may be done by breathing a special mixture of gases for a few minutes while wearing a clip on your nose. For this test, you do not need to sit in an airtight room.
+For a gas diffusion test:
+
+You'll sit on a chair with a soft clip on your nose. The clip makes sure you breathe only through your mouth.
+You'll place your lips tightly around a mouthpiece that's connected to a spirometer.
+You will be asked to breathe in a very small, safe amount of carbon monoxide gas. Then you'll hold your breath for about 10 seconds.
+Next, you'll breathe out through the mouthpiece. The spirometer will measure the amount of carbon dioxide you exhale. This shows how much of the gas your lungs were able to absorb and move into your blood.
+
+For exercise tests:
+Six minute walk test:
+
+Your blood pressure will be measured, and you'll be asked to rate any shortness of breath and fatigue that you feel.
+You'll walk as far as possible in six minutes, usually in a hallway.
+Your heart rate and the amount of oxygen in your blood will be checked as you walk.
+After six minutes, your blood pressure will be measured again, and you'll rate your shortness of breath and fatigue.
+If you normally use portable oxygen for a lung condition, you'll be able to use it during this test.
+
+Cardiopulmonary exercise test (CPET):
+
+You'll be attached to monitors and machines that will measure your breathing, heart rate, blood pressure, and blood oxygen levels while you exercise.
+You'll breathe through a face mask or mouthpiece connected to a monitor. It measures how much oxygen you breath in and how much carbon dioxide you breath out.
+You'll exercise on a stationary bicycle or treadmill for a total of 10 to 20 minutes:
+
+You'll begin exercising with the bike or treadmill set to the easiest level.
+You'll slowly increase your effort until you feel you can't continue. On a bicycle, the resistance will increase, so it's harder to pedal. On a treadmill, the speed will increase, and the platform may tilt so you feel like you're walking uphill.
+As you exercise, you'll be asked to rate how you're feeling. If you have serious symptoms, the test will stop.
+The bike or treadmill will return to the easiest level while you keep pedaling or walking to cool down.
+
+
+Will I need to do anything to prepare for the tests?
+Your provider will let you know how to prepare for your lung function test. To make sure your test results are accurate, follow the instructions you're give. In general:
+
+Wear loose, comfortable clothing.
+Don't eat a large meal within at least two hours of the test.
+You may need to avoid certain activities or foods and beverages before your test. Your provider will tell you for how long. These include:
+
+Heavy exercise
+Smoking
+Drinking alcohol
+Drinking or eating products with caffeine, such as coffee, colas, and chocolate
+
+
+If you use inhaler medicines (bronchodilators), you may need to stop for a period of time before testing. Your provider will tell you when to stop. But never stop taking any medicine without talking with your provider first.
+If you wear dentures, wear them for the test. They'll help you close your lips tightly around the mouthpiece.
+Are there any risks to the tests?
+There is very little risk to having a lung function test. Some people may feel lightheaded, dizzy, or tired from breathing hard. It's also common to cough. Some people may feel nervous being in a small space for a lung volume test. If you have concerns about your test, talk with your provider.What do the results mean?
+A normal lung function test result for you depends on the size of your lungs. Your lung size is based on your height, sex, and age. So, your provider will compare your test results to results from healthy people who are the same height, age, and sex as you.
+If your results aren't normal, it may mean you have a lung condition. Lung function tests can't diagnose which specific lung disease you have. But your test results can tell which of the two main types you have:
+
+Obstructive lung conditions cause your airways to become narrow, making it hard for air to flow out of your lungs. Examples of obstructive lung diseases include asthma, bronchitis, and emphysema.
+Restrictive lung conditions decrease the amount of air your lungs can hold. This may happen if your lungs or your chest muscles can't expand fully when you breath in. Examples of restrictive lung conditions include scleroderma, sarcoidosis, pulmonary fibrosis, and interstitial lung diseases.
+
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.Is there anything else I need to know about lung function tests?
+If you need one or more lung function tests, your provider may also order a blood oxygen level test called an arterial blood gas (ABG) test. This blood test measures the amount of oxygen and carbon dioxide in your blood.References
+
+American Lung Association [Internet]. Chicago: American Lung Association; c.2023 Lung Function Tests; [updated 2022 Nov 17; cited 2023 Jan 5]; [about 3 screens]. Available from: https://www.lung.org/lung-health-and-diseases/lung-procedures-and-tests/lung-function-tests.html
+American Lung Association [Internet]. Chicago: American Lung Association; c2023. Spirometry; [updated 2022 Nov 17; cited 2023 Jan 5]; [about 3 screens]. Available from: https://www.lung.org/lung-health-and-diseases/lung-procedures-and-tests/spirometry.html
+ATS: American Thoracic Society [Internet]. New York: American Thoracic Society; c1998-2026. Patient Resources: Pulmonary Function Tests; [updated 2024 Mar; cited 2026 Feb 19]; [about 6 screens]. Available from: https://site.thoracic.org/advocacy-patients/patient-resources/pulmonary-function-tests
+Cleveland Clinic: Health Library: Diagnostics &amp; Testing [Internet]. Cleveland (OH): Cleveland Clinic; c2023. Body Plethysmography; [reviewed 2022 Dec 18; cited 2023 Jan 6]; [about 13 screens]. Available from: https://my.clevelandclinic.org/health/diagnostics/15467-body-plethysmography-pulmonary-function-test
+Cleveland Clinic: Health Library: Diagnostics &amp; Testing [Internet]. Cleveland (OH): Cleveland Clinic; c2023. Pulmonary Function Testing; [reviewed 2022 Oct 12; cited 2023 Jan 6]; [about 13 screens]. Available from: https://my.clevelandclinic.org/health/diagnostics/17966-pulmonary-function-testing
+Johns Hopkins Medicine [Internet]. The Johns Hopkins University; c2023. Johns Hopkins Medicine: Health Library: Pulmonary Function Tests; [cited 2023 Jan 5]; [about 5 screens]. Available from: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/pulmonary-function-tests
+National Heart, Lung, and Blood Institute [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Pulmonary Function Tests; [cited 2023 Jan 5]; [about 17 screens]. Available from: https://www.nhlbi.nih.gov/science/pulmonary-function-lab/tests
+National Heart, Lung, and Blood Institute [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Tests for Lung Diseases; [updated 2022 Mar 4; cited 2023 Jan 6]; [about 11 screens]. Available from: https://www.nhlbi.nih.gov/health/lung-tests
+Nemours KidsHealth [Internet]. Jacksonville (FL): The Nemours Foundation; c1995-2023. Blood; [updated 2019 Jan; cited 2023 Jan 5]; [about 2 screens]. Available from: https://kidshealth.org/en/parents/blood.html
+Ponce MC, Sankari A, Sharma S. Pulmonary Function Tests. [Updated 2022 Sep 3; cited 2023 Jan 6]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK482339/
+Ranu H, Wilde M, Madden B. Pulmonary Function Tests. Ulster Med J [Internet]. 2011 May [cited 2023 Jan 6]; 80(2):84-90. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3229853
+Temple Health [Internet]. Philadelphia: Temple University Health System; c2023. Pulmonary Function Testing; [cited 2023 Jan 5]; [about 6 screens]. Available from: https://www.templehealth.org/services/treatments/pulmonary-function-testing
+UW Health [Internet]. Madison (WI): University of Wisconsin Hospitals and Clinics Authority; c2023. Health Information: Lung Function Tests; [updated 2022 Mar 9; cited 2023 Jan 5]; [about 6 screens]. Available from: https://patient.uwhealth.org/healthwise/article/en-us/hw5022

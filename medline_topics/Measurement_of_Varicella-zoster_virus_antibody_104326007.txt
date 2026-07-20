@@ -1,0 +1,109 @@
+# Chickenpox and Shingles Tests
+
+Source: MedlinePlus (medlineplus.gov)
+Matched condition: Measurement of Varicella-zoster virus antibody (SNOMED-CT 104326007)
+Link: https://medlineplus.gov/lab-tests/chickenpox-and-shingles-tests?utm_source=mplusconnect&utm_medium=service
+
+What are chickenpox and shingles tests?
+Chickenpox and shingles tests check to see if you are or have ever been infected with the varicella zoster virus (VZV). VZV is a type of herpes virus that causes chickenpox and shingles. This virus is also known as human herpesvirus 3 (HHV-3) and the herpes zoster virus. The first time you are infected with this virus, you get chickenpox. Once you have had chickenpox, you can't get it again. The virus stays in some of your nerve cells but is dormant (inactive). Later in life, the virus can become active again and cause shingles. Unlike chickenpox, you can get shingles more than once, but it is rare. A shingles infection is sometimes also called herpes zoster.
+Testing for VZV involves checking for VZV in a blood, fluid, or tissue sample. There are different types of tests to do this:
+
+A PCR (polymerase chain reaction) test. This test looks for genetic material from VZV in a sample. It is most often done on a sample of fluid taken by swabbing open blisters (a swab test). In some cases, other fluids may be used, but the results may not always be as accurate. The PCR test can get results quickly and is the most useful test for confirming a VZV infection.
+A viral culture test. For this test, cells from a swab test sample are grown in a lab and then checked for VZV. This test is not as accurate as a PCR test.
+A direct fluorescent antibody (DFA) test. This test is also done on a swab test sample that is sent to a lab. It involves using a fluorescent dye and a special microscope to look for VZV in the sample. It is a rapid test, but it is not as accurate as a PCR.
+An antibody test. This is a blood test that looks for VZV antibodies. Antibodies are proteins that your immune system makes to fight foreign substances, such as viruses and bacteria. Testing for one type of antibody (IgM) can show if you have a current or recent VZV infection. Testing for another type of antibody (IgG) can show if you have ever been exposed to VZV.
+
+Which tests and samples are used depends on the person and their symptoms.
+Other names: varicella zoster virus antibody, serum varicella immunoglobulin G antibody level, VZV antibodies IgG and IgM, herpes zosterWhat are they used for?
+Health care providers can usually diagnose chickenpox or shingles with a visual examination. But in some cases, your provider may also order a chickenpox or shingles test to confirm the diagnosis.
+These tests are also sometimes ordered to check for immunity to the varicella zoster virus (VZV). You have immunity if you've had chickenpox before or have had the chickenpox vaccine. When you have immunity, it means you can't get chickenpox. But you can still get shingles later in life.
+These tests may be done on people who are at higher risk of complications from VZV and either don't have immunity or don't know if they have immunity. People who are at higher risk of complications include:
+
+During pregnancy
+Infants
+Teen and adults with symptoms of chickenpox
+People who have weakened immune systems, for example, because they:
+
+
+Have HIV, cancer, or another condition that weakens their immune system
+Have had an organ transplant
+Are taking medicines that weaken the immune system, such as chemotherapy and steroids
+
+
+Why do I need a chickenpox or shingles test?
+You may need a chickenpox or shingles test if you are at higher risk of complications, are not immune to VZV, and/or have symptoms of infection.
+Contact your provider right away if you have symptoms of chickenpox or shingles. Some of the symptoms of chickenpox and shingles are similar, but they are not the same illness. Common symptoms for both include:
+
+A red, blistering rash
+Fever
+Headache
+Sore throat
+
+With chickenpox, the rash first appears on the chest, back, and face. Then it spreads over the entire body, including inside the mouth, eyelids, or genital area. It usually takes about 1 week for all of the blisters to become scabs.
+One to two days before you get the rash, you may have other typical symptoms, such as:
+
+Fever
+Tiredness
+Loss of appetite
+Headache
+
+Some people who have been vaccinated against chickenpox can still get the disease. But they often have milder symptoms and are sick for a shorter period of time than people who are not vaccinated.
+Before getting a rash, people with shingles may first have pain, itching, or tingling in the area where the rash later develops. This can happen several days before the rash appears. They may also have a fever at this time.
+The rash that develops is painful and itchy, and it often develops on just one side of the body or face, and in a small area. The most common place for shingles to occur is in a band around one side of the waistline. Shingles on the face can affect the eye and cause vision loss. Rarely, the rash can be more widespread on the body and look similar to a chickenpox rash. This usually happens in people with weakened immune systems.
+The rash consists of blisters that typically scab over in 7 to 10 days and fully clear up within 2 to 4 weeks.
+Other symptoms of shingles can include:
+
+Headache
+Chills
+Upset stomach
+
+You may also need this test if you are at higher risk of complications and were recently exposed to chickenpox or shingles. You can't catch shingles from another person. But the shingles virus (VZV) can spread and cause chickenpox in someone who doesn't have immunity.What happens during chickenpox and shingles testing?
+You will need to provide a sample of blood from your vein or from the fluid in one of your blisters. Blood tests check for antibodies to the VZV. Blister tests check for the virus itself.
+For a blood test from a vein, a health care professional will take a blood sample from a vein in your arm using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out.
+For a blister test, a provider will gently press a cotton swab on a blister to collect a sample of fluid for testing.
+Both tests are quick, each usually taking less than five minutes.Will I need to do anything to prepare for the test?
+You don't need any special preparations for a blood or blister test.Are there any risks to the test?
+After a blood test, you may have slight pain or bruising at the spot where the needle was put in, but most symptoms go away quickly. There is no risk to having a blister test.What do the results mean?
+If you have symptoms and your test results show VZV antibodies or the virus itself, it's likely you have chickenpox or shingles. Your diagnosis of either chickenpox or shingles will depend on your age and specific symptoms.
+If you don't have symptoms and your results show antibodies to the virus or the virus itself, you either had chickenpox at one point or received the chickenpox vaccine.
+If you are diagnosed with an infection and are in a high-risk group, your provider may prescribe antiviral medicines. Early treatment can prevent serious and painful complications.
+Most healthy children and adults with chickenpox will recover from chickenpox within a week or two. Home treatment can help relieve symptoms. More serious cases may be treated with antiviral medicines. Shingles may also be treated with antiviral medicines as well as pain relievers.
+If you have questions about your results or your child's results, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.Is there anything else I need to know about chickenpox and shingles tests?
+The best way to prevent chickenpox is to get the chickenpox vaccine. The Centers for Disease Control and Prevention (CDC) recommends the chickenpox vaccine for children, teens, and adults who never had chickenpox or the chickenpox vaccine:
+
+For children:
+
+The first dose is recommended at 12 through 15 months old
+The second dose is recommended at 4 through 6 years old
+
+
+
+People 13 years of age and older who have never had chickenpox and haven't had a chickenpox vaccine should get two doses, at least 28 days apart
+There is also a vaccine for shingles. It's called Shingrix. The CDC recommends that healthy adults age 50 and older get two doses of Shingrix, separated by 2 to 6 months. Shingrix is also recommended for adults 19 years and older who have weakened immune systems due to disease or medicines. The vaccine provides strong protection against shingles and complications from the disease.
+Since you can get shingles more than once, you should get the vaccine even if you've already had shingles.
+A different shingles vaccine called Zostavax is no longer available in the United States. If you had a Zostavax vaccine in the past, you should still get vaccinated with Shingrix. Talk to your provider about the best time to get Shingrix.References
+
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; About Chickenpox; [reviewed 2022 Oct 21; cited 2023 Aug 10]; [about 1 screen]. Available from: https://www.cdc.gov/chickenpox/about/index.html
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; About Shingles (Herpes Zoster); [reviewed 2023 May 10; cited 2023 Aug 10]; [about 2 screens]. Available from: https://www.cdc.gov/shingles/about/
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Chickenpox Symptoms and Complications; [reviewed 2021 Apr 28; cited 2023 Sep 9]; [about 1 screen]. Available from: https://www.cdc.gov/chickenpox/signs-symptoms/
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Chickenpox Vaccination: What Everyone Should Know; [reviewed 2021 Apr 28; cited 2023 Aug 10]; [about 3 screens]. Available from: https://www.cdc.gov/vaccines/vpd/varicella/public/index.html
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; How to Treat Chickenpox; [reviewed 2021 Apr 28; cited 2023 Sep 9]; [about 1 screen]. Available from: https://www.cdc.gov/chickenpox/treatment/
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Laboratory Testing for Varicella-Zoster Virus (VZV); [reviewed 2021 Apr 28; cited 2023 Sep 5]; [about 3 screens]. Available from: https://www.cdc.gov/chickenpox/php/laboratories/
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Shingles Symptoms and Complications; [reviewed 2023 May 10; cited 2023 Sep 12]; [about 3 screens]. Available from: https://www.cdc.gov/shingles/signs-symptoms/
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Shingles Vaccination; [reviewed 2023 May 8; cited 2023 Aug 10]; [about 4 screens]. Available from: https://www.cdc.gov/shingles/vaccines/
+Cleveland Clinic: Health Library: Diagnostics &amp; Testing [Internet]. Cleveland (OH): Cleveland Clinic; c2023. Blood Tests; [reviewed 2022 Dec 06; cited 2023 Oct 6]; [about 16 screens]. Available from: https://my.clevelandclinic.org/health/diagnostics/24508-blood-tests
+Cleveland Clinic [Internet]. Cleveland (OH): Cleveland Clinic; c2023. Chickenpox; [reviewed 2021 Dec 30; cited 2023 Aug 10]; [about 16 screens]. Available from: https://my.clevelandclinic.org/health/diseases/4017-chickenpox
+Cleveland Clinic [Internet]. Cleveland (OH): Cleveland Clinic; c2023. Shingles; [reviewed 2022 Feb 2; cited 2023 Aug 10]; [about 17 screens]. Available from: https://my.clevelandclinic.org/health/diseases/11036-shingles
+Familydoctor.org [Internet]. Leawood (KS): American Academy of Family Physicians; c2023. Chickenpox; [updated 2018 Nov 3; cited 2023 Aug 10]; [about 6 screens]. Available from: https://familydoctor.org/condition/chickenpox
+Familydoctor.org [Internet]. Leawood (KS): American Academy of Family Physicians; c2023. Shingles; [updated 2021 Feb 23; cited 2023 Aug 10]; [about 6 screens]. Available from: https://familydoctor.org/condition/shingles
+Mayo Clinic [Internet]. Mayo Foundation for Medical Education and Research; c1998-2023. Shingles; [updated 2022 Aug 20; cited 2023 Sep 12]; [about 8 screens]. Available from: https://www.mayoclinic.org/diseases-conditions/shingles/symptoms-causes/syc-20353054
+Merck Manual Consumer Version [Internet]. Kenilworth (NJ): Merck &amp; Co., Inc.; c2023. Chickenpox; [reviewed 2021 Sep; cited 2023 Aug 10]; [about 6 screens]. Available from: https://www.merckmanuals.com/home/infections/herpesvirus-infections/chickenpox
+Michigan Medicine: University of Michigan [Internet]. Ann Arbor (MI): Regents of the University of Michigan; c1995-2025. Chickenpox Overview; [updated 2023 Apr18; cited 2025 Nov 19]; [about 9 screens]. Available from: https://www.uofmhealthsparrow.org/departments-conditions/conditions/chickenpox
+National Institute on Aging [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Shingles; [updated 2021 Oct 12; cited 2023 Sep 11]; [about 6 screens]. Available from: https://www.nia.nih.gov/health/shingles
+Nemours KidsHealth [Internet]. Jacksonville (FL): The Nemours Foundation; c1995-2023. Getting a Blood Test; [reviewed 2021 Sep; cited 2023 Oct 6]; [about 4 screens]. Available from: https://kidshealth.org/en/parents/blood-tests.html
+Nemours KidsHealth [Internet]. Jacksonville (FL): The Nemours Foundation; c1995-2023. Shingles; [reviewed 2023 Apr; cited 2023 Aug 10]; [about 5 screens]. Available from: https://kidshealth.org/en/parents/shingles.html
+Pathology Tests Explained [Internet]. Alexandria (Australia): Australasian Association for Clinical Biochemistry and Laboratory Medicine; c2023. Varicella zoster virus; [cited 2023 Sep 27]; [about 8 screens]. Available from: https://www.pathologytestsexplained.org.au/ptests-pro.php?q=Varicella%20zoster%20virus
+Testing.com [Internet]. Seattle (WA): OneCare Media; c2023. Chickenpox and Shingles Test; [modified 2021 Nov 9; cited 2023 Aug 10]; [about 11 screens]. Available from: https://www.testing.com/tests/chickenpox-and-shingles-tests/
+UW Health [Internet]. Madison (WI): University of Wisconsin Hospitals and Clinics Authority; c2019. Health Information: Shingles: Exams and Tests; [updated 2019 Jun 9; cited 2019 Oct 23]; [about 9 screens]. Available from: https://www.uwhealth.org/health/topic/major/shingles/hw75433.html#aa29674
+UW Health [Internet]. Madison (WI): University of Wisconsin Hospitals and Clinics Authority; c2019. Health Information: Shingles: Topic Overview; [updated 2019 Jun 9; cited 2019 Oct 23]; [about 2 screens]. Available from: https://www.uwhealth.org/health/topic/major/shingles/hw75433.html#hw75435

@@ -1,0 +1,85 @@
+# Bone Density Scan
+
+Source: MedlinePlus (medlineplus.gov)
+Matched condition: Bone density scan (procedure) (SNOMED-CT 312681000)
+Link: https://medlineplus.gov/lab-tests/bone-density-scan?utm_source=mplusconnect&utm_medium=service
+
+What is a bone density scan?
+A bone density scan, also known as a DEXA or DXA scan, is a low-dose x-ray that measures calcium and other minerals in your bones. Bones containing more minerals are denser and tend to be stronger and less likely to break. The measurement helps show your bone's strength and thickness (known as bone density or mass).
+Your bones usually become thinner as you get older or if you develop certain medical conditions. When bones become thinner than usual, it's known as osteopenia. Osteopenia puts you at risk for a more serious condition called osteoporosis. Osteoporosis is a disease that causes bones to become very thin and brittle. It gets worse over time. It usually affects older people and is most common in women over the age of 65. People with osteoporosis are at higher risk for fractures (broken bones), especially in their hips, spine, and wrists.
+Other names: bone mineral density test, BMD test, DEXA scan, DXA; Dual-energy x-ray absorptiometry scan, Bone densitometry, Dual x-ray absorptiometry, DXAWhat is it used for?
+A bone density scan is used to:
+
+Diagnose osteopenia (low bone mass)
+Diagnose osteoporosis
+Predict your risk of future fractures
+See if treatment for osteoporosis is working
+Why do I need a bone density scan?
+Most women age 65 or older should have a bone density scan. Women in this age group are at high risk of losing bone density, which can lead to fractures. Women of other ages and men may also be at risk for losing bone density if they:
+
+Have a very low body weight
+Have had one or more fractures after the age of 50
+Have lost a half inch or more in height within one year
+Have a family history of osteoporosis
+
+Other risk factors for losing bone density include:
+
+Lack of physical activity
+Long-time use of tobacco or alcohol
+Not getting enough calcium and vitamin D in your diet
+Having medical conditions such as diabetes or rheumatoid arthritis
+Being an older male with risk factors for weak bones or osteoporosis
+What happens during a bone density scan?
+There are different ways to measure bone density. The most common and accurate method is with dual-energy x-ray absorptiometry, also known as a central DEXA scan. The scan checks the bone density of your lower spine, hip, wrist, or entire body. It is usually done in a hospital or clinic.
+During a central DEXA scan:
+
+You will lie on your back on a padded table. You will probably be able to leave your clothes on.
+You may need to lie with your legs straight, or you may be asked to rest your legs on a padded platform.
+The arm of the scanning machine will pass over your hips and spine. At the same time, another scanning machine will pass under you. The images from the two machines will be combined and sent to a computer. A health care provider will view the images on the computer screen.
+While the machines are scanning, you need to stay very still. You may be asked to hold your breath to keep the images from blurring.
+
+The test usually takes 10 to 30 minutes. Your provider will usually get the results in a few days.
+Sometimes, a bone density scan is only done on your wrist, hand, or foot bones. This is known as a peripheral DEXA (p-DEXA) scan. The portable p-DEXA device has a box-like structure. This kind of scan might be done in a provider's office, mobile health van, or drugstore.
+During a peripheral DEXA (p-DEXA) scan:
+
+You will be asked to place your finger, hand, forearm, or foot in the space for imaging.
+This test takes a few minutes, and your provider should receive the results shortly after.
+This scan can provide good information about your fracture risk but cannot give as much detail as the central DEXA scan.
+If you are found to be at risk of bone fractures, your provider may recommend a central DEXA scan.
+Will I need to do anything to prepare for the test?
+You may be told to stop taking calcium supplements 24 to 48 hours before your test. You should also avoid wearing metal jewelry or clothes with metal parts, such as buttons or buckles.Are there any risks to the test?
+A bone density scan uses very low doses of radiation. It is safe for most people. But it is not recommended during pregnancy. Even low doses of radiation could harm a developing baby. Be sure to tell your provider if you are pregnant or think you may be pregnant.What do the results mean?
+Bone density results are often given as T-scores and Z-scores. A higher number means that you have greater bone density. The lower your score, the higher your risk of bone fracture.
+
+T-score may be used if you are a postmenopausal woman or a man age 50 or older. This measurement compares your bone density with a healthy young adult of the same sex.
+Z-score may be used if you are premenopausal, a male under age 50, or a child. This measurement compares your bone density measurement with other people your age, weight, sex, and ethnic or racial origin.
+
+Your T-score results may show one of the following:
+
+A T-score of -1.0 or higher. This is considered normal bone density.
+A T-score between -1.0 and -2.4. This means you have low bone density (osteopenia) and may be at risk for developing osteoporosis.
+A T-score of -2.5 or less. This means you probably have osteoporosis.
+
+If your results show you have low bone density, your provider will recommend steps to prevent further bone loss. These may include:
+
+Getting more exercise, with activities such as walking, dancing, and using weight machines.
+Adding calcium and vitamin D to your diet.
+Taking prescription medicines to increase bone density.
+
+
+Your provider may recommend how often you need to have repeat scans, based on your risk of bone fractures. The recommendations are to get a central DEXA scan every two years for high risk, every 3 to 5 years for moderate risk, and every 10 to 15 years for low risk.
+If you have questions about your results and/or treatments for bone loss, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.Is there anything else I need to know about a bone density scan?
+A DEXA scan is the most common way to measure bone density. But your provider may order more tests to confirm a diagnosis or to find out if bone loss treatment is working. These include a calcium blood test, a vitamin D test, and/or tests for certain hormones.
+DEXA scans are not as accurate if you have a history of spinal surgery or spinal deformity, fractures, or arthritis in your spine.References
+
+Cleveland Clinic: Health Library: Diagnostics &amp; Testing [Internet]. Cleveland (OH): Cleveland Clinic; c2023.DEXA (DXA) Scan: Bone Density Test; [reviewed 2020 Dec 15; cited 2024 Mar 13]; [about 5 screens]. Available from: https://my.clevelandclinic.org/health/diagnostics/10683-dexa-dxa-scan-bone-density-test/
+Maine Health [Internet]. Portland (ME): Maine Health; c2024. Bone Density Test/DEXA Scan; [cited 2024 Feb 6]; [about 2 screens]. Available from: https://mainehealth.org/services/x-ray-radiology/bone-density-test
+Mayo Clinic [Internet]. Mayo Foundation for Medical Education and Research; c1998-2024. Bone density test: Overview; 2022 Sep 21 [cited 2024 Feb 6]; [about 11 screens]. Available from: https://www.mayoclinic.org/tests-procedures/bone-density-test/about/pac-20385273
+Merck Manual Consumer Version [Internet]. Kenilworth (NJ): Merck &amp; Co. Inc.; 2024. Tests for Musculoskeletal Disorders; [updated Modified 2022 Sep; cited 2024 Feb 6]; [about 4 screens]. Available from: https://www.merckmanuals.com/home/bone-joint-and-muscle-disorders/diagnosis-of-musculoskeletal-disorders/tests-for-musculoskeletal-disorders
+MyHealthfinder. [Internet]. Washington D.C.: Office of Disease Prevention and Health Promotion; U.S. Department of Health and Human Services; Get a Bone Density Test; [updated 2024 Apr 8; cited 2026 Feb 27]; [about 4 screens]. Available from: https://odphp.health.gov/myhealthfinder/doctor-visits/screening-tests/get-bone-density-test
+National Institute of Arthritis and Musculoskeletal and Skin Diseases [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Bone Mineral Density Tests: What the Numbers Mean; [reviewed 2025 Feb; cited 2025 April 23]; [about 3 screens]. Available from: https://www.niams.nih.gov/health-topics/bone-mineral-density-tests-what-numbers-mean
+National Osteoporosis Foundation [Internet]. Arlington (VA): NOF; c2024. Bone Density Exam/Testing; [reviewed 2022 Mar 8; cited 2024 Feb 6]; [about 4 screens]. Available from: https://www.nof.org/patients/diagnosis-information/bone-density-examtesting
+Testing.com [Internet]. Seattle (WA): OneCare Media; c2024. Bone Density Test; [modified 2022 Jan 7; cited 2024 Mar 13]; [about 16 screens]. Available from: https://www.testing.com/tests/bone-density-tests/
+Testing.com [Internet]. Seattle (WA): OneCare Media; c2024. Osteoporosis Testing; [modified 2022 Apr 8; cited 2024 Feb 6]; [about 13 screens]. Available from: https://www.testing.com/osteoporosis-testing/
+WomensHealth.gov [Internet]. Washington DC: Office on Women's Health, U.S. Department of Health and Human Services; Osteoporosis; [updated 2021 Feb22; cited 2024 Mar 13]; [about 4 screens]. Available from: https://www.womenshealth.gov/a-z-topics/osteoporosis

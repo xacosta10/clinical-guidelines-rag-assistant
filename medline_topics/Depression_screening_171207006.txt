@@ -1,0 +1,110 @@
+# Depression Screening
+
+Source: MedlinePlus (medlineplus.gov)
+Matched condition: Depression screening (SNOMED-CT 171207006)
+Link: https://medlineplus.gov/lab-tests/depression-screening?utm_source=mplusconnect&utm_medium=service
+
+What is depression screening?
+A depression screening (also called a depression test) is a standard set of questions that you answer to help your health care provider find out whether you have symptoms or are at risk of depression. To be able to tell if you have depression, your provider will need to perform other tests and possibly refer you to a mental health care provider.
+Depression is a common but serious mental health condition that differs from feelings of sadness or grief. Unlike sadness or grief, depression can affect not only how you feel, but also how you think and behave. It can last for weeks and can make it hard to function in daily life. You may, for example, lose interest in activities you once enjoyed. Some people with depression may feel worthless. In some cases, depression can also lead to thoughts of self-harm or even suicide.
+Because depression is a common mental health problem, depression screening is often done as part of a routine health checkup. Medical experts recommend that depression screening should be done for everyone starting at age 12. This is because screening can help find depression early, and treating depression early may make recovery faster.
+Other names: depression test, Patient Health Questionnaire-9 (PHQ-9), Beck Depression Inventory (BDI), Hamilton Depression Rating Scale (HAM-D), Zung Self-Rating Depression Scale (SDS), Geriatric Depression Scale (GDS and GDS-SF)What is it used for?
+A depression screening is used to:
+
+Help diagnose depression
+Understand how severe depression may be
+Help figure out what type of depression you have
+
+There are different types of depression. The most common types are:
+
+Major depression (or major depressive disorder). The symptoms of this condition usually make it hard to work, sleep, study, and/or eat for at least two weeks.
+Persistent depressive disorder (dysthymia). The symptoms of this condition are less severe than those of major depression, but they last much longer, usually for at least two years.
+Seasonal affective disorder (SAD). This form of depression usually happens in winter when there’s less sunlight. Most people with SAD tend to feel better in the spring and summer.
+Postpartum and perinatal depression. Postpartum depression is major depression that happens after giving birth, while perinatal depression begins during pregnancy and may continue after birth. Both conditions are more severe and lasts longer than mild unhappiness and other mood changes that are often called the “baby blues.”
+
+Depression may also be part of other mental health conditions, such as bipolar disorder. Those with this disorder experience cycles of extreme lows (depression) and extreme highs (mania). If your provider suspects bipolar disorder, they will likely use different screening tests.Why do I need depression screening?
+Depression screening is often part of a routine health checkup, especially during pregnancy and after birth. Providers regularly screen for depression because identifying most types of depression early can make treatment more effective.
+You may also need a screening if you show signs of depression, such as:
+
+Loss of interest or pleasure in activities you used to enjoy
+Feeling sad or anxious often
+Feelings of guilt, worthlessness or helplessness
+Trouble sleeping (insomnia) or sleeping too much
+Fatigue or lack of energy
+Trouble concentrating, remembering details, or making decisions
+Unexplained changes in your weight or appetite
+Thoughts of hurting yourself or suicide
+
+If you are thinking about suicide or hurting yourself, get help right away:
+
+Call 911 or go to your local emergency room.
+Contact a suicide hotline. In the United States, you can reach the National Suicide and Crisis Lifeline at any time. To do this, you can call or text 988, chat online with Lifeline Chat, or, if you’re a TTY user, dial 711 then 988. If you’re a veteran, contact the Veterans Crisis Line. To do this, call 988, then press 1, or text 838255. You can also chat online with someone from this organization.
+Call your mental health provider or other provider.
+Reach out to a loved one or close friend.
+
+Some conditions can increase your risk of depression. These include:
+
+Cancer
+Reproductive disorders
+Chronic illnesses, such as HIV and chronic obstructive pulmonary disease (COPD)
+Heart attack, heart failure, or stroke
+Dementia
+Alcohol use disorder
+
+You may also have a higher risk of depression if you:
+
+Have experienced an emotionally distressing event such as the loss of a loved one
+Have a family history of depression
+Are a woman
+
+If you do have a higher risk of depression, your provider may screen you more regularly.What happens during depression screening?
+During a depression screening, you’ll answer a set of questions about your feelings, thoughts, and behaviors. Your provider may ask the questions directly or give you a short questionnaire to fill out.
+In general, you’ll be asked about:
+
+Changes in your mood, sleep habits, energy levels, or appetite/weight
+Stress levels and concentration
+Any medicines you take
+Any recent life changes
+Alcohol and drug use
+Your personal and family history of depression and other mental health conditions
+
+There’s no lab test that can diagnose depression, but your provider may order blood tests to find out if any health condition, such as anemia or thyroid disease, may be causing depression.
+During a blood test, a health care professional will take a blood sample from a vein in your arm, using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out. This usually takes less than five minutes.
+If you are being tested by a mental health provider, they may ask you more detailed questions about your feelings and behaviors. You may also be asked to fill out a questionnaire about these issues.Will I need to do anything to prepare for depression screening?
+You usually don't need any special preparations for a depression test or a blood test.Are there any risks to depression screening? 
+There is no risk to answering questions or having a physical exam.
+There is very little risk to having a blood test. You may have slight pain or bruising at the spot where the needle was put in, but most symptoms go away quickly.What do the results mean?
+Your screening results, along with your symptoms, will help your provider decide whether you may have depression and, if so, how severe it is.
+If you are diagnosed with depression, your provider will discuss your treatment options, which may include:
+
+Counseling or psychotherapy with a mental health provider (someone who specializes in diagnosing and treating mental health problems)
+Medicine, such as antidepressants
+Lifestyle changes, such as getting more exercise and maintaining a healthier diet
+Follow-up care to monitor progress
+
+Treatment for depression may take time to work, but it can help reduce symptoms and shorten how long depression lasts. Starting treatment as soon as possible may improve your chance of recovery.
+Learn more about laboratory tests, reference ranges, and understanding results.Is there anything else I need to know about depression screening?
+There are many types of mental health providers who treat depression. Your primary health care provider can help you find the right support.
+These are some of the professionals who have training to diagnose and treat depression:
+
+Psychiatrists are medical doctors who specialize in mental health. Psychiatrists can prescribe medicine.
+Psychologists generally have doctoral degrees, but they do not have medical degrees. They can't prescribe medicine unless they have a special license. Some psychologists work with providers who can prescribe medicine. Psychologists may use one-on-one counseling and/or group therapy sessions.
+Psychiatric or mental health nurses are nurses with special training in mental health problems. Nurses who may have a master's or doctoral degree in psychiatric-mental health nursing include advanced practice registered nurses (APRNs), certified nurse practitioners (CNPs), and clinical nurse specialists (CNSs). In some states, certain nurses can prescribe medicines.
+Licensed clinical social workers have at least a master's degree in social work with special training in mental health. They can't prescribe medicine, but they may work with providers who can prescribe medicine. Providers who are licensed clinical social workers usually have LCSW or LICSW after their names.
+Licensed professional counselors (LPC) may also be called clinicians or therapists. States have different names of these licenses, such as LMFT (licensed marriage and family therapist). These professionals usually have a master's degree in a field related to mental health. They can't prescribe medicine, but may work with providers who can.
+References
+
+American Psychiatric Association [Internet]. Washington D.C.: American Psychiatric Association; c2025. What Is Depression?; [reviewed 2024 Apr; cited 2025 Nov 12]; [about 7 screens]. Available from: https://www.psychiatry.org/patients-families/depression/what-is-depression
+Centers for Disease Control and Prevention [Internet]. Atlanta: U.S. Department of Health and Human Services; Tips From Former Smokers®: Mental Health Conditions: Depression and Anxiety; [reviewed 2023 Oct 13; cited 2025 Nov 12]; [about 7 screens]. Available from: https://www.cdc.gov/tobacco/campaign/tips/diseases/depression-anxiety.html
+Chand SP, Arif H. Depression. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. [Updated 2023 Jul 17; cited 2025 Nov 12]. Available from: https://www.ncbi.nlm.nih.gov/books/NBK430847/
+Cleveland Clinic: Health Library: Diagnostics &amp; Testing [Internet]. Cleveland (OH): Cleveland Clinic; c2025. Blood Tests; [reviewed 2022 Dec 06; cited 2025 Nov 12]; [about 16 screens]. Available from: https://my.clevelandclinic.org/health/diagnostics/24508-blood-tests
+Johns Hopkins Medicine [Internet]. The Johns Hopkins University, The Johns Hopkins Hospital, and Johns Hopkins Health System; c2025. Health Library: Depression; [cited 2025 Nov 12]; [about 6 screens]. Available from: https://www.hopkinsmedicine.org/health/conditions-and-diseases/depression
+Mayo Clinic [Internet]. Mayo Foundation for Medical Education and Research; c1998–2025. Depression (major depressive disorder): Diagnosis and treatment; [updated 2022 Oct 14; cited 2025 Nov 12]; [about 15 screens]. Available from: https://www.mayoclinic.org/diseases-conditions/depression/diagnosis-treatment/drc-20356013
+Mayo Clinic [Internet]. Mayo Foundation for Medical Education and Research; c1998–2025. Depression (major depressive disorder): Symptoms and causes; [updated 2022 Oct 14; cited 2025 Nov 12]; [about 9 screens]. Available from: https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007
+Mayo Clinic [Internet]. Mayo Foundation for Medical Education and Research; c1998–2025. Mental health providers: Tips on finding one; [updated 2023 Apr 14; cited 2025 Nov 12]; [about 7 screens]. Available from: https://www.mayoclinic.org/diseases-conditions/mental-illness/in-depth/mental-health-providers/art-20045530
+Merck Manual Consumer Version [Internet]. Kenilworth (NJ): Merck &amp; Co. Inc.; c2025. Depression; [modified 2023 Oct; cited 2025 Nov 12]; [about 15 screens]. Available from: https://www.merckmanuals.com/home/mental-health-disorders/mood-disorders/depression
+National Alliance on Mental Illness [Internet]. Arlington (VA): NAMI; c2025. Types of Mental Health Professionals; [updated 2020 Apr; cited 2025 Nov 12]; [about 8 screens]. Available from: https://www.nami.org/Learn-More/Treatment/Types-of-Mental-Health-Professionals
+National Institute of Mental Health [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Depression; [updated 2024 Dec; cited 2025 Nov 12]; [about 4 screens]. Available from: https://www.nimh.nih.gov/health/topics/depression
+National Institute of Mental Health [Internet]. Bethesda (MD): U.S. Department of Health and Human Services; Perinatal Depression; [updated 2023; cited 2025 Nov 12]; [about 6 screens]. Available from: https://www.nimh.nih.gov/health/publications/perinatal-depression
+Nemours KidsHealth [Internet]. Jacksonville (FL): The Nemours Foundation; c1995-2025. Getting a Blood Test; [reviewed 2021 Sep; cited 2025 Nov 12]; [about 4 screens]. Available from: https://kidshealth.org/en/parents/blood-tests.html
+SAMHSA [Internet]. Rockville (MD): Substance Abuse and Mental Health Services Administration; Depression; [updated 2023 Apr 24; cited 2025 Nov 12]; [about 5 screens]. Available from: https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/depression
