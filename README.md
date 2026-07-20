@@ -12,7 +12,7 @@ In progress, Month 1 of a 3-month portfolio build.
 - [x] Week 1: Data sourcing and cleaning
 - [x] Week 2: Embedding and retrieval pipeline
 - [x] Week 3: LLM integration and prompt design
-- [ ] Week 4: Evaluation and deployment
+- [x] Week 4: Evaluation
 
 ## Data
 
@@ -25,11 +25,11 @@ This project combines two complementary data sources:
 
 1. `clean_ccda.py`: parses raw CCDA XML files and extracts clean, section-organized text (Problems, Medications, Allergies, and so on) for each patient
 2. `fetch_medline_topics.py`: pulls SNOMED codes from cleaned patient records and looks up matching plain-language condition summaries from MedlinePlus
-3. `chunk_documents.py`: splits both patient records and MedlinePlus topics into overlapping, source-tagged chunks for embedding
+3. `chunk_documents.py`: splits both patient records and MedlinePlus topics into overlapping, source-tagged chunks for embedding, prepending the patient name (or MedlinePlus topic title) directly into each chunk's embedded text so retrieval can distinguish between similarly-structured sections across different patients
 4. `build_vector_store.py`: embeds each chunk and stores it in a local Chroma vector database
 5. `test_retrieval.py`: lets you query the vector store directly and inspect the top matching chunks (raw retrieval, no LLM)
 6. `rag_qa.py`: retrieves the top matching chunks for a question, then asks Claude (Anthropic's LLM, via API) to write a grounded, plain-English answer with source citations back to the exact patient record or MedlinePlus topic each claim came from
-7. (planned) Evaluation against a hand-built test set of question/answer pairs
+7. `evaluate.py`: runs a hand-built set of test questions through the full retrieval + LLM pipeline and scores retrieval accuracy, keyword coverage, and response time, producing `eval_results.json` (full detail) and `eval_report.md` (summary)
 
 ## Setup
 
@@ -54,6 +54,48 @@ python3 rag_qa.py
 ```
 
 `rag_qa.py` lets you type a plain-language question and returns a written, cited answer. Use `test_retrieval.py` instead if you just want to inspect raw matching chunks without an LLM-generated answer.
+
+## Evaluation
+
+Tested against a hand-built set of 13 questions covering patient-specific
+records, general MedlinePlus condition information, and "trick" questions
+with no answer in the data. Current results:
+
+- Retrieval accuracy: 11/11 patient-specific questions retrieved a chunk
+  from the correct patient's record
+- Keyword coverage: 18/25 expected keywords present in generated answers
+- Average response time: 2.48 seconds per question
+
+See `eval_report.md` for the full per-question breakdown.
+
+### Known limitation: long medication histories can crowd out shorter sections
+
+A handful of patients in this dataset (e.g. those with extended chemotherapy
+or dialysis histories) have Medications sections spanning hundreds of
+entries. Since `chunk_documents.py` splits any section over `MAX_WORDS` into
+multiple overlapping chunks, these patients end up with many Medications
+chunks in the vector store, all legitimately embedding that patient's name
+and matching strongly against medication-related questions.
+
+At the current `TOP_K` (8), this volume can crowd out a patient's much
+shorter, single-chunk Problems section, even when Problems is what actually
+answers the question (e.g. "what condition is this medication treating?").
+The system's retrieval correctly finds the right *patient* in every one of
+these cases, but doesn't always surface the specific *section* with the
+answer, and the LLM correctly declines to guess rather than confabulate a
+diagnosis it wasn't given.
+
+Two straightforward next steps if this were pushed further:
+- Cap the number of chunks retrieved per (patient, section) pair, so no
+  single section can dominate the top-k for a given patient
+- Increase `TOP_K` further, at the cost of higher latency and API cost per
+  question
+
+For this project, the tradeoff was left as a documented limitation rather
+than solved, since it's a genuine and explainable retrieval/ranking
+tradeoff rather than a bug, and the system's correct behavior (refusing to
+guess when the right chunk isn't retrieved) is itself a meaningful result
+of the citation-and-grounding design from Week 3.
 
 ## Disclaimer
 

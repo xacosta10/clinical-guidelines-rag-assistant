@@ -1,0 +1,67 @@
+[
+  {
+    "question": "What medication does Wilfred787 Sporer811 carry for his shellfish allergy, and what other allergy medication is he on?",
+    "expected_patient": "Wilfred787 Sporer811",
+    "expected_keywords": ["Epinephrine", "Astemizole"]
+  },
+  {
+    "question": "What allergies does Quinn173 Moen819 have?",
+    "expected_patient": "Quinn173 Moen819",
+    "expected_keywords": ["bee venom", "dust mite", "eggs"]
+  },
+  {
+    "question": "What condition is Casimira119 Grimes165 being treated for with donepezil (Aricept)?",
+    "expected_patient": "Casimira119 Grimes165",
+    "expected_keywords": ["Alzheimer"]
+  },
+  {
+    "question": "What type of lung cancer was Faustino767 Baumbach677 diagnosed with?",
+    "expected_patient": "Faustino767 Baumbach677",
+    "expected_keywords": ["small cell", "lung"]
+  },
+  {
+    "question": "What chemotherapy drugs did Jeff859 Heller342 receive for his lung cancer treatment?",
+    "expected_patient": "Jeff859 Heller342",
+    "expected_keywords": ["Cisplatin", "Paclitaxel"]
+  },
+  {
+    "question": "Does Nakisha629 Willms744 have a diagnosis of fibromyalgia, and what medication was she prescribed for it?",
+    "expected_patient": "Nakisha629 Willms744",
+    "expected_keywords": ["fibromyalgia", "Savella"]
+  },
+  {
+    "question": "What heart condition was Nakisha629 Willms744 diagnosed with in 2019?",
+    "expected_patient": "Nakisha629 Willms744",
+    "expected_keywords": ["congestive heart failure"]
+  },
+  {
+    "question": "What birth control method is Magdalena964 Koelpin146 currently using?",
+    "expected_patient": "Magdalena964 Koelpin146",
+    "expected_keywords": ["Jolivette"]
+  },
+  {
+    "question": "What kidney-related diagnoses does Theodore876 Leuschke194 have?",
+    "expected_patient": "Theodore876 Leuschke194",
+    "expected_keywords": ["chronic kidney disease", "diabetic renal disease"]
+  },
+  {
+    "question": "What lifestyle changes help manage metabolic syndrome?",
+    "expected_patient": null,
+    "expected_keywords": ["physical activity", "weight", "eating plan"]
+  },
+  {
+    "question": "What are the treatment options for atrial fibrillation (AFib)?",
+    "expected_patient": null,
+    "expected_keywords": ["blood thinner", "cardioversion"]
+  },
+  {
+    "question": "Does Emanuel231 Rutherford999 have a diagnosis of asthma?",
+    "expected_patient": "Emanuel231 Rutherford999",
+    "expected_keywords": ["no information", "not"]
+  },
+  {
+    "question": "Is Ira784 McCullough561 currently taking any medications?",
+    "expected_patient": "Ira784 McCullough561",
+    "expected_keywords": ["no current medications", "none"]
+  }
+]

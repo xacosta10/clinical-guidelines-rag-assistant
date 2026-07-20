@@ -22,7 +22,7 @@ from sentence_transformers import SentenceTransformer
 CHROMA_PATH = "chroma_db"
 COLLECTION_NAME = "clinical_guidelines"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-TOP_K = 5
+TOP_K = 8
 
 # Haiku is Anthropic's fastest, cheapest model. Plenty for this task,
 # since the real work (finding the right information) is already done

@@ -1,0 +1,342 @@
+[
+  {
+    "question": "What medication does Wilfred787 Sporer811 carry for his shellfish allergy, and what other allergy medication is he on?",
+    "expected_patient": "Wilfred787 Sporer811",
+    "expected_keywords": [
+      "Epinephrine",
+      "Astemizole"
+    ],
+    "answer": "Based on the source excerpts provided:\n\nWilfred787 Sporer811 carries an Epinephrine 1 MG/ML Auto-Injector for his shellfish allergy [1][3]. \n\nHowever, the excerpts do not show any other allergy medications that he is currently taking. His medication list includes Astemizole 10 MG Oral Tablet (started 1989-02-16) and Acetaminophen 325 MG Oral Tablet (used briefly in 2011) [3], but there is no documentation indicating these are being used specifically as allergy medications.",
+    "sources": [
+      "Wilfred787 Sporer811 \u2014 Allergies and Adverse Reactions",
+      "Casimira119 Grimes165 \u2014 Medications",
+      "Wilfred787 Sporer811 \u2014 Medications",
+      "Quinn173 Moen819 \u2014 Allergies and Adverse Reactions",
+      "Akiko835 Runte676 \u2014 Medications",
+      "Jeff859 Heller342 \u2014 Medications",
+      "Quinn173 Moen819 \u2014 Medications",
+      "Bertram873 Homenick806 \u2014 Medications"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "Epinephrine",
+      "Astemizole"
+    ],
+    "keywords_missing": [],
+    "latency_seconds": 2.6
+  },
+  {
+    "question": "What allergies does Quinn173 Moen819 have?",
+    "expected_patient": "Quinn173 Moen819",
+    "expected_keywords": [
+      "bee venom",
+      "dust mite",
+      "eggs"
+    ],
+    "answer": "Quinn173 Moen819 has the following allergies [2]:\n\n- Allergy to bee venom\n- Allergy to mould\n- House dust mite allergy\n- Dander (animal) allergy\n- Allergy to grass pollen\n- Allergy to tree pollen\n- Allergy to dairy product\n- Allergy to eggs\n\nAll of these allergies were documented starting on 2017-03-07 [2].",
+    "sources": [
+      "Quinn173 Moen819 \u2014 Problems",
+      "Quinn173 Moen819 \u2014 Allergies and Adverse Reactions",
+      "Quinn173 Moen819 \u2014 Plan of Care",
+      "Pinkie318 Sipes176 \u2014 Allergies",
+      "Xavier983 Quitzon246 \u2014 Allergies",
+      "Akiko835 Runte676 \u2014 Allergies",
+      "Sancho742 Holgu\u00edn308 \u2014 Allergies",
+      "Yuriko393 Jacobs452 \u2014 Allergies"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "bee venom",
+      "dust mite",
+      "eggs"
+    ],
+    "keywords_missing": [],
+    "latency_seconds": 1.39
+  },
+  {
+    "question": "What condition is Casimira119 Grimes165 being treated for with donepezil (Aricept)?",
+    "expected_patient": "Casimira119 Grimes165",
+    "expected_keywords": [
+      "Alzheimer"
+    ],
+    "answer": "The excerpts provided do not contain information about what condition Casimira119 Grimes165 is being treated for with donepezil (Aricept). The medication record shows that donepezil hydrochloride 23 MG [Aricept] was started on 1997-06-08 [1], but there is no diagnosis or clinical indication documented in these excerpts to explain why this medication was prescribed.",
+    "sources": [
+      "Casimira119 Grimes165 \u2014 Medications",
+      "Casimira119 Grimes165 \u2014 Imaging Studies",
+      "Casimira119 Grimes165 \u2014 Vital Signs",
+      "Casimira119 Grimes165 \u2014 Vital Signs",
+      "Casimira119 Grimes165 \u2014 Diagnostic Results",
+      "Casimira119 Grimes165 \u2014 Vital Signs",
+      "Casimira119 Grimes165 \u2014 Vital Signs",
+      "Ute382 Wyman904 \u2014 Diagnostic Results"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [],
+    "keywords_missing": [
+      "Alzheimer"
+    ],
+    "latency_seconds": 4.45
+  },
+  {
+    "question": "What type of lung cancer was Faustino767 Baumbach677 diagnosed with?",
+    "expected_patient": "Faustino767 Baumbach677",
+    "expected_keywords": [
+      "small cell",
+      "lung"
+    ],
+    "answer": "The source excerpts provided do not contain information about what type of lung cancer Faustino767 Baumbach677 was diagnosed with. The excerpts only show that the patient received combined chemotherapy and radiation therapy, hearing examinations, and high resolution computed tomography of the chest, but they do not include a diagnosis or cancer type specification.",
+    "sources": [
+      "Faustino767 Baumbach677 \u2014 Surgeries",
+      "Faustino767 Baumbach677 \u2014 Surgeries",
+      "Faustino767 Baumbach677 \u2014 Surgeries",
+      "Yuriko393 Jacobs452 \u2014 Plan of Care",
+      "Faustino767 Baumbach677 \u2014 Surgeries",
+      "Faustino767 Baumbach677 \u2014 Surgeries",
+      "Wilfred787 Sporer811 \u2014 Plan of Care",
+      "Magdalena964 Koelpin146 \u2014 Plan of Care"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "lung"
+    ],
+    "keywords_missing": [
+      "small cell"
+    ],
+    "latency_seconds": 2.05
+  },
+  {
+    "question": "What chemotherapy drugs did Jeff859 Heller342 receive for his lung cancer treatment?",
+    "expected_patient": "Jeff859 Heller342",
+    "expected_keywords": [
+      "Cisplatin",
+      "Paclitaxel"
+    ],
+    "answer": "The excerpts provided do not contain information about Jeff859 Heller342's diagnosis or confirmation that he has lung cancer. \n\nHowever, the medication records show that Jeff859 Heller342 received the following chemotherapy drugs: [3][6]\n\n- Cisplatin 50 MG Injection [3][6]\n- PACLitaxel 100 MG Injection [3][6]\n- DOCEtaxel 20 MG/ML Injection [6]\n- Leuprolide Acetate 30 MG/ML [6]\n\nI cannot confirm these were specifically for lung cancer treatment based on the available excerpts.",
+    "sources": [
+      "Yuriko393 Jacobs452 \u2014 Plan of Care",
+      "Jeff859 Heller342 \u2014 Surgeries",
+      "Jeff859 Heller342 \u2014 Medications",
+      "Sancho742 Holgu\u00edn308 \u2014 Medications",
+      "Sancho742 Holgu\u00edn308 \u2014 Medications",
+      "Jeff859 Heller342 \u2014 Medications",
+      "Sancho742 Holgu\u00edn308 \u2014 Surgeries",
+      "Sancho742 Holgu\u00edn308 \u2014 Medications"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "Cisplatin",
+      "Paclitaxel"
+    ],
+    "keywords_missing": [],
+    "latency_seconds": 3.07
+  },
+  {
+    "question": "Does Nakisha629 Willms744 have a diagnosis of fibromyalgia, and what medication was she prescribed for it?",
+    "expected_patient": "Nakisha629 Willms744",
+    "expected_keywords": [
+      "fibromyalgia",
+      "Savella"
+    ],
+    "answer": "Yes, Nakisha629 Willms744 has a diagnosis of fibromyalgia. The patient's problems list includes \"Primary fibromyalgia syndrome\" which started on 1987-01-05 [1].\n\nHowever, the provided sources do not contain information about what medication, if any, was prescribed to this patient for fibromyalgia. The sources do not include Nakisha629 Willms744's medication records.",
+    "sources": [
+      "Nakisha629 Willms744 \u2014 Problems",
+      "MedlinePlus \u2014 Fibromyalgia",
+      "MedlinePlus \u2014 Fibromyalgia",
+      "Yuriko393 Jacobs452 \u2014 Medications",
+      "Casimira119 Grimes165 \u2014 Problems",
+      "Yuriko393 Jacobs452 \u2014 Imaging Studies",
+      "Regan713 Metz686 \u2014 Medications",
+      "Gaston250 Ratke343 \u2014 Medications"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "fibromyalgia"
+    ],
+    "keywords_missing": [
+      "Savella"
+    ],
+    "latency_seconds": 2.38
+  },
+  {
+    "question": "What heart condition was Nakisha629 Willms744 diagnosed with in 2019?",
+    "expected_patient": "Nakisha629 Willms744",
+    "expected_keywords": [
+      "congestive heart failure"
+    ],
+    "answer": "According to the medical records, Nakisha629 Willms744 was diagnosed with chronic congestive heart failure in 2019 [2]. A heart failure self management plan was also started for this patient on 2019-08-30 [1].",
+    "sources": [
+      "Nakisha629 Willms744 \u2014 Plan of Care",
+      "Nakisha629 Willms744 \u2014 Problems",
+      "Jeff859 Heller342 \u2014 Problems",
+      "Xavier983 Quitzon246 \u2014 Problems",
+      "Nakisha629 Willms744 \u2014 Vital Signs",
+      "Pinkie318 Sipes176 \u2014 Problems",
+      "Nakisha629 Willms744 \u2014 Vital Signs",
+      "Emanuel231 Rutherford999 \u2014 Problems"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "congestive heart failure"
+    ],
+    "keywords_missing": [],
+    "latency_seconds": 1.41
+  },
+  {
+    "question": "What birth control method is Magdalena964 Koelpin146 currently using?",
+    "expected_patient": "Magdalena964 Koelpin146",
+    "expected_keywords": [
+      "Jolivette"
+    ],
+    "answer": "Based on the medication records provided, Magdalena964 Koelpin146 is currently using Jolivette 28 Day Pack, which started on 2019-06-29 with no stop date listed [8]. Jolivette is an oral contraceptive (\"the pill\") [1].",
+    "sources": [
+      "MedlinePlus \u2014 Birth Control",
+      "MedlinePlus \u2014 Birth Control",
+      "MedlinePlus \u2014 Birth Control",
+      "MedlinePlus \u2014 Birth Control",
+      "MedlinePlus \u2014 Birth Control",
+      "MedlinePlus \u2014 Birth Control",
+      "Olympia319 Cole117 \u2014 Medications",
+      "Magdalena964 Koelpin146 \u2014 Medications"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "Jolivette"
+    ],
+    "keywords_missing": [],
+    "latency_seconds": 1.74
+  },
+  {
+    "question": "What kidney-related diagnoses does Theodore876 Leuschke194 have?",
+    "expected_patient": "Theodore876 Leuschke194",
+    "expected_keywords": [
+      "chronic kidney disease",
+      "diabetic renal disease"
+    ],
+    "answer": "The provided excerpts do not contain information about kidney-related diagnoses for Theodore876 Leuschke194. \n\nWhile the records show extensive documentation of renal dialysis procedures and some kidney function measurements (such as glomerular filtration rate), there is no section that explicitly lists diagnoses. To answer your question about kidney-related diagnoses, I would need access to a diagnoses or problems section of the patient's medical record.",
+    "sources": [
+      "Theodore876 Leuschke194 \u2014 Imaging Studies",
+      "Theodore876 Leuschke194 \u2014 Vital Signs",
+      "Theodore876 Leuschke194 \u2014 Surgeries",
+      "Theodore876 Leuschke194 \u2014 Surgeries",
+      "Theodore876 Leuschke194 \u2014 Surgeries",
+      "Theodore876 Leuschke194 \u2014 Surgeries",
+      "Theodore876 Leuschke194 \u2014 Surgeries",
+      "Theodore876 Leuschke194 \u2014 Surgeries"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [],
+    "keywords_missing": [
+      "chronic kidney disease",
+      "diabetic renal disease"
+    ],
+    "latency_seconds": 2.25
+  },
+  {
+    "question": "What lifestyle changes help manage metabolic syndrome?",
+    "expected_patient": null,
+    "expected_keywords": [
+      "physical activity",
+      "weight",
+      "eating plan"
+    ],
+    "answer": "# Lifestyle Changes for Managing Metabolic Syndrome\n\nThe most important treatment for metabolic syndrome is a heart-healthy lifestyle, which includes: [1]\n\n- **A heart-healthy eating plan**, which limits the amount of saturated and trans fats that you eat. It encourages you to choose a variety of nutritious foods, including fruits, vegetables, whole grains, and lean meats. [1]\n- **Aiming for a healthy weight** [1]\n- **Managing stress** [1]\n- **Getting regular physical activity** [1]\n- **Quitting smoking** (or not starting if you don't already smoke) [1]\n\nThese same lifestyle changes are also the best way to prevent metabolic syndrome. [1]",
+    "sources": [
+      "MedlinePlus \u2014 Metabolic Syndrome",
+      "MedlinePlus \u2014 Metabolic Syndrome",
+      "MedlinePlus \u2014 Obesity",
+      "MedlinePlus \u2014 Hyperglycemia",
+      "MedlinePlus \u2014 Obesity",
+      "MedlinePlus \u2014 Atherosclerosis",
+      "MedlinePlus \u2014 Alzheimer's Disease",
+      "MedlinePlus \u2014 Alzheimer's Disease"
+    ],
+    "retrieval_hit": null,
+    "keywords_found": [
+      "physical activity",
+      "weight",
+      "eating plan"
+    ],
+    "keywords_missing": [],
+    "latency_seconds": 4.03
+  },
+  {
+    "question": "What are the treatment options for atrial fibrillation (AFib)?",
+    "expected_patient": null,
+    "expected_keywords": [
+      "blood thinner",
+      "cardioversion"
+    ],
+    "answer": "# Treatment Options for Atrial Fibrillation (AFib)\n\nThe treatments for AFib may include: [3]\n\n**Medicines:**\n- Blood thinner medicines that help prevent blood clots from forming [3]\n- Medicines to control your heart's rhythm and rate [3]\n\n**Lifestyle Changes:**\n- Following a heart-healthy eating plan that limits saturated fats, salt, and cholesterol (such as the DASH eating plan) [3]\n- Limiting or avoiding alcohol, because it can increase your heart rate [3]\n- Aiming for a healthy weight [3]\n- Getting regular physical activity [3]\n- Managing stress [3]\n- Quitting smoking [3]\n\n**Procedures:**\n- Electrical cardioversion, which restores your heart rhythm using low-energy shocks to your heart [3]\n- Catheter ablation, which scars the tissue that is causing the arrhythmia and blocks the abnormal heart signals [3]\n\n**Surgeries:**\n- Surgery to put in a pacemaker to help control the arrhythmia [3]\n- A Maze procedure, which creates scar tissue in a maze-like pattern in certain parts of the heart [3]\n- Left atrial appendage closure, a surgery on a small sac in the muscle wall of your left atrium that helps prevent blood clots and can reduce your risk of stroke (for people who are not able to take blood thinners) [3]",
+    "sources": [
+      "MedlinePlus \u2014 Atrial Fibrillation",
+      "MedlinePlus \u2014 Atrial Fibrillation",
+      "MedlinePlus \u2014 Atrial Fibrillation",
+      "MedlinePlus \u2014 Heart Failure",
+      "MedlinePlus \u2014 Fibromyalgia",
+      "MedlinePlus \u2014 Pacemakers and Implantable Defibrillators",
+      "MedlinePlus \u2014 Atherosclerosis",
+      "MedlinePlus \u2014 Post-Traumatic Stress Disorder"
+    ],
+    "retrieval_hit": null,
+    "keywords_found": [
+      "blood thinner",
+      "cardioversion"
+    ],
+    "keywords_missing": [],
+    "latency_seconds": 4.26
+  },
+  {
+    "question": "Does Emanuel231 Rutherford999 have a diagnosis of asthma?",
+    "expected_patient": "Emanuel231 Rutherford999",
+    "expected_keywords": [
+      "no information",
+      "not"
+    ],
+    "answer": "Based on the provided excerpts, there is no indication that Emanuel231 Rutherford999 has a diagnosis of asthma. The Problems section for this patient lists chronic sinusitis, diabetes, and anemia [5], but asthma is not mentioned.",
+    "sources": [
+      "Emanuel231 Rutherford999 \u2014 Imaging Studies",
+      "Quinn173 Moen819 \u2014 Problems",
+      "Quinn173 Moen819 \u2014 Plan of Care",
+      "Emanuel231 Rutherford999 \u2014 Allergies",
+      "Emanuel231 Rutherford999 \u2014 Problems",
+      "MedlinePlus \u2014 Asthma",
+      "Casimira119 Grimes165 \u2014 Problems",
+      "Casimira119 Grimes165 \u2014 Medications"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "not"
+    ],
+    "keywords_missing": [
+      "no information"
+    ],
+    "latency_seconds": 1.25
+  },
+  {
+    "question": "Is Ira784 McCullough561 currently taking any medications?",
+    "expected_patient": "Ira784 McCullough561",
+    "expected_keywords": [
+      "no current medications",
+      "none"
+    ],
+    "answer": "No, Ira784 McCullough561 is not currently taking any medications [1]. There are no current medications at the time of the document's creation [1].",
+    "sources": [
+      "Ira784 McCullough561 \u2014 Medications",
+      "Ira784 McCullough561 \u2014 Imaging Studies",
+      "Faustino767 Baumbach677 \u2014 Medications",
+      "Faustino767 Baumbach677 \u2014 Medications",
+      "Faustino767 Baumbach677 \u2014 Medications",
+      "Akiko835 Runte676 \u2014 Medications",
+      "Faustino767 Baumbach677 \u2014 Medications",
+      "Ute382 Wyman904 \u2014 Medications"
+    ],
+    "retrieval_hit": true,
+    "keywords_found": [
+      "no current medications"
+    ],
+    "keywords_missing": [
+      "none"
+    ],
+    "latency_seconds": 1.31
+  }
+]

@@ -13,6 +13,15 @@ Two source types are handled differently:
    '## Section' structure, so they're chunked purely by word count
    with overlap, after pulling out the title/metadata header.
 
+IMPORTANT: for both source types, the patient name (or topic title) is
+prepended directly into the embedded chunk text, not just stored as
+metadata. Embedding models only "see" the text field, so a question like
+"What medication is Jane Doe taking?" can only match strongly against a
+chunk if "Jane Doe" appears in that chunk's actual text -- metadata alone
+doesn't influence the embedding vector. Without this, retrieval tends to
+confuse same-shaped sections across different patients (e.g. one
+patient's Medications chunk looking just as relevant as another's).
+
 Usage:
     python3 chunk_documents.py
 
@@ -101,14 +110,22 @@ def chunk_patient_records(input_dir, chunk_id_start=0):
         for section_title, section_body in sections:
             pieces = split_long_section(section_body)
             for piece in pieces:
+                # Prepend patient name + section title into the embedded
+                # text itself, so the embedding model can actually match
+                # on "which patient" as well as "what medical content."
+                embedded_text = (
+                    f"Patient: {patient_name}\n"
+                    f"Section: {section_title}\n"
+                    f"{piece}"
+                )
                 chunks.append({
                     "chunk_id": chunk_id,
                     "source_type": "patient_record",
                     "patient_name": patient_name,
                     "source_file": filepath.name,
                     "section": section_title,
-                    "text": piece,
-                    "word_count": len(piece.split())
+                    "text": embedded_text,
+                    "word_count": len(embedded_text.split())
                 })
                 chunk_id += 1
 
@@ -181,6 +198,14 @@ def chunk_medline_topics(input_dir, chunk_id_start=0):
 
         pieces = split_long_section(body)
         for piece in pieces:
+            # Prepend the topic title (and matched condition, if present)
+            # into the embedded text, same reasoning as patient records:
+            # it helps a question naming the condition match strongly.
+            header_bits = [f"Topic: {title}"]
+            if condition:
+                header_bits.append(f"Condition: {condition}")
+            embedded_text = "\n".join(header_bits) + f"\n{piece}"
+
             chunks.append({
                 "chunk_id": chunk_id,
                 "source_type": "medline_topic",
@@ -189,8 +214,8 @@ def chunk_medline_topics(input_dir, chunk_id_start=0):
                 "snomed_code": snomed_code,
                 "source_file": filepath.name,
                 "link": link,
-                "text": piece,
-                "word_count": len(piece.split())
+                "text": embedded_text,
+                "word_count": len(embedded_text.split())
             })
             chunk_id += 1
 
